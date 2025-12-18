@@ -1,4 +1,4 @@
-# Parte 12 - LÃ­neas 104901 a 115344
+# Parte 12 - Lineas 104901 a 115344
 # Total en esta parte: 10444 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -28,7 +28,7 @@
 104923|0x0080BE5D|Onii-chan, you're embarrassed.
 104924|0x0080BE95|...Not at all.
 104925|0x0080BEAE|...Not at all.
-104926|0x0080BEE6|But according to my Big Brother Ethogram, whenever you say something~that sounds completely nonsensical it means you're hiding what you~truly think andâ”€
+104926|0x0080BEE6|But according to my Big Brother Ethogram, whenever you say something~that sounds completely nonsensical it means you're hiding what you~truly think and„Ÿ
 104927|0x0080BF8A|But according to my Big Brother~Ethogram, whenever you say~something that sounds~completely nonsensical it means
 104928|0x0080C044|I ripped it to shreds.
 104929|0x0080C065|I ripped it to shreds.
@@ -148,14 +148,14 @@
 105043|0x0080E048|Onii-chan... you want me to put~my clothes on?
 105044|0x0080E090|...Of course I do.
 105045|0x0080E0AD|...Of course I do.
-105046|0x0080E0DB|But according to my Big Brother Ethogram, whenever you get all gruffy~you're actually just hiding your embarrassment and inside your mind~you're fighting with your rapist protagonist instincts andâ”€
+105046|0x0080E0DB|But according to my Big Brother Ethogram, whenever you get all gruffy~you're actually just hiding your embarrassment and inside your mind~you're fighting with your rapist protagonist instincts and„Ÿ
 105047|0x0080E1AC|But according to my Big Brother~Ethogram, whenever you get all~gruffy you're actually just~hiding your embarrassment and
 105048|0x0080E23F|I ripped it to shreds.
 105049|0x0080E260|I ripped it to shreds.
 105050|0x0080E2C8|Oh no! The final copy of my life's work is no more?!
 105051|0x0080E307|Oh no! The final copy of my~life's work is no more?!
-105052|0x0080E34B|I teared up with pride after finally disposing of all eight volumes~â”€ four Big Brother Observation Diaries plus four Big Brother~Ethograms.
-105053|0x0080E3E2|I teared up with pride after~finally disposing of all eight~volumes â”€ four Big Brother~Observation Diaries plus four
+105052|0x0080E34B|I teared up with pride after finally disposing of all eight volumes~„Ÿ four Big Brother Observation Diaries plus four Big Brother~Ethograms.
+105053|0x0080E3E2|I teared up with pride after~finally disposing of all eight~volumes „Ÿ four Big Brother~Observation Diaries plus four
 105054|0x0080E493|N-No way... the very purpose of my life that I'd been crafting with my~own two hands...
 105055|0x0080E4F5|N-No way... the very purpose of~my life that I'd been crafting~with my own two hands...
 105056|0x0080E55C|Chinami wept sorrowfully.
@@ -1104,8 +1104,8 @@
 105999|0x00820ED1|And the fact that we were a~couple now did nothing to~change that either.
 106000|0x00820F2A|I swear, just what happened to that zeal of hers back during summer~break when she was so enthusiastic to make breakfast?
 106001|0x00820FAE|I swear, just what happened to~that zeal of hers back during~summer break when she was so~enthusiastic to make breakfast?
-106002|0x00821037|Once school started again, Chinami proved to be the usual Chinami â”€~my dimwit, good-for-nothing little sister.
-106003|0x008210B1|Once school started again,~Chinami proved to be the usual~Chinami â”€ my dimwit,~good-for-nothing little sister.
+106002|0x00821037|Once school started again, Chinami proved to be the usual Chinami „Ÿ~my dimwit, good-for-nothing little sister.
+106003|0x008210B1|Once school started again,~Chinami proved to be the usual~Chinami „Ÿ my dimwit,~good-for-nothing little sister.
 106004|0x00821130|It was the first day after the long summer break, so I would have~liked to see her turn over a new leaf, but perhaps that dream was~never coming true.
 106005|0x008211D1|It was the first day after the~long summer break, so I would~have liked to see her turn over~a new leaf, but perhaps that
 106006|0x00821260|Leaving behind a sigh, I stepped outside.
@@ -1910,12 +1910,12 @@
 106805|0x0082DA5A|Ah...! Haah... That's just~unfair...
 106806|0x0082DA98|So what did you want to say?
 106807|0x0082DABF|So what did you want to say?
-106808|0x0082DAF5|Ahhh... I totally, haâ”€
-106809|0x0082DB17|Ahhh... I totally, haâ”€
+106808|0x0082DAF5|Ahhh... I totally, ha„Ÿ
+106809|0x0082DB17|Ahhh... I totally, ha„Ÿ
 106810|0x0082DB3E|Her pussy contracted.
 106811|0x0082DB5E|Her pussy contracted.
-106812|0x0082DBBC|S-Since you did that... I, totally, haâ”€
-106813|0x0082DBEF|S-Since you did that... I,~totally, haâ”€
+106812|0x0082DBBC|S-Since you did that... I, totally, ha„Ÿ
+106813|0x0082DBEF|S-Since you did that... I,~totally, ha„Ÿ
 106814|0x0082DC27|Then, her eyes dampening, she said...
 106815|0x0082DC57|Then, her eyes dampening, she~said...
 106816|0x0082DC96|Love... you...
@@ -2292,8 +2292,8 @@
 107187|0x00833905|Asuho looked at me over her~shoulder.
 107188|0x00833946|It's all right... Keep moving...
 107189|0x00833971|It's all right... Keep~moving...
-107190|0x008339AB|...Okay. I know I'm repeating myself, but ifâ”€
-107191|0x008339E4|...Okay. I know I'm repeating~myself, but ifâ”€
+107190|0x008339AB|...Okay. I know I'm repeating myself, but if„Ÿ
+107191|0x008339E4|...Okay. I know I'm repeating~myself, but if„Ÿ
 107192|0x00833A2E|I absolutely won't tell you to stop...
 107193|0x00833A5F|I absolutely won't tell you to~stop...
 107194|0x00833A95|She was so strong that I could hardly take it. Her strength really~shocked me.
@@ -4520,8 +4520,8 @@
 109415|0x00854F4E|They were already sticking out,~hard and firm.
 109416|0x00854F96|See, your nipples are getting hard.
 109417|0x00854FC4|See, your nipples are getting~hard.
-109418|0x00855003|N-No...! Don't say thâ”€ Mhh!!
-109419|0x0085502B|N-No...! Don't say thâ”€ Mhh!!
+109418|0x00855003|N-No...! Don't say th„Ÿ Mhh!!
+109419|0x0085502B|N-No...! Don't say th„Ÿ Mhh!!
 109420|0x00855058|I pinched and rolled them. Each time I did, Hisakaki moaned again.
 109421|0x008550A5|I pinched and rolled them. Each~time I did, Hisakaki moaned~again.
 109422|0x00855103|No! Mhh, don't, my nipples, it's too much... Ahh... Ahh!
@@ -5298,8 +5298,8 @@
 110193|0x00860ECB|No, I'm not... haaan! S-So stop~licking me in, ah, strange~spots...! Aaaanh!!
 110194|0x00860F32|You're so cute, Kosame-san.
 110195|0x00860F58|You're so cute, Kosame-san.
-110196|0x00860F8F|Mhh, fuh...! Y-You're getting, carried aâ”€ Ahh, hff!
-110197|0x00860FCE|Mhh, fuh...! Y-You're getting,~carried aâ”€ Ahh, hff!
+110196|0x00860F8F|Mhh, fuh...! Y-You're getting, carried a„Ÿ Ahh, hff!
+110197|0x00860FCE|Mhh, fuh...! Y-You're getting,~carried a„Ÿ Ahh, hff!
 110198|0x0086101C|Oh, so your ears are your weak spot.
 110199|0x0086104B|Oh, so your ears are your weak~spot.
 110200|0x0086108B|Hyah, ahh...! D-Don't lick my ear...!!
@@ -7574,8 +7574,8 @@
 112469|0x00882A5A|I mean... it's been broken from~the start anyway...
 112470|0x00882AA7|Well, I reckon Chinami decided to fix it 'cause she thought she broke~it.
 112471|0x00882AFB|Well, I reckon Chinami decided~to fix it 'cause she thought~she broke it.
-112472|0x00882B6E|...But thenâ”€
-112473|0x00882B86|...But thenâ”€
+112472|0x00882B6E|...But then„Ÿ
+112473|0x00882B86|...But then„Ÿ
 112474|0x00882BAD|Even if it wasn't her fault, she would've wanted to fix it. That's~because to her, you're a friend.
 112475|0x00882C1B|Even if it wasn't her fault,~she would've wanted to fix it.~That's because to her, you're a~friend.
 112476|0x00882CA8|......
@@ -8802,8 +8802,8 @@
 113697|0x0089436E|Ah, ah... mh, ah, aaah... fuah,~ah...!
 113698|0x008943A4|Little by little, the pace picked up.
 113699|0x008943D4|Little by little, the pace~picked up.
-113700|0x00894420|Mh, aaah...! O-Onii-chaâ”€ Aaahh! Ah, aaan! Onii-chan...!!
-113701|0x00894464|Mh, aaah...! O-Onii-chaâ”€~Aaahh! Ah, aaan! Onii-chan...!!
+113700|0x00894420|Mh, aaah...! O-Onii-cha„Ÿ Aaahh! Ah, aaan! Onii-chan...!!
+113701|0x00894464|Mh, aaah...! O-Onii-cha„Ÿ~Aaahh! Ah, aaan! Onii-chan...!!
 113702|0x008944AD|Once the fire was lit, my body's thrusting piston engine couldn't be~stopped.
 113703|0x00894505|Once the fire was lit, my~body's thrusting piston engine~couldn't be stopped.
 113704|0x00894562|The fire in me flared hotter each time my hips crashed forward into~her.
@@ -9050,8 +9050,8 @@
 113945|0x00898666|Experience... Well, yeah, no~way in hell you would. Clearly.
 113946|0x008986B2|If she said she had experience, I might have gone crazy.
 113947|0x008986F5|If she said she had experience,~I might have gone crazy.
-113948|0x00898754|Actually Iâ”€ Oh my god! What's with that expression?! It's literally~like Satan incarnate!!
-113949|0x008987BA|Actually Iâ”€ Oh my god! What's~with that expression?! It's~literally like Satan~incarnate!!
+113948|0x00898754|Actually I„Ÿ Oh my god! What's with that expression?! It's literally~like Satan incarnate!!
+113949|0x008987BA|Actually I„Ÿ Oh my god! What's~with that expression?! It's~literally like Satan~incarnate!!
 113950|0x0089882F|...Go on. What were you saying?
 113951|0x00898859|...Go on. What were you saying?
 113952|0x0089889F|W-Well... I practiced by licking a popsicle before going to bed last~night.
@@ -9068,8 +9068,8 @@
 113963|0x00898C48|(...Yeah, doesn't that kind of~put me in a really, REALLY~precarious situation right~now?)
 113964|0x00898CC9|Onii-chan... I'll start then.
 113965|0x00898CF1|Onii-chan... I'll start then.
-113966|0x00898D28|Waiâ”€ Hold on...!
-113967|0x00898D44|Waiâ”€ Hold on...!
+113966|0x00898D28|Wai„Ÿ Hold on...!
+113967|0x00898D44|Wai„Ÿ Hold on...!
 113968|0x00898D8F|*CHOMP*
 113969|0x00898DA1|*CHOMP*
 113970|0x00898DCE|AGGHHHHH!!

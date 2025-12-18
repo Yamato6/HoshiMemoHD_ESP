@@ -296,7 +296,7 @@ def hcb_decode(hcb_path: str, output_path: str, strings_path: Optional[str] = No
     
     # Write output
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(output_path, 'w', encoding='utf-8') as f:
+    with open(output_path, 'w', encoding='cp932') as f:
         f.write('\n'.join(lines))
     
     print(f"  Output: {output_path}")
@@ -305,7 +305,7 @@ def hcb_decode(hcb_path: str, output_path: str, strings_path: Optional[str] = No
     # Write strings file if requested
     if strings_path:
         strings_path = Path(strings_path)
-        with open(strings_path, 'w', encoding='utf-8') as f:
+        with open(strings_path, 'w', encoding='cp932') as f:
             for sid, addr, text in strings_list:
                 # Format: ID|ADDRESS|TEXT (one per line)
                 escaped = text.replace('\\', '\\\\').replace('\n', '\\n').replace('\r', '\\r')
@@ -334,7 +334,7 @@ def hcb_rebuild(original_hcb: str, strings_path: str, output_hcb: str):
     
     # Read replacement strings
     replacements: Dict[int, str] = {}  # addr -> new_string
-    with open(strings_path, 'r', encoding='utf-8') as f:
+    with open(strings_path, 'r', encoding='cp932') as f:
         for line_num, line in enumerate(f, 1):
             line = line.rstrip('\n\r')
             if not line or line.startswith('#'):
@@ -533,7 +533,7 @@ def hcb_extract_strings(hcb_path: str, output_path: str):
     
     # Write strings file
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(output_path, 'w', encoding='utf-8') as f:
+    with open(output_path, 'w', encoding='cp932') as f:
         for sid, addr, text in strings_list:
             escaped = text.replace('\\', '\\\\').replace('\n', '\\n').replace('\r', '\\r')
             f.write(f"{sid:04d}|0x{addr:08X}|{escaped}\n")
@@ -560,7 +560,7 @@ def hcb_split_strings(strings_path: str):
     strings_path = Path(strings_path)
     base_dir = strings_path.parent
     
-    with open(strings_path, 'r', encoding='utf-8') as f:
+    with open(strings_path, 'r', encoding='cp932') as f:
         content = f.read()
     
     # Find all parts
@@ -588,7 +588,7 @@ def hcb_split_strings(strings_path: str):
         # Clean up content - remove leading/trailing whitespace per line
         lines = [line.strip() for line in part_content.strip().split('\n') if line.strip()]
         
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file, 'w', encoding='cp932') as f:
             f.write(f"# Part: {name}\n")
             f.write('\n'.join(lines))
             f.write('\n')
@@ -618,7 +618,7 @@ def hcb_merge_strings(build_script_path: str, output_path: str):
     output_path = Path(output_path)
     base_dir = build_script_path.parent
     
-    with open(build_script_path, 'r', encoding='utf-8') as f:
+    with open(build_script_path, 'r', encoding='cp932') as f:
         content = f.read()
     
     # Find files to merge
@@ -649,7 +649,7 @@ def hcb_merge_strings(build_script_path: str, output_path: str):
             print(f"  [WARN] File not found: {filename}")
             continue
         
-        with open(file_path, 'r', encoding='utf-8') as f:
+        with open(file_path, 'r', encoding='cp932') as f:
             for line in f:
                 line = line.strip()
                 if line and not line.startswith('#'):
@@ -659,7 +659,7 @@ def hcb_merge_strings(build_script_path: str, output_path: str):
     
     # Write output
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(output_path, 'w', encoding='utf-8') as f:
+    with open(output_path, 'w', encoding='cp932') as f:
         f.write(f"# Merged from {len(files_to_merge)} files\n")
         f.write('\n'.join(all_strings))
         f.write('\n')
@@ -945,7 +945,7 @@ def batch_decode(input_folder: str, output_folder: str):
             except Exception as e:
                 print(f"[ERROR] {f.name}: {e}")
 
-    log_path.write_text('\n'.join(log_entries), encoding='utf-8')
+    log_path.write_text('\n'.join(log_entries), encoding='cp932')
     print(f"\n[OK] Log saved: {log_path}")
 
 
@@ -958,7 +958,7 @@ def batch_encode(input_folder: str, output_folder: str, log_path: str):
 
     # Parse log
     log_map = {}
-    for line in log_path.read_text(encoding='utf-8').splitlines():
+    for line in log_path.read_text(encoding='cp932').splitlines():
         parts = line.split()
         if len(parts) >= 4:
             png_name = parts[0]

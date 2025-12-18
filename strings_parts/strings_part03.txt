@@ -1,4 +1,4 @@
-# Parte 3 - L√≠neas 14901 a 24900
+# Parte 3 - Lineas 14901 a 24900
 # Total en esta parte: 10000 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -4366,18 +4366,18 @@
 19261|0x001CBA85|Like the girl from the lookout~said, I am no model student.
 19262|0x001CBB07|Nee-san, let's leave it at here for today. You're bothering both~Kogasaka-kun and Asuho-san.
 19263|0x001CBB6E|Nee-san, let's leave it at here~for today. You're bothering~both Kogasaka-kun and~Asuho-san.
-19264|0x001CBBF4|Why would Kogasaka-kun be bothered by me? As for Minahoshi-san, I~couldn't care less if she is bothered by me‚îÄ
+19264|0x001CBBF4|Why would Kogasaka-kun be bothered by me? As for Minahoshi-san, I~couldn't care less if she is bothered by meÑü
 19265|0x001CBC6E|Why would Kogasaka-kun be~bothered by me? As for~Minahoshi-san, I couldn't care~less if she is bothered by
 19266|0x001CBD46|Nee-san.
 19267|0x001CBD59|Nee-san.
 19268|0x001CBDA0|Oh, I just can't stand to see you like this any longer...
 19269|0x001CBDE4|Oh, I just can't stand to see~you like this any longer...
-19270|0x001CBE39|H-Hey, sto‚îÄ
-19271|0x001CBE50|H-Hey, sto‚îÄ
+19270|0x001CBE39|H-Hey, stoÑü
+19271|0x001CBE50|H-Hey, stoÑü
 19272|0x001CBE78|Come now, Nee-san. Please show me that smile of yours...
 19273|0x001CBEBB|Come now, Nee-san. Please show~me that smile of yours...
-19274|0x001CBF1A|H-How do you expect me to smile with, what you're do‚îÄ
-19275|0x001CBF5B|H-How do you expect me to smile~with, what you're do‚îÄ
+19274|0x001CBF1A|H-How do you expect me to smile with, what you're doÑü
+19275|0x001CBF5B|H-How do you expect me to smile~with, what you're doÑü
 19276|0x001CBFAD|Then please show me a very flustered expression instead... I want you~to light my passion ablaze...
 19277|0x001CC01B|Then please show me a very~flustered expression instead...~I want you to light my passion~ablaze...
 19278|0x001CC0A5|N-No! Don't... touch my...!
@@ -5120,7 +5120,7 @@
 20015|0x001D903B|Apparently it was meant to help~her do occult club activities.
 20016|0x001D9093|You'd better say thank you to Asuka, all right?
 20017|0x001D90CD|You'd better say thank you to~Asuka, all right?
-20018|0x001D9131|Yep! I absolutely will! After all now with this camera I can prey on~you in your sleep take unbecoming pics of you and use those to~blackmail you into becoming my manslave‚îÄ
+20018|0x001D9131|Yep! I absolutely will! After all now with this camera I can prey on~you in your sleep take unbecoming pics of you and use those to~blackmail you into becoming my manslaveÑü
 20019|0x001D91E9|Yep! I absolutely will! After~all now with this camera I can~prey on you in your sleep take~unbecoming pics of you and use
 20020|0x001D92DA|I knocked the camera out of her hands and stepped on it.
 20021|0x001D931D|I knocked the camera out of her~hands and stepped on it.
@@ -6448,8 +6448,8 @@
 21343|0x001F24D6|I gotta at least try to help if~I can.
 21344|0x001F250C|She marched on while grabbing my arm. Essentially she was clinging to~me.
 21345|0x001F2560|She marched on while grabbing~my arm. Essentially she was~clinging to me.
-21346|0x001F25B9|I had be extra careful not to bump the contents of the carrying case~‚îÄ the telescope's tube ‚îÄ against any trees.
-21347|0x001F2636|I had be extra careful not to~bump the contents of the~carrying case ‚îÄ the~telescope's tube ‚îÄ against
+21346|0x001F25B9|I had be extra careful not to bump the contents of the carrying case~Ñü the telescope's tube Ñü against any trees.
+21347|0x001F2636|I had be extra careful not to~bump the contents of the~carrying case Ñü the~telescope's tube Ñü against
 21348|0x001F26AD|According to Asuho, strong impact causes the optical axis to lose its~alignment, and readjusting it is something no one wants to do. I got~the gist of her explanation anyway.
 21349|0x001F2766|According to Asuho, strong~impact causes the optical axis~to lose its alignment, and~readjusting it is something no
 21350|0x001F27E9|Anyhow, I desperately kept the telescope out of harm's way.
@@ -6934,8 +6934,8 @@
 21829|0x001FC555|Right-o... U-Um, no, what are~you saying? Of course not,~silly!
 21830|0x001FC5AE|Did you pull an all-nighter again?
 21831|0x001FC5DB|Did you pull an all-nighter~again?
-21832|0x001FC627|Yeah, I di‚îÄ U-Um, no, naturally, pulling all-nighter two days in a~row just because I'm excited about stargazing would be a little too~much for even me to handle!
-21833|0x001FC6D5|Yeah, I di‚îÄ U-Um, no,~naturally, pulling all-nighter~two days in a row just because~I'm excited about stargazing
+21832|0x001FC627|Yeah, I diÑü U-Um, no, naturally, pulling all-nighter two days in a~row just because I'm excited about stargazing would be a little too~much for even me to handle!
+21833|0x001FC6D5|Yeah, I diÑü U-Um, no,~naturally, pulling all-nighter~two days in a row just because~I'm excited about stargazing
 21834|0x001FC772|That made me sigh, but I tried not to be too obvious about it.
 21835|0x001FC7BB|That made me sigh, but I tried~not to be too obvious about it.
 21836|0x001FC809|(Is she pushing herself this hard because she's desperate to get me on~here as a part-timer?)
@@ -7300,7 +7300,7 @@
 22195|0x00204110|If we allow outsiders to join~our clubs, what makes them any~different from public clubs of~the town? If you're that
 22196|0x00204194|There wasn't a single thing I could say against that. I was so sure I~could at least make her propose it, too.
 22197|0x0020420D|There wasn't a single thing I~could say against that. I was~so sure I could at least make~her propose it, too.
-22198|0x002042A5|If we're clear, then stop letting yourself be dragged around by~Minahoshi-san all the time, and focus those outstanding talents of~yours towards some other‚îÄ
+22198|0x002042A5|If we're clear, then stop letting yourself be dragged around by~Minahoshi-san all the time, and focus those outstanding talents of~yours towards some otherÑü
 22199|0x0020434D|If we're clear, then stop~letting yourself be dragged~around by Minahoshi-san all the~time, and focus those
 22200|0x00204415|Nee-san.
 22201|0x00204428|Nee-san.
@@ -7340,8 +7340,8 @@
 22235|0x00204E82|Y-Yeah?
 22236|0x00204EB3|Erase what you just witnessed from your memory entirely. Actually, no,~erase that as well as all the other prior instances.
 22237|0x00204F39|Erase what you just witnessed~from your memory entirely.~Actually, no, erase that as~well as all the other prior
-22238|0x00204FC3|That's asking for a little‚îÄ
-22239|0x00204FEA|That's asking for a little‚îÄ
+22238|0x00204FC3|That's asking for a littleÑü
+22239|0x00204FEA|That's asking for a littleÑü
 22240|0x00205030|Do it!
 22241|0x00205041|Do it!
 22242|0x00205057|I agreed right away because I knew that otherwise I would receive some~shock therapy to fix my behavior.
@@ -7396,8 +7396,8 @@
 22291|0x00205F8B|With that, I suppose we'll be~leaving now. We'll see you at~school on Tuesday.
 22292|0x00206003|I'm repeating myself here, but don't expect that proposal to go~anywhere, all right?
 22293|0x00206062|I'm repeating myself here, but~don't expect that proposal to~go anywhere, all right?
-22294|0x002060FA|No one expects you to achieve anything any‚îÄ Mghhh.
-22295|0x00206138|No one expects you to achieve~anything any‚îÄ Mghhh.
+22294|0x002060FA|No one expects you to achieve anything anyÑü Mghhh.
+22295|0x00206138|No one expects you to achieve~anything anyÑü Mghhh.
 22296|0x002061E4|It would only work against our favor to sour Hisakaki's mood, so I~covered Asuho's mouth.
 22297|0x00206248|It would only work against our~favor to sour Hisakaki's mood,~so I covered Asuho's mouth.
 22298|0x00206303|Our whole club is relying on you.
@@ -7426,7 +7426,7 @@
 22321|0x00206980|...Right. It's for our club's~sake.
 22322|0x002069BD|Y-Yeah.
 22323|0x002069CF|Y-Yeah.
-22324|0x00206A06|Once finals are over with, we've got summer break. The deadline's the~day of the closing ceremony, so, the 23rd. More than enough time to~find another memberÔΩû!
+22324|0x00206A06|Once finals are over with, we've got summer break. The deadline's the~day of the closing ceremony, so, the 23rd. More than enough time to~find another memberÅ`!
 22325|0x00206AB1|Once finals are over with,~we've got summer break. The~deadline's the day of the~closing ceremony, so, the 23rd.
 22326|0x00206B31|Asuho said so cheerfully with a smile on her face, making a wave of~relief wash over me.
 22327|0x00206B94|Asuho said so cheerfully with a~smile on her face, making a~wave of relief wash over me.
@@ -8100,8 +8100,8 @@
 22995|0x002139D5|In Aoi-san's case, it is~flat-out denial.
 22996|0x00213A0E|Much like I did in the past.
 22997|0x00213A35|Much like I did in the past.
-22998|0x00213ABB|On that day, it was a national holiday ‚îÄ Marine Day.
-22999|0x00213AFB|On that day, it was a national~holiday ‚îÄ Marine Day.
+22998|0x00213ABB|On that day, it was a national holiday Ñü Marine Day.
+22999|0x00213AFB|On that day, it was a national~holiday Ñü Marine Day.
 23000|0x00213B45|By noon, the air was hot and humid. I actually wanted to go to the~beach, just like the name Marine Day suggests.
 23001|0x00213BC1|By noon, the air was hot and~humid. I actually wanted to go~to the beach, just like the~name Marine Day suggests.
 23002|0x00213C42|Of course, since I had to work at the Milky Way, that idea swiftly~fell flat.
@@ -8490,7 +8490,7 @@
 23385|0x0021BC8E|You got 0%.
 23386|0x0021BCC3|Phew, I'm finally done!
 23387|0x0021BCE5|Phew, I'm finally done!
-23388|0x0021BD16|Oh no you aren't. You're scraping the borderline of pass-fail in ALL~subjects, so you should at least focus what time you have left on the~subjects that don't involve memorization since they don't require~much‚îÄ
+23388|0x0021BD16|Oh no you aren't. You're scraping the borderline of pass-fail in ALL~subjects, so you should at least focus what time you have left on the~subjects that don't involve memorization since they don't require~muchÑü
 23389|0x0021BDF4|Oh no you aren't. You're~scraping the borderline of~pass-fail in ALL subjects, so~you should at least focus what
 23390|0x0021BEAA|Looks like You-chan doesn't need dinner. Shall we get going,~Chinami-chan?
 23391|0x0021BEFF|Looks like You-chan doesn't~need dinner. Shall we get~going, Chinami-chan?
@@ -8784,8 +8784,8 @@
 23679|0x002210DB|I wanna do it. Can I, pretty~please?
 23680|0x0022110F|Mare's face flushed bright red as she squared her shoulders.
 23681|0x00221156|Mare's face flushed bright red~as she squared her shoulders.
-23682|0x002211BA|O-Of course you c‚îÄ
-23683|0x002211D8|O-Of course you c‚îÄ
+23682|0x002211BA|O-Of course you cÑü
+23683|0x002211D8|O-Of course you cÑü
 23684|0x0022121E|I stretched out my hand.
 23685|0x00221241|I stretched out my hand.
 23686|0x00221282|Mare's body twitched in surprise, then she closed her eyes shut~firmly.
@@ -9002,8 +9002,8 @@
 23897|0x0022501E|It's such a beautiful, romantic~spot up there, so tarnishing~something that pure with your~occult stuff is just... Ugh...
 23898|0x002250C1|Oh, I get it. You just wanna be all alone with Kogasaka.
 23899|0x00225104|Oh, I get it. You just wanna be~all alone with Kogasaka.
-23900|0x00225170|Wha‚îÄ?! N-No, why would you think that?!
-23901|0x002251A3|Wha‚îÄ?! N-No, why would you~think that?!
+23900|0x00225170|WhaÑü?! N-No, why would you think that?!
+23901|0x002251A3|WhaÑü?! N-No, why would you~think that?!
 23902|0x00225219|...Are you planning to go there again tonight?
 23903|0x00225252|...Are you planning to go there~again tonight?
 23904|0x0022529A|Do you want to, Asuho? Your call.
@@ -9262,8 +9262,8 @@
 24157|0x0022A79D|Guess you're just not the type~that's open with their true~feelings.
 24158|0x0022A80B|Think before you spout crap like that.
 24159|0x0022A83C|Think before you spout crap~like that.
-24160|0x0022A87C|Which means that when Kosame-san forces herself upon you, inside your~heart, you actually also enjoy‚îÄ
-24161|0x0022A8ED|Which means that when~Kosame-san forces herself upon~you, inside your heart, you~actually also enjoy‚îÄ
+24160|0x0022A87C|Which means that when Kosame-san forces herself upon you, inside your~heart, you actually also enjoyÑü
+24161|0x0022A8ED|Which means that when~Kosame-san forces herself upon~you, inside your heart, you~actually also enjoyÑü
 24162|0x0022A9AF|*BAM*
 24163|0x0022A9BF|*BAM*
 24164|0x0022A9EE|I told you to erase that from your memory!

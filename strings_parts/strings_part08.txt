@@ -1,4 +1,4 @@
-# Parte 8 - L√≠neas 64901 a 74900
+# Parte 8 - Lineas 64901 a 74900
 # Total en esta parte: 10000 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -1870,8 +1870,8 @@
 66765|0x00540B78|To find out if You really loved~this Yume.
 66766|0x00540BB2|While she didn't find a clear answer to that, Asuho had come to~personally believe it as a fact by now.
 66767|0x00540C24|While she didn't find a clear~answer to that, Asuho had come~to personally believe it as a~fact by now.
-66768|0x00540C9B|Whenever she looked at his wish card, she realizes that You's feelings~towards Yume were the same as hers towards him ‚îÄ love.
-66769|0x00540D24|Whenever she looked at his wish~card, she realizes that You's~feelings towards Yume were the~same as hers towards him ‚îÄ
+66768|0x00540C9B|Whenever she looked at his wish card, she realizes that You's feelings~towards Yume were the same as hers towards him Ñü love.
+66769|0x00540D24|Whenever she looked at his wish~card, she realizes that You's~feelings towards Yume were the~same as hers towards him Ñü
 66770|0x00540DFF|If You-chan is really waiting on the rooftop...
 66771|0x00540E39|If You-chan is really waiting~on the rooftop...
 66772|0x00540E78|Then she had to return the wish card.
@@ -1914,8 +1914,8 @@
 66809|0x00541711|(I'm sorry.)
 66810|0x0054172D|(Sorry, my first love...)
 66811|0x00541751|(Sorry, my first love...)
-66812|0x005417D6|‚îÄThe rooftop door opened.
-66813|0x005417FB|‚îÄThe rooftop door opened.
+66812|0x005417D6|ÑüThe rooftop door opened.
+66813|0x005417FB|ÑüThe rooftop door opened.
 66814|0x0054184F|I removed my hands from the rooftop fence.
 66815|0x00541884|I removed my hands from the~rooftop fence.
 66816|0x005418BE|I removed my eyes from the evening sky that had started to grow dark,~turning them back towards the rooftop.
@@ -2118,10 +2118,10 @@
 67013|0x00544B8B|That's...
 67014|0x00544BC4|That's because I...
 67015|0x00544BE2|That's because I...
-67016|0x00544C0B|Because I didn't want to forget you‚îÄ
-67017|0x00544C3B|Because I didn't want to forget~you‚îÄ
-67018|0x00544CE5|‚îÄMare.
-67019|0x00544CF7|‚îÄMare.
+67016|0x00544C0B|Because I didn't want to forget youÑü
+67017|0x00544C3B|Because I didn't want to forget~youÑü
+67018|0x00544CE5|ÑüMare.
+67019|0x00544CF7|ÑüMare.
 67020|0x00544D97|Mare appeared behind Asuho, swinging her scythe straight through~Asuho's chest.
 67021|0x00544DF1|Mare appeared behind Asuho,~swinging her scythe straight~through Asuho's chest.
 67022|0x00544E73|The wish card in Asuho's hands turned to dust.
@@ -2224,8 +2224,8 @@
 67119|0x0054645B|Asuho, I love you.
 67120|0x00546487|Please go out with me.
 67121|0x005464A8|Please go out with me.
-67122|0x005464D8|Please be my girlfriend‚îÄ
-67123|0x005464FC|Please be my girlfriend‚îÄ
+67122|0x005464D8|Please be my girlfriendÑü
+67123|0x005464FC|Please be my girlfriendÑü
 67124|0x0054653B|I wrapped my arms around her shoulders.
 67125|0x0054656D|I wrapped my arms around her~shoulders.
 67126|0x005465A4|And pulled her into my arms.
@@ -3276,8 +3276,8 @@
 68171|0x0055AB42|Wait a moment. I'll ask~Souichirou-san.
 68172|0x0055ABBF|Which meant that he came too.
 68173|0x0055ABE7|Which meant that he came too.
-68174|0x0055AC1A|He stood a bit away from us, gazing at the photos accompanied by the~myths other than fall ‚îÄ those of spring, summer and winter.
-68175|0x0055ACA6|He stood a bit away from us,~gazing at the photos~accompanied by the myths other~than fall ‚îÄ those of spring,
+68174|0x0055AC1A|He stood a bit away from us, gazing at the photos accompanied by the~myths other than fall Ñü those of spring, summer and winter.
+68175|0x0055ACA6|He stood a bit away from us,~gazing at the photos~accompanied by the myths other~than fall Ñü those of spring,
 68176|0x0055AD24|Asuho, Kosame-san, and Okaizumi-senpai were in charge of those photos.
 68177|0x0055AD75|Asuho, Kosame-san, and~Okaizumi-senpai were in charge~of those photos.
 68178|0x0055ADCB|Various photos they had each taken before the rest of us joined the~club.
@@ -4652,8 +4652,8 @@
 69547|0x005749B4|We're having the school~festival next month... huh?
 69548|0x00574A11|It sounds more natural if you refer to it as the Hibari Festival.
 69549|0x00574A5D|It sounds more natural if you~refer to it as the Hibari~Festival.
-69550|0x00574AAE|The topic of discussion at the meeting was the approaching school~festival next month ‚îÄ the Hibari Festival.
-69551|0x00574B26|The topic of discussion at the~meeting was the approaching~school festival next month ‚îÄ~the Hibari Festival.
+69550|0x00574AAE|The topic of discussion at the meeting was the approaching school~festival next month Ñü the Hibari Festival.
+69551|0x00574B26|The topic of discussion at the~meeting was the approaching~school festival next month Ñü~the Hibari Festival.
 69552|0x00574BA3|While we still had a whole month until then, it seemed that the~Student Council started tackling preparations sooner than normal~students.
 69553|0x00574C38|While we still had a whole~month until then, it seemed~that the Student Council~started tackling preparations
 69554|0x00574CB5|Today, they were checking the event programs for the festivals of past~years, while discussing what improvements could be made.
@@ -4914,7 +4914,7 @@
 69809|0x0057970B|The two of us left my house.
 69810|0x0057976E|Pretty cold out around this time of night, huh?
 69811|0x005797A8|Pretty cold out around this~time of night, huh?
-69812|0x00579819|Yep, we're already in September, after all. Besides, I think the~temperature falls quicker here in Hibarigasaki compared to„ÄÄbigger~cities.
+69812|0x00579819|Yep, we're already in September, after all. Besides, I think the~temperature falls quicker here in Hibarigasaki compared toÅ@bigger~cities.
 69813|0x005798AF|Yep, we're already in~September, after all. Besides,~I think the temperature falls~quicker here in Hibarigasaki
 69814|0x00579938|Better make sure I get my fall clothes ready.
 69815|0x00579970|Better make sure I get my fall~clothes ready.
@@ -5574,8 +5574,8 @@
 70469|0x0058567C|Kosame-san winked at me, and~then she turned toward~Hisakaki.
 70470|0x005856F8|Would you please be so kind as to back down for now...?
 70471|0x0058573A|Would you please be so kind as~to back down for now...?
-70472|0x0058578D|Wh-Wha‚îÄ! In the classroom?!
-70473|0x005857B4|Wh-Wha‚îÄ! In the classroom?!
+70472|0x0058578D|Wh-WhaÑü! In the classroom?!
+70473|0x005857B4|Wh-WhaÑü! In the classroom?!
 70474|0x005857EC|Oh, but I just cannot bear to see you and Asuho-san fighting...
 70475|0x00585836|Oh, but I just cannot bear to~see you and Asuho-san~fighting...
 70476|0x00585891|W-Wait! They're looking! Everyone's staring at us...!
@@ -5616,8 +5616,8 @@
 70511|0x0058635C|Oh-ho! Sexy pics of Hisakaki,~score. All according to plan,~Kogasaka, my brother!
 70512|0x005863C7|Don't act like I'm in on your stupid creeper stuff!
 70513|0x00586405|Don't act like I'm in on your~stupid creeper stuff!
-70514|0x00586462|If I sell these at Hibari Festival, our Occult Club expenses will be~all but‚îÄ
-70515|0x005864BB|If I sell these at Hibari~Festival, our Occult Club~expenses will be all but‚îÄ
+70514|0x00586462|If I sell these at Hibari Festival, our Occult Club expenses will be~all butÑü
+70515|0x005864BB|If I sell these at Hibari~Festival, our Occult Club~expenses will be all butÑü
 70516|0x0058659B|Hisakaki knocked Asuka's camera out of his hands and crushed it under~her foot.
 70517|0x005865F5|Hisakaki knocked Asuka's camera~out of his hands and crushed it~under her foot.
 70518|0x0058669F|BUDDYYYYYYYYYYYYYYYYYYYYY!!!!!!!!!
@@ -6408,8 +6408,8 @@
 71303|0x00594E35|Would you care to give me a~little treat as thanks?
 71304|0x00594E9D|What kind of treat? Actually, no. Don't answer that. Some things are~better left unsaid!
 71305|0x00594F00|What kind of treat? Actually,~no. Don't answer that. Some~things are better left unsaid!
-71306|0x00594F82|Those sensual, bittersweet moans you‚îÄ
-71307|0x00594FB3|Those sensual, bittersweet~moans you‚îÄ
+71306|0x00594F82|Those sensual, bittersweet moans youÑü
+71307|0x00594FB3|Those sensual, bittersweet~moans youÑü
 71308|0x00595003|I just told you not to say it!
 71309|0x0059502C|I just told you not to say it!
 71310|0x00595063|Hisakaki backed away from Kosame-san at full speed as she tried to~draw near her.
@@ -7340,8 +7340,8 @@
 72235|0x005A5655|So you leave me no choice but~to do this.
 72236|0x005A56C7|Not giving her the time to throw any objections my way, I quickly~lifted her up in my arms.
 72237|0x005A572D|Not giving her the time to~throw any objections my way, I~quickly lifted her up in my~arms.
-72238|0x005A57C3|Wha‚îÄ?
-72239|0x005A57D4|Wha‚îÄ?
+72238|0x005A57C3|WhaÑü?
+72239|0x005A57D4|WhaÑü?
 72240|0x005A57EA|Hisakaki blinked repeatedly in shock.
 72241|0x005A581A|Hisakaki blinked repeatedly in~shock.
 72242|0x005A584F|Her long eyelashes whipped at the air.
@@ -7592,8 +7592,8 @@
 72487|0x005A8748|Haa...!
 72488|0x005A8764|Hisakaki Komomo jolted upright in bed.
 72489|0x005A8795|Hisakaki Komomo jolted upright~in bed.
-72490|0x005A87EE|It appeared again tonight ‚îÄ that dream in which she falls amidst a~sunset background.
-72491|0x005A884F|It appeared again tonight ‚îÄ~that dream in which she falls~amidst a sunset background.
+72490|0x005A87EE|It appeared again tonight Ñü that dream in which she falls amidst a~sunset background.
+72491|0x005A884F|It appeared again tonight Ñü~that dream in which she falls~amidst a sunset background.
 72492|0x005A88B5|She's aware of what awaits her once she reaches ground, painfully so,~yet she can never do anything to change that outcome.
 72493|0x005A893B|She's aware of what awaits her~once she reaches ground,~painfully so, yet she can never~do anything to change that
 72494|0x005A89BD|No matter how strong her will not to fall is.
@@ -7806,16 +7806,16 @@
 72701|0x005AC9CB|Well, I was just glad I didn't~get kicked.
 72702|0x005ACA11|All right, go fill yourself a bucket full of water.
 72703|0x005ACA4F|All right, go fill yourself a~bucket full of water.
-72704|0x005ACA9C|Umm, before that I wanted to talk about the‚îÄ
-72705|0x005ACAD4|Umm, before that I wanted to~talk about the‚îÄ
+72704|0x005ACA9C|Umm, before that I wanted to talk about theÑü
+72705|0x005ACAD4|Umm, before that I wanted to~talk about theÑü
 72706|0x005ACB6B|*BAM*
 72707|0x005ACB7C|*BAM*
 72708|0x005ACB9C|Ugh... So you were planning to kick me?!
 72709|0x005ACBCF|Ugh... So you were planning to~kick me?!
 72710|0x005ACC13|What is that supposed to mean?
 72711|0x005ACC3C|What is that supposed to mean?
-72712|0x005ACC74|Whatever, just forget it. So, yeah, like I was saying‚îÄ
-72713|0x005ACCB6|Whatever, just forget it. So,~yeah, like I was saying‚îÄ
+72712|0x005ACC74|Whatever, just forget it. So, yeah, like I was sayingÑü
+72713|0x005ACCB6|Whatever, just forget it. So,~yeah, like I was sayingÑü
 72714|0x005ACD2C|*BAM*
 72715|0x005ACD3D|*BAM*
 72716|0x005ACD5F|Don't say anything about that!!
@@ -7968,8 +7968,8 @@
 72863|0x005AF2D9|Well, just know that if I ever~spot you in pain again, I'm~taking you to Mare even if you~say no.
 72864|0x005AF356|Do that and you'll earn yourself a swift kick to the face.
 72865|0x005AF39B|Do that and you'll earn~yourself a swift kick to the~face.
-72866|0x005AF3EF|Before you can, I'll lift you up and take you in my ar‚îÄ
-72867|0x005AF432|Before you can, I'll lift you~up and take you in my ar‚îÄ
+72866|0x005AF3EF|Before you can, I'll lift you up and take you in my arÑü
+72867|0x005AF432|Before you can, I'll lift you~up and take you in my arÑü
 72868|0x005AF4D4|*BAM*
 72869|0x005AF4E5|*BAM*
 72870|0x005AF507|I-I-I-I-I-I'll kick you if you dare!
@@ -8422,8 +8422,8 @@
 73317|0x005B7B3C|If I ever think that you are at~some point, then I'm taking you~to Mare.
 73318|0x005B7BA0|No, you aren't.
 73319|0x005B7BBA|No, you aren't.
-73320|0x005B7C00|Protest all you want, but I'll just lift you up and take you in my~ar‚îÄ
-73321|0x005B7C52|Protest all you want, but I'll~just lift you up and take you~in my ar‚îÄ
+73320|0x005B7C00|Protest all you want, but I'll just lift you up and take you in my~arÑü
+73321|0x005B7C52|Protest all you want, but I'll~just lift you up and take you~in my arÑü
 73322|0x005B7CEE|*BAM*
 73323|0x005B7CFF|*BAM*
 73324|0x005B7D54|N-N-N-No one ever said a word about wanting another one of those,~okay?!
@@ -8478,15 +8478,15 @@
 73373|0x005B8B6E|Take care of your health.
 73374|0x005B8BA3|...This isn't the kind of thing I can just prevent with a little bit~of effort.
 73375|0x005B8BFD|...This isn't the kind of thing~I can just prevent with a~little bit of effort.
-73376|0x005B8C66|Then let's‚îÄ
-73377|0x005B8C7D|Then let's‚îÄ
+73376|0x005B8C66|Then let'sÑü
+73377|0x005B8C7D|Then let'sÑü
 73378|0x005B8CB0|No.
 73379|0x005B8CBE|No.
 73380|0x005B8CDB|...You answered so fast, it's like you don't even care.
 73381|0x005B8D1D|...You answered so fast, it's~like you don't even care.
 73382|0x005B8D70|That's because you're making me answer the same question over and~over.
 73383|0x005B8DC2|That's because you're making me~answer the same question over~and over.
-73384|0x005B8E23|Well, even if you don't want to ask Mare for help, if I you ever look~like you're in serious pain to me, I'll just lift you up and take you~in my ar‚îÄ
+73384|0x005B8E23|Well, even if you don't want to ask Mare for help, if I you ever look~like you're in serious pain to me, I'll just lift you up and take you~in my arÑü
 73385|0x005B8EC4|Well, even if you don't want to~ask Mare for help, if I you~ever look like you're in~serious pain to me, I'll just
 73386|0x005B8FA6|*BAM*
 73387|0x005B8FB7|*BAM*
@@ -8506,8 +8506,8 @@
 73401|0x005B9372|Asuho had shown up.
 73402|0x005B93C0|Wow, Komomo-chan is doing shrine maiden work.
 73403|0x005B93F8|Wow, Komomo-chan is doing~shrine maiden work.
-73404|0x005B946D|Wha‚îÄ! What is Minahoshi-san doing here now?!
-73405|0x005B94A5|Wha‚îÄ! What is Minahoshi-san~doing here now?!
+73404|0x005B946D|WhaÑü! What is Minahoshi-san doing here now?!
+73405|0x005B94A5|WhaÑü! What is Minahoshi-san~doing here now?!
 73406|0x005B94EC|We did tell you we were meeting up here.
 73407|0x005B951F|We did tell you we were meeting~up here.
 73408|0x005B9571|But it isn't the appointed time yet!
@@ -8752,7 +8752,7 @@
 73647|0x005BEFD3|All right, so where did we~leave off again?
 73648|0x005BF044|I think we made it to around the time Nee-san had entered grade~school.
 73649|0x005BF096|I think we made it to around~the time Nee-san had entered~grade school.
-73650|0x005BF107|Oh right. So here's one you'll like, guys. Back when Komomo was a~first grader, she got a love letter from a boy in the 6th grade. Oh,~her reaction back then was just so pure and innocent, it was the best.~Like‚îÄ
+73650|0x005BF107|Oh right. So here's one you'll like, guys. Back when Komomo was a~first grader, she got a love letter from a boy in the 6th grade. Oh,~her reaction back then was just so pure and innocent, it was the best.~LikeÑü
 73651|0x005BF1E6|Oh right. So here's one you'll~like, guys. Back when Komomo~was a first grader, she got a~love letter from a boy in the
 73652|0x005BF2AD|You haven't said a single word of this stuff before!!
 73653|0x005BF2ED|You haven't said a single word~of this stuff before!!
@@ -8888,8 +8888,8 @@
 73783|0x005C2A11|We call this ritual, similar in~nature to oracles and~spiritualism, the Astral Spirit~Ritual.
 73784|0x005C2AB5|...Astral Spirit?
 73785|0x005C2AD1|...Astral Spirit?
-73786|0x005C2AFE|Spirits that lie in the astral realm ‚îÄ the realm of the stars.
-73787|0x005C2B48|Spirits that lie in the astral~realm ‚îÄ the realm of the~stars.
+73786|0x005C2AFE|Spirits that lie in the astral realm Ñü the realm of the stars.
+73787|0x005C2B48|Spirits that lie in the astral~realm Ñü the realm of the~stars.
 73788|0x005C2BB1|Is there a difference from just normal spirits?
 73789|0x005C2BEB|Is there a difference from just~normal spirits?
 73790|0x005C2C6A|...It certainly sounds confusing to me.
@@ -9268,8 +9268,8 @@
 74163|0x005CA468|You're mistaken... I can't be~there for you...
 74164|0x005CA4B2|It's impossible...
 74165|0x005CA4CF|It's impossible...
-74166|0x005CA4FD|You and I, we can't‚îÄ
-74167|0x005CA51D|You and I, we can't‚îÄ
+74166|0x005CA4FD|You and I, we can'tÑü
+74167|0x005CA51D|You and I, we can'tÑü
 74168|0x005CA5B8|...Haah!
 74169|0x005CA5CB|...Haah!
 74170|0x005CA5F2|Hisakaki Komomo jolted up in bed.
@@ -9748,8 +9748,8 @@
 74643|0x005D209D|That nightmare again?
 74644|0x005D20CE|That's not...
 74645|0x005D20E6|That's not...
-74646|0x005D2113|You'd do yourself a favor by not hiding it. I have this trump card~called the bridal carry at my dis‚îÄ
-74647|0x005D2184|You'd do yourself a favor by~not hiding it. I have this~trump card called the bridal~carry at my dis‚îÄ
+74646|0x005D2113|You'd do yourself a favor by not hiding it. I have this trump card~called the bridal carry at my disÑü
+74647|0x005D2184|You'd do yourself a favor by~not hiding it. I have this~trump card called the bridal~carry at my disÑü
 74648|0x005D2258|*BAM*
 74649|0x005D2269|*BAM*
 74650|0x005D228B|D-D-D-D-Do that and I'll kick you, you hear me?!
@@ -9820,8 +9820,8 @@
 74715|0x005D3566|The place I fall towards is one~that has a lot of vegetation.
 74716|0x005D35BF|I fall, and then I die.
 74717|0x005D35E1|I fall, and then I die.
-74718|0x005D3614|Then there's also the fact that Mare-san said she's met me in the~past‚îÄ
-74719|0x005D3667|Then there's also the fact that~Mare-san said she's met me in~the past‚îÄ
+74718|0x005D3614|Then there's also the fact that Mare-san said she's met me in the~pastÑü
+74719|0x005D3667|Then there's also the fact that~Mare-san said she's met me in~the pastÑü
 74720|0x005D3732|I've met one of you in the past. It was the day I reaped a nightmare~for the first time, so I could never forget it.
 74721|0x005D37B1|I've met one of you in the~past. It was the day I reaped a~nightmare for the first time,~so I could never forget it.
 74722|0x005D384D|I reaped the nightmare of either you or your sister when you were~kids.
@@ -9968,8 +9968,8 @@
 74863|0x005D612D|...Don't get any funny ideas.
 74864|0x005D6166|I just didn't want to waste any more time.
 74865|0x005D619B|I just didn't want to waste any~more time.
-74866|0x005D61DF|Opting for an indirect kiss just because you don't wanna waste time~buying chopsticks is kinda‚îÄ
-74867|0x005D624A|Opting for an indirect kiss~just because you don't wanna~waste time buying chopsticks is~kinda‚îÄ
+74866|0x005D61DF|Opting for an indirect kiss just because you don't wanna waste time~buying chopsticks is kindaÑü
+74867|0x005D624A|Opting for an indirect kiss~just because you don't wanna~waste time buying chopsticks is~kindaÑü
 74868|0x005D6318|*BAM*
 74869|0x005D6329|*BAM*
 74870|0x005D6396|I-I-I-I literally just told you not to get any funny ideas!!

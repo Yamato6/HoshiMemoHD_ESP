@@ -1,4 +1,4 @@
-# Parte 6 - LÃ­neas 44901 a 54900
+# Parte 6 - Lineas 44901 a 54900
 # Total en esta parte: 10000 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -182,8 +182,8 @@
 45077|0x003BE791|......
 45078|0x003BE7C1|Did everything go all right?
 45079|0x003BE7E8|Did everything go all right?
-45080|0x003BE847|...Nee-san, if you go pryingâ”€
-45081|0x003BE870|...Nee-san, if you go pryingâ”€
+45080|0x003BE847|...Nee-san, if you go prying„Ÿ
+45081|0x003BE870|...Nee-san, if you go prying„Ÿ
 45082|0x003BE8B8|It's bad manners. Yeah, I already know. It's not like I mean to drag~it out of him if he doesn't want to tell us.
 45083|0x003BE934|It's bad manners. Yeah, I~already know. It's not like I~mean to drag it out of him if~he doesn't want to tell us.
 45084|0x003BE9CF|But I don't see what's so bad about giving him someone to talk to.
@@ -302,8 +302,8 @@
 45197|0x003C07A6|......
 45198|0x003C07C6|......
 45199|0x003C07D7|......
-45200|0x003C0805|...Gâ”€
-45201|0x003C0816|...Gâ”€
+45200|0x003C0805|...G„Ÿ
+45201|0x003C0816|...G„Ÿ
 45202|0x003C082C|Mare's face boiled over in an instant.
 45203|0x003C085D|Mare's face boiled over in an~instant.
 45204|0x003C08DD|Get off!!
@@ -1550,8 +1550,8 @@
 46445|0x003D7048|What year and month did you~first come?
 46446|0x003D7094|Of course I'm not gonna remember something that far back.
 46447|0x003D70D8|Of course I'm not gonna~remember something that far~back.
-46448|0x003D712B|Okay, just suppose the two of us were to start datâ”€
-46449|0x003D716A|Okay, just suppose the two of~us were to start datâ”€
+46448|0x003D712B|Okay, just suppose the two of us were to start dat„Ÿ
+46449|0x003D716A|Okay, just suppose the two of~us were to start dat„Ÿ
 46450|0x003D720F|*CLONK*
 46451|0x003D7221|*CLONK*
 46452|0x003D728E|What the hell?!
@@ -2514,8 +2514,8 @@
 47409|0x003E8E49|And are you on your way to the~club room?
 47410|0x003E8E9C|Yep. I fetched this from the faculty room, so now I'm taking it back~to the club room.
 47411|0x003E8EFD|Yep. I fetched this from the~faculty room, so now I'm taking~it back to the club room.
-47412|0x003E8F63|The thing in his hands was the Astro Club's symbol â”€ the~kaleidoscope music box.
-47413|0x003E8FBF|The thing in his hands was the~Astro Club's symbol â”€ the~kaleidoscope music box.
+47412|0x003E8F63|The thing in his hands was the Astro Club's symbol „Ÿ the~kaleidoscope music box.
+47413|0x003E8FBF|The thing in his hands was the~Astro Club's symbol „Ÿ the~kaleidoscope music box.
 47414|0x003E9047|Oh, is it fixed again?
 47415|0x003E9068|Oh, is it fixed again?
 47416|0x003E909A|Thankfully enough, it is.
@@ -2916,8 +2916,8 @@
 47811|0x003F0811|I wanted to cling to that~minuscule, almost non-existent~possibility, so I sent my wish~up to the sky.
 47812|0x003F0887|I sent that wish up to the night sky ? or maybe it was evening at the~time.
 47813|0x003F08DD|I sent that wish up to the~night sky ? or maybe it was~evening at the time.
-47814|0x003F0938|Regardless, on that day, I wished upon it â”€ the first star to~appear.
-47815|0x003F0989|Regardless, on that day, I~wished upon it â”€ the first~star to appear.
+47814|0x003F0938|Regardless, on that day, I wished upon it „Ÿ the first star to~appear.
+47815|0x003F0989|Regardless, on that day, I~wished upon it „Ÿ the first~star to appear.
 47816|0x003F09DF|As that shooting star streaked across the sky for what felt like an~eternity, I prayed to it.
 47817|0x003F0A47|As that shooting star streaked~across the sky for what felt~like an eternity, I prayed to~it.
 47818|0x003F0B06|...Mare.
@@ -2986,8 +2986,8 @@
 47881|0x003F1A7C|Did you behave yourself while I~was out? Sit and wait patiently~like a good boy?
 47882|0x003F1AE6|...You act like I'm ten or something.
 47883|0x003F1B16|...You act like I'm ten or~something.
-47884|0x003F1B4B|In the past and in the present day, she had a habit of treating me~this way â”€ thinking of herself as the big sister and me as the~little brother.
-47885|0x003F1BE8|In the past and in the present~day, she had a habit of~treating me this way â”€~thinking of herself as the big
+47884|0x003F1B4B|In the past and in the present day, she had a habit of treating me~this way „Ÿ thinking of herself as the big sister and me as the~little brother.
+47885|0x003F1BE8|In the past and in the present~day, she had a habit of~treating me this way „Ÿ~thinking of herself as the big
 47886|0x003F1C65|Though, she is older than me, so I have no right to complain about~that.
 47887|0x003F1CB8|Though, she is older than me,~so I have no right to complain~about that.
 47888|0x003F1D3D|So, did you?
@@ -3918,8 +3918,8 @@
 48813|0x00405B55|I always found her doing that~when I came here.
 48814|0x00405B94|Maybe after I left, she went back to doing that until her tutor~arrived.
 48815|0x00405BE7|Maybe after I left, she went~back to doing that until her~tutor arrived.
-48816|0x00405C3F|The waves breaking and receding â”€ an endless repetition.
-48817|0x00405C83|The waves breaking and receding~â”€ an endless repetition.
+48816|0x00405C3F|The waves breaking and receding „Ÿ an endless repetition.
+48817|0x00405C83|The waves breaking and receding~„Ÿ an endless repetition.
 48818|0x00405CCC|A daily cycle never ending.
 48819|0x00405CF2|A daily cycle never ending.
 48820|0x00405D1D|It seems like she felt a sense of envy when she looked out at that~sight.
@@ -3996,8 +3996,8 @@
 48891|0x0040710A|...!
 48892|0x0040711E|She gasped when she found herself enfolded inside my arms.
 48893|0x00407163|She gasped when she found~herself enfolded inside my~arms.
-48894|0x004071B9|Whaâ”€ Huh...?!
-48895|0x004071D2|Whaâ”€ Huh...?!
+48894|0x004071B9|Wha„Ÿ Huh...?!
+48895|0x004071D2|Wha„Ÿ Huh...?!
 48896|0x004071F0|Her shoulders were slender, her body delicate.
 48897|0x00407229|Her shoulders were slender, her~body delicate.
 48898|0x00407267|Her very life, in my arms, felt far too small.
@@ -4814,8 +4814,8 @@
 49709|0x00414367|That was it, without a doubt.
 49710|0x00414394|That was the reason why my past self loved her so much.
 49711|0x004143D6|That was the reason why my past~self loved her so much.
-49712|0x0041441D|I had loved her â”€ Yume.
-49713|0x00414440|I had loved her â”€ Yume.
+49712|0x0041441D|I had loved her „Ÿ Yume.
+49713|0x00414440|I had loved her „Ÿ Yume.
 49714|0x00414468|Before I'd even known it, I was an honest and docile boy around her.
 49715|0x004144B7|Before I'd even known it, I was~an honest and docile boy around~her.
 49716|0x0041450B|I showed her the side of me I only ever showed to my family.
@@ -5144,8 +5144,8 @@
 50039|0x00418F03|She did it so lightly, it made~me think she was as light as a~feather.
 50040|0x00418F59|She leaned her tiny body towards me and whispered.
 50041|0x00418F96|She leaned her tiny body~towards me and whispered.
-50042|0x00418FF8|Normally shinigami actually don't do things like thisâ”€
-50043|0x0041903A|Normally shinigami actually~don't do things like thisâ”€
+50042|0x00418FF8|Normally shinigami actually don't do things like this„Ÿ
+50043|0x0041903A|Normally shinigami actually~don't do things like this„Ÿ
 50044|0x0041909E|I felt a sensation on my forehead.
 50045|0x004190CB|I felt a sensation on my~forehead.
 50046|0x004190FD|She lightly brought her lips toward my forehead and kissed me.
@@ -5496,8 +5496,8 @@
 50391|0x0041F3C3|What did I do to deserve~that...?!
 50392|0x0041F40D|Don't ask me.
 50393|0x0041F425|Don't ask me.
-50394|0x0041F44C|I was sure I'd get a kiâ”€
-50395|0x0041F470|I was sure I'd get a kiâ”€
+50394|0x0041F44C|I was sure I'd get a ki„Ÿ
+50395|0x0041F470|I was sure I'd get a ki„Ÿ
 50396|0x0041F4E9|*CLONK*
 50397|0x0041F4FC|*CLONK*
 50398|0x0041F51E|...Nah, that would never come my way. Nope, not in a million years.
@@ -6454,8 +6454,8 @@
 51349|0x00430649|If words won't do, then let~actions speak for themselves.~Looks like we're gonna have to~do THAT, it seems.
 51350|0x004306FA|You're absolutely right. It's our only option.
 51351|0x00430733|You're absolutely right. It's~our only option.
-51352|0x004307B1|...The very fearsome idea we came up with â”€ THAT?
-51353|0x004307EE|...The very fearsome idea we~came up with â”€ THAT?
+51352|0x004307B1|...The very fearsome idea we came up with „Ÿ THAT?
+51353|0x004307EE|...The very fearsome idea we~came up with „Ÿ THAT?
 51354|0x00430866|Yes, it would appear the time has come to remove the seal on THAT.
 51355|0x004308B3|Yes, it would appear the time~has come to remove the seal on~THAT.
 51356|0x0043090F|What the heck is THAT...?
@@ -8608,7 +8608,7 @@
 53503|0x00459BDA|Oh, so you haven't told them?
 53504|0x00459C11|You know I can't just tell them about something like that...
 53505|0x00459C58|You know I can't just tell them~about something like that...
-53506|0x00459CC5|If it's hard for you to say, I'll step up and do it for you, don't~worry. See, everyone, last night our little You-kun here cried like~aâ”€
+53506|0x00459CC5|If it's hard for you to say, I'll step up and do it for you, don't~worry. See, everyone, last night our little You-kun here cried like~a„Ÿ
 53507|0x00459D5A|If it's hard for you to say,~I'll step up and do it for you,~don't worry. See, everyone,~last night our little You-kun
 53508|0x00459E32|STOOOOOOP!!!!
 53509|0x00459E4B|STOOOOOOP!!!!
@@ -8630,8 +8630,8 @@
 53525|0x0045A403|You can cling onto my bosom,~too, okay?
 53526|0x0045A46F|Cling to it?
 53527|0x0045A486|Cling to it?
-53528|0x0045A4E3|You can even freely bury your face in myâ”€
-53529|0x0045A518|You can even freely bury your~face in myâ”€
+53528|0x0045A4E3|You can even freely bury your face in my„Ÿ
+53529|0x0045A518|You can even freely bury your~face in my„Ÿ
 53530|0x0045A55C|Why do you keep emphasizing your bosom?!
 53531|0x0045A58F|Why do you keep emphasizing~your bosom?!
 53532|0x0045A5C7|Kosame-san drew near me and whispered into my ear.
@@ -8652,7 +8652,7 @@
 53547|0x0045AA6B|...Then what did you do?
 53548|0x0045AA9D|Just some stargazing.
 53549|0x0045AABD|Just some stargazing.
-53550|0x0045AB28|He's right, there was nothing bad about it. All You-kun did was use my~bosom, cling to it, and bury his face in it as he cried likeâ”€
+53550|0x0045AB28|He's right, there was nothing bad about it. All You-kun did was use my~bosom, cling to it, and bury his face in it as he cried like„Ÿ
 53551|0x0045ABB8|He's right, there was nothing~bad about it. All You-kun did~was use my bosom, cling to it,~and bury his face in it as he
 53552|0x0045AC92|Why do you need to go into such detail?!
 53553|0x0045ACC5|Why do you need to go into such~detail?!
@@ -9016,8 +9016,8 @@
 53911|0x00460AE5|I want to... give you more...
 53912|0x00460B12|Eventually, I came to fully grasp the situation.
 53913|0x00460B4D|Eventually, I came to fully~grasp the situation.
-53914|0x00460B97|Whaâ”€
-53915|0x00460BA7|Whaâ”€
+53914|0x00460B97|Wha„Ÿ
+53915|0x00460BA7|Wha„Ÿ
 53916|0x00460BC6|......
 53917|0x00460BD7|......
 53918|0x00460BF7|What are you...
@@ -9458,8 +9458,8 @@
 54353|0x004680A4|So I'll leave you with these~final words:
 54354|0x004680EA|Even after all I've been through, I still love the stars.
 54355|0x0046812F|Even after all I've been~through, I still love the~stars.
-54356|0x00468185|I love Hibarigasaki's starry sky, the sky I gazed up at together with~you, more than anythingâ”€
-54357|0x004681F0|I love Hibarigasaki's starry~sky, the sky I gazed up at~together with you, more than~anythingâ”€
+54356|0x00468185|I love Hibarigasaki's starry sky, the sky I gazed up at together with~you, more than anything„Ÿ
+54357|0x004681F0|I love Hibarigasaki's starry~sky, the sky I gazed up at~together with you, more than~anything„Ÿ
 54358|0x0046828E|I clenched the letter and sprinted to Yume's room.
 54359|0x004682CB|I clenched the letter and~sprinted to Yume's room.
 54360|0x0046830D|When I reached the door, I was devastated.
@@ -9974,8 +9974,8 @@
 54869|0x00470621|Not even God himself.
 54870|0x00470652|An existence is permanent.
 54871|0x00470677|An existence is permanent.
-54872|0x004706AD|That's an absolute rule that even transcends past, present and future~â”€ the very concept of time.
-54873|0x0047071A|That's an absolute rule that~even transcends past, present~and future â”€ the very concept~of time.
+54872|0x004706AD|That's an absolute rule that even transcends past, present and future~„Ÿ the very concept of time.
+54873|0x0047071A|That's an absolute rule that~even transcends past, present~and future „Ÿ the very concept~of time.
 54874|0x00470798|It's a law that presides over all information from any dimension.
 54875|0x004707E4|It's a law that presides over~all information from any~dimension.
 54876|0x00470841|An eternal, absolute truth even more precious than the eternal starry~sky.

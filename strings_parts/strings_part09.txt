@@ -1,4 +1,4 @@
-# Parte 9 - LÃ­neas 74901 a 84900
+# Parte 9 - Lineas 74901 a 84900
 # Total en esta parte: 10000 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -50,8 +50,8 @@
 74945|0x005D7A2C|......
 74946|0x005D7A4C|Could you please tell me if you know anything?
 74947|0x005D7A85|Could you please tell me if you~know anything?
-74948|0x005D7ADD|...It's not polite to prâ”€
-74949|0x005D7B02|...It's not polite to prâ”€
+74948|0x005D7ADD|...It's not polite to pr„Ÿ
+74949|0x005D7B02|...It's not polite to pr„Ÿ
 74950|0x005D7B36|It's not polite, so you're gonna hide it from me?
 74951|0x005D7B72|It's not polite, so you're~gonna hide it from me?
 74952|0x005D7BCD|Please understand, it's not something I hide out of my own desire to.~It's something that, even if I do tell you, as you are right now, you~won't be able to comprehend it.
@@ -334,8 +334,8 @@
 75229|0x005DE190|Sorry about this. I know how~much you can't stand the~lookout.
 75230|0x005DE1F8|You'd better be sorry. This time spare me all the pointless chit-chat.~I don't want to stay there forever.
 75231|0x005DE26D|You'd better be sorry. This~time spare me all the pointless~chit-chat. I don't want to stay~there forever.
-75232|0x005DE316|Even if it does come to that, I'll take responsibility and take you in~my arâ”€
-75233|0x005DE36F|Even if it does come to that,~I'll take responsibility and~take you in my arâ”€
+75232|0x005DE316|Even if it does come to that, I'll take responsibility and take you in~my ar„Ÿ
+75233|0x005DE36F|Even if it does come to that,~I'll take responsibility and~take you in my ar„Ÿ
 75234|0x005DE426|*BAM*
 75235|0x005DE437|*BAM*
 75236|0x005DE472|Why would you go out of your way to bring that up?!
@@ -378,8 +378,8 @@
 75273|0x005DEEAB|Thanks.
 75274|0x005DEEDC|...Hmph.
 75275|0x005DEEEF|...Hmph.
-75276|0x005DEF11|As thanks, I'llâ”€
-75277|0x005DEF2D|As thanks, I'llâ”€
+75276|0x005DEF11|As thanks, I'll„Ÿ
+75277|0x005DEF2D|As thanks, I'll„Ÿ
 75278|0x005DEFC1|*BAM*
 75279|0x005DEFD2|*BAM*
 75280|0x005DF002|I-I-I-I-I-I don't need you to give me a bridal carry!!
@@ -670,16 +670,16 @@
 75565|0x005E43C2|Can you walk?
 75566|0x005E43F9|I can walk by myself.
 75567|0x005E4419|I can walk by myself.
-75568|0x005E4448|If you can't, I'llâ”€
-75569|0x005E4467|If you can't, I'llâ”€
+75568|0x005E4448|If you can't, I'll„Ÿ
+75569|0x005E4467|If you can't, I'll„Ÿ
 75570|0x005E44D1|*BAM*
 75571|0x005E44E2|*BAM*
 75572|0x005E4508|Ugh...! What the hell! I hadn't said anything that'd warrant a kick~yet!
 75573|0x005E455B|Ugh...! What the hell! I hadn't~said anything that'd warrant a~kick yet!
 75574|0x005E45EA|Sh-Shut up! We both know you were just about to say!
 75575|0x005E4629|Sh-Shut up! We both know you~were just about to say!
-75576|0x005E4677|I wasn't gonna say I'd give you a bridalâ”€
-75577|0x005E46AC|I wasn't gonna say I'd give you~a bridalâ”€
+75576|0x005E4677|I wasn't gonna say I'd give you a bridal„Ÿ
+75577|0x005E46AC|I wasn't gonna say I'd give you~a bridal„Ÿ
 75578|0x005E4715|*BAM*
 75579|0x005E4726|*BAM*
 75580|0x005E4748|I-I-I-I-I-I'll never forgive you if you do that, are we clear?!
@@ -962,8 +962,8 @@
 75857|0x005EA390|(I had an accident and died at~the lookout.)
 75858|0x005EA3D8|Someone... please, someone...!
 75859|0x005EA401|Someone... please, someone...!
-75860|0x005EA459|Save me, Kogasaka-kunâ”€
-75861|0x005EA47B|Save me, Kogasaka-kunâ”€
+75860|0x005EA459|Save me, Kogasaka-kun„Ÿ
+75861|0x005EA47B|Save me, Kogasaka-kun„Ÿ
 75862|0x005EA55B|Alrighty! It's finally that time! Time for your long long awaited~lunch break!
 75863|0x005EA5B4|Alrighty! It's finally that~time! Time for your long long~awaited lunch break!
 75864|0x005EA61C|You should be talking to yourself there.
@@ -1614,8 +1614,8 @@
 76509|0x005F69AF|You're the last person I want~to hear that from.
 76510|0x005F6A1D|I'm sure Kosame has already told you, but that thing is nothing but a~hallucination.
 76511|0x005F6A7C|I'm sure Kosame has already~told you, but that thing is~nothing but a hallucination.
-76512|0x005F6AFA|Although it is a hallucination, it isn't a product of the human mind.~It's a hallucination of something else â”€ an illusory dream.
-76513|0x005F6B87|Although it is a hallucination,~it isn't a product of the human~mind. It's a hallucination of~something else â”€ an illusory
+76512|0x005F6AFA|Although it is a hallucination, it isn't a product of the human mind.~It's a hallucination of something else „Ÿ an illusory dream.
+76513|0x005F6B87|Although it is a hallucination,~it isn't a product of the human~mind. It's a hallucination of~something else „Ÿ an illusory
 76514|0x005F6C2C|Because something else is dreaming of it, we end up seeing it, too.
 76515|0x005F6C7A|Because something else is~dreaming of it, we end up~seeing it, too.
 76516|0x005F6CD9|Since that something is an existence that encompasses all of us~humans, we can see that thing in our reality, without any need to be~inside a dream.
@@ -1772,8 +1772,8 @@
 76667|0x005F94B0|Yeah. All I wanted was to make~sure you were doing all right~anyway.
 76668|0x005F9522|I stood up.
 76669|0x005F9538|I stood up.
-76670|0x005F959F|Waiâ”€!
-76671|0x005F95B0|Waiâ”€!
+76670|0x005F959F|Wai„Ÿ!
+76671|0x005F95B0|Wai„Ÿ!
 76672|0x005F95C6|Hisakaki also stood up.
 76673|0x005F95E8|Hisakaki also stood up.
 76674|0x005F961B|K-Kogasaka-kun...
@@ -2374,8 +2374,8 @@
 77269|0x0060465D|Don't put such a vulgar spin on~it, geez!
 77270|0x006046B0|Maybe he's already stolen the chastity of your lips.
 77271|0x006046EF|Maybe he's already stolen the~chastity of your lips.
-77272|0x0060474D|Whaâ”€!
-77273|0x0060475E|Whaâ”€!
+77272|0x0060474D|Wha„Ÿ!
+77273|0x0060475E|Wha„Ÿ!
 77274|0x0060478E|Oh, goodness, I almost forgot. You already had your first kiss with~me.
 77275|0x006047E0|Oh, goodness, I almost forgot.~You already had your first kiss~with me.
 77276|0x0060485C|That obviously doesn't count!
@@ -2514,8 +2514,8 @@
 77409|0x00606CB7|Glad to see you made it to~school today. Well, I already~knew through Kosame-san telling~me though.
 77410|0x00606D44|I only took the day off yesterday because Kosame stubbornly insisted.~I could've gone just fine.
 77411|0x00606DAF|I only took the day off~yesterday because Kosame~stubbornly insisted. I could've~gone just fine.
-77412|0x00606E29|Sure doesn't add up with all that stuff you told me about being sick~when I visiâ”€
-77413|0x00606E86|Sure doesn't add up with all~that stuff you told me about~being sick when I visiâ”€
+77412|0x00606E29|Sure doesn't add up with all that stuff you told me about being sick~when I visi„Ÿ
+77413|0x00606E86|Sure doesn't add up with all~that stuff you told me about~being sick when I visi„Ÿ
 77414|0x00606F5B|*BAM*
 77415|0x00606F6C|*BAM*
 77416|0x00606FB6|...Did that make you forget?
@@ -2634,8 +2634,8 @@
 77529|0x00608AA3|Well, I will worry about it.
 77530|0x00608ADB|Wh-Why?
 77531|0x00608AED|Wh-Why?
-77532|0x00608B0E|Did you forget? I'm going to be the one to save yâ”€
-77533|0x00608B4C|Did you forget? I'm going to be~the one to save yâ”€
+77532|0x00608B0E|Did you forget? I'm going to be the one to save y„Ÿ
+77533|0x00608B4C|Did you forget? I'm going to be~the one to save y„Ÿ
 77534|0x00608BC9|*BAM*
 77535|0x00608BDA|*BAM*
 77536|0x00608BFA|Ugh...! I would really love to hear a detailed explanation as to what~I did to deserve a kick?!
@@ -2708,8 +2708,8 @@
 77603|0x00609CB0|O-Okay...
 77604|0x00609CC9|She timidly took the lunch box from me.
 77605|0x00609CFB|She timidly took the lunch box~from me.
-77606|0x00609D3C|I'll go buy some disposable chopsticks, soâ”€
-77607|0x00609D73|I'll go buy some disposable~chopsticks, soâ”€
+77606|0x00609D3C|I'll go buy some disposable chopsticks, so„Ÿ
+77607|0x00609D73|I'll go buy some disposable~chopsticks, so„Ÿ
 77608|0x00609DE9|*BAM*
 77609|0x00609DFA|*BAM*
 77610|0x00609E1A|Agh...! Why?!!
@@ -2726,8 +2726,8 @@
 77621|0x0060A147|She then also stole the~chopsticks out of my hands and~got ready to eat the remaining~half of her lunch.
 77622|0x0060A1CB|A-All right then...
 77623|0x0060A1E9|A-All right then...
-77624|0x0060A216|Uh, that'll mean an indirect kiâ”€
-77625|0x0060A242|Uh, that'll mean an indirect~kiâ”€
+77624|0x0060A216|Uh, that'll mean an indirect ki„Ÿ
+77625|0x0060A242|Uh, that'll mean an indirect~ki„Ÿ
 77626|0x0060A2AD|*BAM*
 77627|0x0060A2BE|*BAM*
 77628|0x0060A2EB|I-I'll eat this then.
@@ -2812,14 +2812,14 @@
 77707|0x0060B6EE|...You kicked me because you~know exactly what I was~implying.
 77708|0x0060B748|Yeah, whatever, I know I'm not cute, okay! You don't have to tell me!
 77709|0x0060B798|Yeah, whatever, I know I'm not~cute, okay! You don't have to~tell me!
-77710|0x0060B7F7|I actually think your name is pretty cuâ”€
-77711|0x0060B82B|I actually think your name is~pretty cuâ”€
+77710|0x0060B7F7|I actually think your name is pretty cu„Ÿ
+77711|0x0060B82B|I actually think your name is~pretty cu„Ÿ
 77712|0x0060B893|*BAM*
 77713|0x0060B8A4|*BAM*
 77714|0x0060B8C6|Don't talk about my name!
 77715|0x0060B8EA|Don't talk about my name!
-77716|0x0060B91D|All right, then I actually thought you were pretty cute yesteâ”€
-77717|0x0060B967|All right, then I actually~thought you were pretty cute~yesteâ”€
+77716|0x0060B91D|All right, then I actually thought you were pretty cute yeste„Ÿ
+77717|0x0060B967|All right, then I actually~thought you were pretty cute~yeste„Ÿ
 77718|0x0060B9E5|*BAM*
 77719|0x0060B9F6|*BAM*
 77720|0x0060BA18|Wipe that from your mind this instant!! Understand?!
@@ -2910,8 +2910,8 @@
 77805|0x0060D08A|How was that cheeky in any way~shape or form?!
 77806|0x0060D0E0|Well, just say it. It's thanks to You-kun, right?
 77807|0x0060D11C|Well, just say it. It's thanks~to You-kun, right?
-77808|0x0060D177|Whaâ”€!
-77809|0x0060D188|Whaâ”€!
+77808|0x0060D177|Wha„Ÿ!
+77809|0x0060D188|Wha„Ÿ!
 77810|0x0060D1B6|Because you're relying on him.
 77811|0x0060D1DF|Because you're relying on him.
 77812|0x0060D227|Th-That's not...
@@ -2928,8 +2928,8 @@
 77823|0x0060D4E0|Hisakaki's breath caught in her~throat.
 77824|0x0060D53E|I'd like you to reap Hisakaki's nightmare now.
 77825|0x0060D577|I'd like you to reap Hisakaki's~nightmare now.
-77826|0x0060D5FB|H-Hey! This isn't what you told meâ”€
-77827|0x0060D62A|H-Hey! This isn't what you told~meâ”€
+77826|0x0060D5FB|H-Hey! This isn't what you told me„Ÿ
+77827|0x0060D62A|H-Hey! This isn't what you told~me„Ÿ
 77828|0x0060D668|Hisakaki.
 77829|0x0060D67C|Hisakaki.
 77830|0x0060D6AF|......
@@ -2976,10 +2976,10 @@
 77871|0x0060E16E|A straightforward, genuine kind~of trust that eclipsed the~trust she had in me when she~recommended me as Student
 77872|0x0060E1EF|I wanted to respond to that trust and live up to her expectations.
 77873|0x0060E23C|I wanted to respond to that~trust and live up to her~expectations.
-77874|0x0060E2CD|The scythe's sharp tip swept down towards Hisakaki's chest andâ”€
-77875|0x0060E318|The scythe's sharp tip swept~down towards Hisakaki's chest~andâ”€
-77876|0x0060E376|â”€Wait!
-77877|0x0060E388|â”€Wait!
+77874|0x0060E2CD|The scythe's sharp tip swept down towards Hisakaki's chest and„Ÿ
+77875|0x0060E318|The scythe's sharp tip swept~down towards Hisakaki's chest~and„Ÿ
+77876|0x0060E376|„ŸWait!
+77877|0x0060E388|„ŸWait!
 77878|0x0060E3CB|A voice sounded out from our flanks.
 77879|0x0060E3FA|A voice sounded out from our~flanks.
 77880|0x0060E42E|I broke out in a cold sweat, realizing that my plan had worked.
@@ -3312,8 +3312,8 @@
 78207|0x006133F5|...I told you, I'm not a model~student.
 78208|0x00613438|This is... a-also completely new to me...
 78209|0x0061346C|This is... a-also completely~new to me...
-78210|0x006134DD|I've never been in a relationship beforeâ”€
-78211|0x00613512|I've never been in a~relationship beforeâ”€
+78210|0x006134DD|I've never been in a relationship before„Ÿ
+78211|0x00613512|I've never been in a~relationship before„Ÿ
 78212|0x00613562|Hisakaki wrapped her arms around my neck.
 78213|0x00613596|Hisakaki wrapped her arms~around my neck.
 78214|0x006135CF|She gave me a clumsy kiss.
@@ -3362,8 +3362,8 @@
 78257|0x006140F0|Do I have to say it? I thought~we were already clear on this.
 78258|0x00614157|N-No! It's perfectly fine!
 78259|0x0061417C|N-No! It's perfectly fine!
-78260|0x006141B0|You're my girlfâ”€
-78261|0x006141CC|You're my girlfâ”€
+78260|0x006141B0|You're my girlf„Ÿ
+78261|0x006141CC|You're my girlf„Ÿ
 78262|0x00614260|*BAM*
 78263|0x00614271|*BAM*
 78264|0x00614293|I literally just told you not to!!
@@ -3424,8 +3424,8 @@
 78319|0x006150B1|Of course with you.
 78320|0x006150E0|Y-You mean like...?
 78321|0x006150FE|Y-You mean like...?
-78322|0x0061512B|Yeah, a daâ”€
-78323|0x00615142|Yeah, a daâ”€
+78322|0x0061512B|Yeah, a da„Ÿ
+78323|0x00615142|Yeah, a da„Ÿ
 78324|0x006151D7|*BAM*
 78325|0x006151E8|*BAM*
 78326|0x0061522D|S-See you later, Kogasaka-kun.
@@ -3594,8 +3594,8 @@
 78489|0x00618698|Probably because it's easy to~remember, I'd say.
 78490|0x0061870E|Onii-chan, what are you gonna do with Komomo-senpai?
 78491|0x0061874D|Onii-chan, what are you gonna~do with Komomo-senpai?
-78492|0x0061879B|You see, she and I are actually on a daâ”€
-78493|0x006187CF|You see, she and I are actually~on a daâ”€
+78492|0x0061879B|You see, she and I are actually on a da„Ÿ
+78493|0x006187CF|You see, she and I are actually~on a da„Ÿ
 78494|0x00618879|*BAM*
 78495|0x0061888A|*BAM*
 78496|0x006188E4|Chinami-san, do you want to keep Suzuha-chan waiting?
@@ -3634,8 +3634,8 @@
 78529|0x006191D9|So which one of the three is~the lucky girl?
 78530|0x0061921F|Hisakaki.
 78531|0x00619233|Hisakaki.
-78532|0x0061928D|Whaâ”€?!
-78533|0x0061929F|Whaâ”€?!
+78532|0x0061928D|Wha„Ÿ?!
+78533|0x0061929F|Wha„Ÿ?!
 78534|0x006192C0|...Why would you get surprised at that?
 78535|0x006192F2|...Why would you get surprised~at that?
 78536|0x00619343|I-I wasn't ready for it!
@@ -3900,8 +3900,8 @@
 78795|0x0061D0B8|S-Sorry...! Forget what I~said...
 78796|0x0061D0F3|Can I kiss you?
 78797|0x0061D10D|Can I kiss you?
-78798|0x0061D167|Whaâ”€!
-78799|0x0061D178|Whaâ”€!
+78798|0x0061D167|Wha„Ÿ!
+78799|0x0061D178|Wha„Ÿ!
 78800|0x0061D1A4|I gave her a light kiss.
 78801|0x0061D1C7|I gave her a light kiss.
 78802|0x0061D21F|Ah... uh...
@@ -4422,14 +4422,14 @@
 79317|0x00625B1C|Of course it still hurts, you~jerk! What do you expect, it~was my first time, okay?!
 79318|0x00625B80|With that, I caught on.
 79319|0x00625BA2|With that, I caught on.
-79320|0x00625BD3|Look, I told you we could quit if it hurt too much, but no, you had to~even go and start moving yoursâ”€
-79321|0x00625C45|Look, I told you we could quit~if it hurt too much, but no,~you had to even go and start~moving yoursâ”€
+79320|0x00625BD3|Look, I told you we could quit if it hurt too much, but no, you had to~even go and start moving yours„Ÿ
+79321|0x00625C45|Look, I told you we could quit~if it hurt too much, but no,~you had to even go and start~moving yours„Ÿ
 79322|0x00625CEB|*BAM*
 79323|0x00625CFC|*BAM*
 79324|0x00625D1E|I-I didn't move once during the whole stupid thing! You were the one~who did all the moving, you hear me?!
 79325|0x00625D93|I-I didn't move once during the~whole stupid thing! You were~the one who did all the moving,~you hear me?!
-79326|0x00625E17|I don't know, I remember you getting kinda into it near the end andâ”€
-79327|0x00625E67|I don't know, I remember you~getting kinda into it near the~end andâ”€
+79326|0x00625E17|I don't know, I remember you getting kinda into it near the end and„Ÿ
+79327|0x00625E67|I don't know, I remember you~getting kinda into it near the~end and„Ÿ
 79328|0x00625EF1|*BAM*
 79329|0x00625F02|*BAM*
 79330|0x00625F24|N-N-N-No one ever said a single word about me feeling good, okay?!
@@ -4558,8 +4558,8 @@
 79453|0x00627B7E|A-Are you stupid?!
 79454|0x00627BAA|Then what?
 79455|0x00627BBF|Then what?
-79456|0x00627C1B|Dirty things, of coâ”€ Hey! D-Don't make me say it!!
-79457|0x00627C59|Dirty things, of coâ”€ Hey!~D-Don't make me say it!!
+79456|0x00627C1B|Dirty things, of co„Ÿ Hey! D-Don't make me say it!!
+79457|0x00627C59|Dirty things, of co„Ÿ Hey!~D-Don't make me say it!!
 79458|0x00627CCB|*BAM*
 79459|0x00627CDC|*BAM*
 79460|0x00627D05|After knocking me down with a kick, she walked off with a bright red~face.
@@ -5404,8 +5404,8 @@
 80299|0x00636109|I'm sure it's because she wants~to do it together with you.
 80300|0x0063615E|...I see.
 80301|0x00636172|...I see.
-80302|0x00636197|So Kogasaka-san, if you ever do something to make her sad, then just~knowâ”€
-80303|0x006361ED|So Kogasaka-san, if you ever do~something to make her sad, then~just knowâ”€
+80302|0x00636197|So Kogasaka-san, if you ever do something to make her sad, then just~know„Ÿ
+80303|0x006361ED|So Kogasaka-san, if you ever do~something to make her sad, then~just know„Ÿ
 80304|0x00636252|Yeah, you'll come to haunt me with a naginata.
 80305|0x0063628B|Yeah, you'll come to haunt me~with a naginata.
 80306|0x006362E3|I see you have a perfect understanding in this regard.
@@ -5612,8 +5612,8 @@
 80507|0x0063A733|I sat there, looking out at the~landscape that stretched out~below me.
 80508|0x0063A795|The townscape of Hibarigasaki dyed in the setting sun's crimson was~terrifyingly vivid in its fascinating beauty.
 80509|0x0063A811|The townscape of Hibarigasaki~dyed in the setting sun's~crimson was terrifyingly vivid~in its fascinating beauty.
-80510|0x0063A89E|I looked up, and could clearly see the borderline separating the~twilight and the dark of the night â”€ a border between red and black.
-80511|0x0063A92F|I looked up, and could clearly~see the borderline separating~the twilight and the dark of~the night â”€ a border between
+80510|0x0063A89E|I looked up, and could clearly see the borderline separating the~twilight and the dark of the night „Ÿ a border between red and black.
+80511|0x0063A92F|I looked up, and could clearly~see the borderline separating~the twilight and the dark of~the night „Ÿ a border between
 80512|0x0063A9C2|That's when I spotted something.
 80513|0x0063A9ED|That's when I spotted~something.
 80514|0x0063AA56|A light in the sky crossed that borderline, as if to rip it clean~apart.
@@ -7920,8 +7920,8 @@
 82815|0x006674E0|What I said has a positive~meaning behind it, not a bad~one.
 82816|0x00667538|What do you mean?
 82817|0x00667554|What do you mean?
-82818|0x0066757F|Well, rather than not being able to stand you, I loveâ”€
-82819|0x006675C1|Well, rather than not being~able to stand you, I loveâ”€
+82818|0x0066757F|Well, rather than not being able to stand you, I love„Ÿ
+82819|0x006675C1|Well, rather than not being~able to stand you, I love„Ÿ
 82820|0x0066764A|Take that!
 82821|0x0066765F|Take that!
 82822|0x006676B3|...Why'd you chop me?
@@ -7932,8 +7932,8 @@
 82827|0x00667890|I wasn't acting considerate, I~just did it 'cause I wanted to.
 82828|0x006678F8|What is that supposed to mean?
 82829|0x00667921|What is that supposed to mean?
-82830|0x00667959|I love yâ”€
-82831|0x0066796E|I love yâ”€
+82830|0x00667959|I love y„Ÿ
+82831|0x0066796E|I love y„Ÿ
 82832|0x006679CA|Take that!
 82833|0x006679DF|Take that!
 82834|0x00667A33|...Again?
@@ -8062,8 +8062,8 @@
 82957|0x0066989E|My confidence isn't groundless.~I mean, there's something I can~say with absolute confidence.
 82958|0x00669917|What would that be?
 82959|0x00669935|What would that be?
-82960|0x00669962|I love yâ”€
-82961|0x00669977|I love yâ”€
+82960|0x00669962|I love y„Ÿ
+82961|0x00669977|I love y„Ÿ
 82962|0x006699D3|Take that!
 82963|0x006699E8|Take that!
 82964|0x00669A3C|Give me a break...
@@ -8108,8 +8108,8 @@
 83003|0x0066A93B|Just leaving it to the~descriptions of deities and~demons from myth and folklore~doesn't achieve anything when
 83004|0x0066A9C5|It isn't deification that is important, but visualization.
 83005|0x0066AA0A|It isn't deification that is~important, but visualization.
-83006|0x0066AA60|Understanding what these contumacious existences are â”€ these things~that don't bow down to the will of us humans â”€ is what allows you to~face them.
-83007|0x0066AB00|Understanding what these~contumacious existences are â”€~these things that don't bow~down to the will of us humans
+83006|0x0066AA60|Understanding what these contumacious existences are „Ÿ these things~that don't bow down to the will of us humans „Ÿ is what allows you to~face them.
+83007|0x0066AB00|Understanding what these~contumacious existences are „Ÿ~these things that don't bow~down to the will of us humans
 83008|0x0066AB8D|After all, we humans have always feared that which we cannot see.
 83009|0x0066ABD9|After all, we humans have~always feared that which we~cannot see.
 83010|0x0066AC2A|At that point, Kosame-san started walking with broom in hand.
@@ -8540,8 +8540,8 @@
 83435|0x00672B7E|It's not like I was gonna ask~anything of that nature.
 83436|0x00672BD0|Then what would you ask?
 83437|0x00672BF3|Then what would you ask?
-83438|0x00672C25|Have you ever had a boyfâ”€
-83439|0x00672C4A|Have you ever had a boyfâ”€
+83438|0x00672C25|Have you ever had a boyf„Ÿ
+83439|0x00672C4A|Have you ever had a boyf„Ÿ
 83440|0x00672CB8|Take that!
 83441|0x00672CCD|Take that!
 83442|0x00672D21|...Okay. That was a joke. But there's something I've been wondering~about.
@@ -8758,8 +8758,8 @@
 83653|0x00677420|Ah, huh...
 83654|0x00677444|Kosame-san, I love you.
 83655|0x00677466|Kosame-san, I love you.
-83656|0x006774A7|Whaâ”€!
-83657|0x006774B8|Whaâ”€!
+83656|0x006774A7|Wha„Ÿ!
+83657|0x006774B8|Wha„Ÿ!
 83658|0x006774CE|As I continued teasing her, she was now red from ear to ear.
 83659|0x00677515|As I continued teasing her, she~was now red from ear to ear.
 83660|0x0067756B|Oh, nice. Now you're redder than the sunset.
@@ -8812,8 +8812,8 @@
 83707|0x00677FB6|Ah... uggh...
 83708|0x00677FDD|Now your face is even redder than the fire.
 83709|0x00678013|Now your face is even redder~than the fire.
-83710|0x00678068|Yâ”€ You're so mean...
-83711|0x00678088|Yâ”€ You're so mean...
+83710|0x00678068|Y„Ÿ You're so mean...
+83711|0x00678088|Y„Ÿ You're so mean...
 83712|0x006780AD|She'd been teasing me quite a lot lately, so I had to get back at her.
 83713|0x006780FE|She'd been teasing me quite a~lot lately, so I had to get~back at her.
 83714|0x0067816E|You'll make me... angry...
@@ -9312,8 +9312,8 @@
 84207|0x006814F9|Using words such as those,~people try to define the~unknown as something to fear or~worship.
 84208|0x0068157F|And you can hardly blame them, for that is only normal. It's a basic,~primal behavior that's dated back to ancient times.
 84209|0x00681603|And you can hardly blame them,~for that is only normal. It's a~basic, primal behavior that's~dated back to ancient times.
-84210|0x00681698|So it's also just as normal for you to fearâ”€
-84211|0x006816D0|So it's also just as normal for~you to fearâ”€
+84210|0x00681698|So it's also just as normal for you to fear„Ÿ
+84211|0x006816D0|So it's also just as normal for~you to fear„Ÿ
 84212|0x00681717|I told you I'm not afraid of you.
 84213|0x00681743|I told you I'm not afraid of~you.
 84214|0x0068178E|......
@@ -9560,8 +9560,8 @@
 84455|0x00685A79|We didn't link arms.
 84456|0x00685A9D|But still, the two of us walked closer to each other than usual.
 84457|0x00685AE8|But still, the two of us walked~closer to each other than~usual.
-84458|0x00685BD8|Welcome to the Milky Waâ”€ Er, what?
-84459|0x00685C06|Welcome to the Milky Waâ”€ Er,~what?
+84458|0x00685BD8|Welcome to the Milky Wa„Ÿ Er, what?
+84459|0x00685C06|Welcome to the Milky Wa„Ÿ Er,~what?
 84460|0x00685C75|Hello there, Asuho-san.
 84461|0x00685C97|Hello there, Asuho-san.
 84462|0x00685CBE|Our destination, per Kosame-san's selection, was Asuho's cafe.
@@ -9766,8 +9766,8 @@
 84661|0x006898A3|Our relationship was closer~than that of just friends, but~not close enough that you'd~call us an item.
 84662|0x0068992A|Why don't we link arms?
 84663|0x0068994C|Why don't we link arms?
-84664|0x0068998D|Whaâ”€!
-84665|0x0068999E|Whaâ”€!
+84664|0x0068998D|Wha„Ÿ!
+84665|0x0068999E|Wha„Ÿ!
 84666|0x006899BE|Hm, yeah. Guess that was a bit of a jump.
 84667|0x006899F2|Hm, yeah. Guess that was a bit~of a jump.
 84668|0x00689A2B|I scratched my cheek, glossing over my embarrassment.

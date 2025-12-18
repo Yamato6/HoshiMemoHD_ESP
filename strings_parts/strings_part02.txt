@@ -1,4 +1,4 @@
-# Parte 2 - L√≠neas 4901 a 14900
+# Parte 2 - Lineas 4901 a 14900
 # Total en esta parte: 10000 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -23,14 +23,14 @@
 4918|0x0009989C|mag_ef201_8
 4919|0x0009A26B|
 4920|0x0009A273|
-4921|0x0009A2FE|I loved her.
-4922|0x0009A315|I loved her.
-4923|0x0009A336|It was a sort of love that wasn't quite romantic.
-4924|0x0009A372|It was a sort of love that~wasn't quite romantic.
-4925|0x0009A3B3|Admittedly, though, the memories I have of the time we spent together~are now blurred in places, as if they can only be viewed through the~glass of a foggy window.
-4926|0x0009A461|Admittedly, though, the~memories I have of the time we~spent together are now blurred~in places, as if they can only
-4927|0x0009A4E5|While the love in my memories wasn't romantic love, I certainly did~love her.
-4928|0x0009A53D|While the love in my memories~wasn't romantic love, I~certainly did love her.
+4921|0x0009A2FE|La quer®a.
+4922|0x0009A315|La quer®a.
+4923|0x0009A336|Era una emoci´n diferente al amor.
+4924|0x0009A372|Era una emoci´n diferente al amor.
+4925|0x0009A3B3|Bueno, ahora partes de esos recuerdos son borrosos, como si se vieran a ~trav™s de unos cristales empa√ados.
+4926|0x0009A461|Bueno, ahora partes de esos recuerdos son borrosos, como si se vieran a ~trav™s de unos cristales empa√ados.
+4927|0x0009A4E5|A pesar de que esos recuerdos no eran de amor, ciertamente la quer®a.
+4928|0x0009A53D|A pesar de que esos recuerdos no eran de amor, ciertamente la quer®a.
 4929|0x0009A59A|If I had to give proof of that, it would be that I shared my first~kiss with her when we were only in elementary school.
 4930|0x0009A61D|If I had to give proof of that,~it would be that I shared my~first kiss with her when we~were only in elementary school.
 4931|0x0009A6A5|To this very day, I can vividly remember the warm sensation of her~lips. So there is no denying that the kiss we shared was genuine.
@@ -61,8 +61,8 @@
 4956|0x0009B018|Although, if I wanted to use~them, the most important thing~would be finding a way to apply~them without her catching me.
 4957|0x0009B0A1|However, if I actually did end up crying genuine tears by some turn of~events...
 4958|0x0009B0FC|However, if I actually did end~up crying genuine tears by some~turn of events...
-4959|0x0009B15C|In that case, I would just have to make sure I didn't stammer as I~said, ‚ÄúOh, these are just fake,‚Äù while pulling out the eye drops.
-4960|0x0009B1ED|In that case, I would just have~to make sure I didn't stammer~as I said, ‚ÄúOh, these are just~fake,‚Äù while pulling out the eye
+4959|0x0009B15C|In that case, I would just have to make sure I didn't stammer as I~said, ÅgOh, these are just fake,Åh while pulling out the eye drops.
+4960|0x0009B1ED|In that case, I would just have~to make sure I didn't stammer~as I said, ÅgOh, these are just~fake,Åh while pulling out the eye
 4961|0x0009B27C|(...Of course, there's no way I'd actually start crying though,~right?)
 4962|0x0009B2CE|(...Of course, there's no way~I'd actually start crying~though, right?)
 4963|0x0009B325|Even if our relationship had gone as far as kissing, it was just on~the forehead.
@@ -447,8 +447,8 @@
 5342|0x000A2A7A|...Seriously?
 5343|0x000A2A97|I wound up at a dead end, just like they'd said.
 5344|0x000A2AD2|I wound up at a dead end, just~like they'd said.
-5345|0x000A2B38|The dirt path leading to the lookout was barred by a fence, and on~that fence was a sign that said, ‚ÄúKeep out.‚Äù
-5346|0x000A2BB4|The dirt path leading to the~lookout was barred by a fence,~and on that fence was a sign~that said, ‚ÄúKeep out.‚Äù
+5345|0x000A2B38|The dirt path leading to the lookout was barred by a fence, and on~that fence was a sign that said, ÅgKeep out.Åh
+5346|0x000A2BB4|The dirt path leading to the~lookout was barred by a fence,~and on that fence was a sign~that said, ÅgKeep out.Åh
 5347|0x000A2C35|It was different from what I remembered.
 5348|0x000A2C68|It was different from what I~remembered.
 5349|0x000A2CA0|This was my first time seeing this fence.
@@ -487,8 +487,8 @@
 5382|0x000A376F|(Did they close it off~temporarily to do repairs?)
 5383|0x000A37B1|There was no indication of that, though.
 5384|0x000A37E4|There was no indication of~that, though.
-5385|0x000A381C|The sign merely said ‚Äúkeep out.‚Äù
-5386|0x000A3849|The sign merely said ‚Äúkeep out.‚Äù
+5385|0x000A381C|The sign merely said Ågkeep out.Åh
+5386|0x000A3849|The sign merely said Ågkeep out.Åh
 5387|0x000A3885|So what should I do now...?
 5388|0x000A38AB|So what should I do now...?
 5389|0x000A38D6|I put my hands on the fence and rattled it a little.
@@ -778,8 +778,8 @@
 5673|0x000A8355|In hindsight, I believe it was~at that moment, that I stumbled~upon a certain realization for~the very first time.
 5674|0x000A83D7|That I truly, honestly appreciated the fact that I'd met her.
 5675|0x000A841F|That I truly, honestly~appreciated the fact that I'd~met her.
-5676|0x000A8472|I loved her‚Äï
-5677|0x000A848A|I loved her‚Äï
+5676|0x000A8472|I loved herÅ\
+5677|0x000A848A|I loved herÅ\
 5678|0x000A84CB|Which was why she had to be waiting for me to come back.
 5679|0x000A850E|Which was why she had to be~waiting for me to come back.
 5680|0x000A8577|Welcome back, You-kun.
@@ -818,8 +818,8 @@
 5713|0x000A8FF0|However, the reunion was all~too different from the~heartwarming one I'd imagined.
 5714|0x000A9052|The eyedrops in my hand fell straight to the ground.
 5715|0x000A9091|The eyedrops in my hand fell~straight to the ground.
-5716|0x000A9107|Thank you for not forgetting me after all this time‚Äï
-5717|0x000A9147|Thank you for not forgetting me~after all this time‚Äï
+5716|0x000A9107|Thank you for not forgetting me after all this timeÅ\
+5717|0x000A9147|Thank you for not forgetting me~after all this timeÅ\
 5718|0x000A91B6|Now I can finally fulfill my duty.
 5719|0x000A91E3|Now I can finally fulfill my~duty.
 5720|0x000A9263|I was gazing at the square-shaped snippet of the sky visible through~the small kitchen window, all the while taking in the savory fragrance~of breakfast coming from the sizzling frying pan.
@@ -862,8 +862,8 @@
 5757|0x000AA3A3|You knew about it!
 5758|0x000AA3CF|The handwriting was just so downright awful I couldn't make out a~single word on it.
 5759|0x000AA42E|The handwriting was just so~downright awful I couldn't make~out a single word on it.
-5760|0x000AA4B7|How could y‚îÄ?!
-5761|0x000AA4D2|How could y‚îÄ?!
+5760|0x000AA4B7|How could yÑü?!
+5761|0x000AA4D2|How could yÑü?!
 5762|0x000AA4FC|So yeah, I just shredded it up and threw it away.
 5763|0x000AA538|So yeah, I just shredded it up~and threw it away.
 5764|0x000AA59E|How could you be so cruel?!
@@ -1342,7 +1342,7 @@
 6237|0x000B44F6|Now I get the cold shoulder?!
 6238|0x000B452D|...You at least have 'something' written on your boxes, for what~that's worth, so shouldn't that give you some inkling of an idea?
 6239|0x000B45BA|...You at least have~'something' written on your~boxes, for what that's worth,~so shouldn't that give you some
-6240|0x000B465D|Well, you see, there's just a whole ton of things I don't like that~turn into things I actually like overnight! You gotta understand that~a young girl's opinions change sometimes, so that's just how it is,~and now I‚îÄ
+6240|0x000B465D|Well, you see, there's just a whole ton of things I don't like that~turn into things I actually like overnight! You gotta understand that~a young girl's opinions change sometimes, so that's just how it is,~and now IÑü
 6241|0x000B4741|Well, you see, there's just a~whole ton of things I don't~like that turn into things I~actually like overnight! You
 6242|0x000B47CE|Which cardboard box should I carry upstairs next?
 6243|0x000B480A|Which cardboard box should I~carry upstairs next?
@@ -1536,8 +1536,8 @@
 6431|0x000B8BCB|Didn't we already establish~that fact?
 6432|0x000B8C26|Who is this cold-hearted person, and what has he done with my big~brother from just a couple minutes ago?!
 6433|0x000B8C9B|Who is this cold-hearted~person, and what has he done~with my big brother from just a~couple minutes ago?!
-6434|0x000B8D1F|Once you're done with your bed, next up is carrying the other stuff~inside. Guess I'll start with this bag here and‚îÄ
-6435|0x000B8D9F|Once you're done with your bed,~next up is carrying the other~stuff inside. Guess I'll start~with this bag here and‚îÄ
+6434|0x000B8D1F|Once you're done with your bed, next up is carrying the other stuff~inside. Guess I'll start with this bag here andÑü
+6435|0x000B8D9F|Once you're done with your bed,~next up is carrying the other~stuff inside. Guess I'll start~with this bag here andÑü
 6436|0x000B8E49|Noooo! Don't open that!
 6437|0x000B8E6B|Noooo! Don't open that!
 6438|0x000B8E9C|Oh, it's just your panties.
@@ -1696,7 +1696,7 @@
 6591|0x000BC1FB|Aww, you're embarrassed!
 6592|0x000BC22D|...Buzz off.
 6593|0x000BC244|...Buzz off.
-6594|0x000BC27A|Well see, according to the Big Brother Observation Diary which I've~kept for so many many years now, whenever a frown forms on your face,~you're either embarrassed, or there's something you feel bad about, so~by the process of elimination‚îÄ
+6594|0x000BC27A|Well see, according to the Big Brother Observation Diary which I've~kept for so many many years now, whenever a frown forms on your face,~you're either embarrassed, or there's something you feel bad about, so~by the process of eliminationÑü
 6595|0x000BC375|Well see, according to the Big~Brother Observation Diary which~I've kept for so many many~years now, whenever a frown
 6596|0x000BC41F|I snatched the 'observation diary' or whatever the hell it was out of~her hands and ripped it apart, throwing the shreds to the ground.
 6597|0x000BC4B1|I snatched the 'observation~diary' or whatever the hell it~was out of her hands and ripped~it apart, throwing the shreds
@@ -1774,7 +1774,7 @@
 6669|0x000BE0E5|Aww, you're embarrassed,~Onii-chan.
 6670|0x000BE122|Buzz off!
 6671|0x000BE136|Buzz off!
-6672|0x000BE169|Well see, according to my Big Brother Observation Diary, whenever you~look away real quick or get sharp-tongued, it's 'cause you're either~embarrassed, feel bad about something, or your heart's racing 'cause~you're thinking of the girl you like, so‚îÄ
+6672|0x000BE169|Well see, according to my Big Brother Observation Diary, whenever you~look away real quick or get sharp-tongued, it's 'cause you're either~embarrassed, feel bad about something, or your heart's racing 'cause~you're thinking of the girl you like, soÑü
 6673|0x000BE26E|Well see, according to my Big~Brother Observation Diary,~whenever you look away real~quick or get sharp-tongued,
 6674|0x000BE313|I ripped it to shreds.
 6675|0x000BE334|I ripped it to shreds.
@@ -2062,8 +2062,8 @@
 6957|0x000C37D0|I was left stammering, cowed by~a girl that was clearly younger~than me.
 6958|0x000C385C|My name is Mare.
 6959|0x000C3877|My name is Mare.
-6960|0x000C3897|Mare‚îÄ
-6961|0x000C38A8|Mare‚îÄ
+6960|0x000C3897|MareÑü
+6961|0x000C38A8|MareÑü
 6962|0x000C38C7|Is that what you wanted?
 6963|0x000C38EA|Is that what you wanted?
 6964|0x000C3912|It was a different name than the girl from the lookout.
@@ -2392,7 +2392,7 @@
 7287|0x000C94D2|Or because this was a special~place to both me and her?
 7288|0x000C9519|Or, alternatively, was there some entirely different reason which~compelled me so?
 7289|0x000C9576|Or, alternatively, was there~some entirely different reason~which compelled me so?
-7290|0x000C963C|Look, look! Lookie over here, Onii-chan! I drew a heart on this bark~and put our names in it so we'd never forget our first visit to the~lookou‚îÄ Hey! I can't even finish my sentence before you get rid of~it?! And extra thoroughly using paint at that?!
+7290|0x000C963C|Look, look! Lookie over here, Onii-chan! I drew a heart on this bark~and put our names in it so we'd never forget our first visit to the~lookouÑü Hey! I can't even finish my sentence before you get rid of~it?! And extra thoroughly using paint at that?!
 7291|0x000C9743|Look, look! Lookie over here,~Onii-chan! I drew a heart on~this bark and put our names in~it so we'd never forget our
 7292|0x000C980A|Listen, my dear little Chinami, you can't just go and tarnish others'~memories.
 7293|0x000C9864|Listen, my dear little Chinami,~you can't just go and tarnish~others' memories.
@@ -3128,8 +3128,8 @@
 8023|0x000D91A7|Oh no! Oh no! Oh noooooo!!!! I~oversleeeeeept!!!!!
 8024|0x000D91EE|My ears were assaulted by loud, heavy footsteps approaching from~upstairs.
 8025|0x000D9243|My ears were assaulted by loud,~heavy footsteps approaching~from upstairs.
-8026|0x000D9325|Sorry, Onii-chan! I'll get started on breakfast right here in a sec so~just‚îÄ Wait! How come you're already eating just like yesterday?!
-8027|0x000D93B8|Sorry, Onii-chan! I'll get~started on breakfast right here~in a sec so just‚îÄ Wait! How~come you're already eating just
+8026|0x000D9325|Sorry, Onii-chan! I'll get started on breakfast right here in a sec so~justÑü Wait! How come you're already eating just like yesterday?!
+8027|0x000D93B8|Sorry, Onii-chan! I'll get~started on breakfast right here~in a sec so justÑü Wait! How~come you're already eating just
 8028|0x000D943F|Chinami bolted into the dining room with a blazing zeal.
 8029|0x000D9482|Chinami bolted into the dining~room with a blazing zeal.
 8030|0x000D94D4|Morning.
@@ -3312,7 +3312,7 @@
 8207|0x000DD0C2|In cases like these, it might~not be the amount of time that~makes things feel this way but~the distance that separates
 8208|0x000DD1BE|I haphazardly threw the porn mag to the ground so that I could read~what the rest of my female classmates had to say.
 8209|0x000DD23E|I haphazardly threw the porn~mag to the ground so that I~could read what the rest of my~female classmates had to say.
-8210|0x000DD2E3|Onii-chan! Here I am!! I've washed my face and also brushed my teeth~so I'm all ready to get to work! Ready to give you a helping hand!~Where should I start? Huh? What is that? There's some magazine on the~floor that has a lot of skin color‚îÄ
+8210|0x000DD2E3|Onii-chan! Here I am!! I've washed my face and also brushed my teeth~so I'm all ready to get to work! Ready to give you a helping hand!~Where should I start? Huh? What is that? There's some magazine on the~floor that has a lot of skin colorÑü
 8211|0x000DD3E2|Onii-chan! Here I am!! I've~washed my face and also brushed~my teeth so I'm all ready to~get to work! Ready to give you
 8212|0x000DD4E7|Don't you dare lay your stinkin' hands on thaaaaaaaaaaat!!!!!
 8213|0x000DD530|Don't you dare lay your~stinkin' hands on~thaaaaaaaaaaat!!!!!
@@ -3328,8 +3328,8 @@
 8223|0x000DD8D7|I nonchalantly got up from the~floor as if literally nothing~happened, even as I continued~to hide the porn mag behind my
 8224|0x000DD96A|So what is it? You want something?
 8225|0x000DD997|So what is it? You want~something?
-8226|0x000DD9E3|Yep! I was gonna thank you for all your help yesterday so I came to‚îÄ
-8227|0x000DDA33|Yep! I was gonna thank you for~all your help yesterday so I~came to‚îÄ
+8226|0x000DD9E3|Yep! I was gonna thank you for all your help yesterday so I came toÑü
+8227|0x000DDA33|Yep! I was gonna thank you for~all your help yesterday so I~came toÑü
 8228|0x000DDA92|Thanks, but no thanks.
 8229|0x000DDAB3|Thanks, but no thanks.
 8230|0x000DDAFE|How could you turn me down before I even finished saying it?!
@@ -3408,13 +3408,13 @@
 8303|0x000DF5AC|...I see.
 8304|0x000DF5DF|Exactly!
 8305|0x000DF5F2|Exactly!
-8306|0x000DF614|Look, I'm happy about that, but‚îÄ
-8307|0x000DF640|Look, I'm happy about that,~but‚îÄ
+8306|0x000DF614|Look, I'm happy about that, butÑü
+8307|0x000DF640|Look, I'm happy about that,~butÑü
 8308|0x000DF68B|All right then I'll get to peeling off the tape!
 8309|0x000DF6C6|All right then I'll get to~peeling off the tape!
 8310|0x000DF720|*RIP* *RIP* *RIP*
 8311|0x000DF73D|*RIP* *RIP* *RIP*
-8312|0x000DF7A6|See just watch and look, Onii-chan! Leave it to me and I can get rid~of that pesky tape in a millisecond, no hesitation not even giving~that drawer's coating the time of day‚îÄ Wait! It hurts! My temples!~Is that any way to thank someone?!
+8312|0x000DF7A6|See just watch and look, Onii-chan! Leave it to me and I can get rid~of that pesky tape in a millisecond, no hesitation not even giving~that drawer's coating the time of dayÑü Wait! It hurts! My temples!~Is that any way to thank someone?!
 8313|0x000DF89F|See just watch and look,~Onii-chan! Leave it to me and I~can get rid of that pesky tape~in a millisecond, no hesitation
 8314|0x000DF956|After giving her a nice, thorough noogie, I lifted her up in my arms.
 8315|0x000DF9A6|After giving her a nice,~thorough noogie, I lifted her~up in my arms.
@@ -3466,8 +3466,8 @@
 8361|0x000E09BF|*CRASH*
 8362|0x000E09D7|It tragically shattered into countless fragments.
 8363|0x000E0A13|It tragically shattered into~countless fragments.
-8364|0x000E0AA2|Y'see y'see I was thinking about making lunch so I came to ask you~what you'd like to‚îÄ Wait! Why are your fists on my temples,~Onii-chan?!
-8365|0x000E0B38|Y'see y'see I was thinking~about making lunch so I came to~ask you what you'd like to‚îÄ~Wait! Why are your fists on my
+8364|0x000E0AA2|Y'see y'see I was thinking about making lunch so I came to ask you~what you'd like toÑü Wait! Why are your fists on my temples,~Onii-chan?!
+8365|0x000E0B38|Y'see y'see I was thinking~about making lunch so I came to~ask you what you'd like toÑü~Wait! Why are your fists on my
 8366|0x000E0BBE|I executed today's third punishment.
 8367|0x000E0BED|I executed today's third~punishment.
 8368|0x000E0C59|You little snot, what the heck happened to our promise?!
@@ -5108,7 +5108,7 @@
 10003|0x00103062|Didn't you say... that you just~moved here the other day?
 10004|0x001030B5|Oh, right. About that.
 10005|0x001030D6|Oh, right. About that.
-10006|0x0010314C|Oh no! Onii-chan is getting too friendly with the maid!! He's gonna~eat her for lunch instead of ordering food! Just 'cause you got~rejected by your first love doesn't mean you can jump on any girl that~comes your wa‚îÄ‚îÄ
+10006|0x0010314C|Oh no! Onii-chan is getting too friendly with the maid!! He's gonna~eat her for lunch instead of ordering food! Just 'cause you got~rejected by your first love doesn't mean you can jump on any girl that~comes your waÑüÑü
 10007|0x00103235|Oh no! Onii-chan is getting too~friendly with the maid!! He's~gonna eat her for lunch instead~of ordering food! Just 'cause
 10008|0x001032CC|Be a good girl and shut up.
 10009|0x001032F2|Be a good girl and shut up.
@@ -5160,7 +5160,7 @@
 10055|0x00104864|And, after that, Apollo finally~found Hermes, determined to get~back his stolen cattle. In a~terrible fluster, Hermes
 10056|0x00104903|After some time, Apollo passed that lyre to the musician Orpheus, and~that lyre's melody had the power to captivate humans, animals, and~plants alike.
 10057|0x001049A4|After some time, Apollo passed~that lyre to the musician~Orpheus, and that lyre's melody~had the power to captivate
-10058|0x00104A41|Then, there came a time when Orpheus descended to the underworld in~order to save his wife, the Oak Nymph Eurydice. With his lyre, he~created essentially a miracle, but in the end, he still failed to save~his wife, and‚îÄ
+10058|0x00104A41|Then, there came a time when Orpheus descended to the underworld in~order to save his wife, the Oak Nymph Eurydice. With his lyre, he~created essentially a miracle, but in the end, he still failed to save~his wife, andÑü
 10059|0x00104B28|Then, there came a time when~Orpheus descended to the~underworld in order to save his~wife, the Oak Nymph Eurydice.
 10060|0x00104BEA|Asuho, mind your customers.
 10061|0x00104C10|Asuho, mind your customers.
@@ -6030,8 +6030,8 @@
 10925|0x00119312|Because I owe so much to her.
 10926|0x0011933F|Because she was the first person willing to become my friend, even~though I never tried to make any friends.
 10927|0x001193B6|Because she was the first~person willing to become my~friend, even though I never~tried to make any friends.
-10928|0x00119442|‚îÄThank you, You-kun.
-10929|0x00119462|‚îÄThank you, You-kun.
+10928|0x00119442|ÑüThank you, You-kun.
+10929|0x00119462|ÑüThank you, You-kun.
 10930|0x001194A6|At that moment, something lightly touched me.
 10931|0x001194DE|At that moment, something~lightly touched me.
 10932|0x00119567|However, the sensation was not on my forehead, but on my chest.
@@ -7962,8 +7962,8 @@
 12857|0x00145D03|I figured that I might as well~wait there.
 12858|0x00145D3D|Waiting for the girl from the lookout to show up, as well as a certain~other girl.
 12859|0x00145D9A|Waiting for the girl from the~lookout to show up, as well as~a certain other girl.
-12860|0x00145DFC|The shinigami girl, named Mare‚îÄ
-12861|0x00145E27|The shinigami girl, named~Mare‚îÄ
+12860|0x00145DFC|The shinigami girl, named MareÑü
+12861|0x00145E27|The shinigami girl, named~MareÑü
 12862|0x00145E7C|I had a barrage of questions I wanted to ask her.
 12863|0x00145EB8|I had a barrage of questions I~wanted to ask her.
 12864|0x00145EF9|'Have you really stolen the lookout girl's name from me?'
@@ -8064,7 +8064,7 @@
 12959|0x00148965|Onii-chan, Onii-chan,~Onii-chaaaaaan!!!
 12960|0x0014899C|The moment I returned home, giving up on being able to see Mare in the~end, Chinami rushed over to me at a speed that would put any~debt-chasing bill collector to shame.
 12961|0x00148A50|The moment I returned home,~giving up on being able to see~Mare in the end, Chinami rushed~over to me at a speed that
-12962|0x00148B00|What's the matter?! What happened?! How come you're so late?! Don't~tell me you've been wallowing in grief after you got bullied and~couldn't make any friends in your new class?! It's at times like these~that my brimming affection comes to the resc‚îÄ
+12962|0x00148B00|What's the matter?! What happened?! How come you're so late?! Don't~tell me you've been wallowing in grief after you got bullied and~couldn't make any friends in your new class?! It's at times like these~that my brimming affection comes to the rescÑü
 12963|0x00148C05|What's the matter?! What~happened?! How come you're so~late?! Don't tell me you've~been wallowing in grief after
 12964|0x00148C85|Fed up with her already, I placed my ice-cold hand on her forehead.
 12965|0x00148CD3|Fed up with her already, I~placed my ice-cold hand on her~forehead.
@@ -8148,8 +8148,8 @@
 13043|0x0014AD84|However, that 'simply see or~hear it' approach had proven to~be more difficult than~expected.
 13044|0x0014ADF1|I'd already asked Shino-san and Chinami about the girl from the~lookout.
 13045|0x0014AE44|I'd already asked Shino-san and~Chinami about the girl from the~lookout.
-13046|0x0014AE9C|I told them, ‚ÄúIf you happen to know the name of the girl I used to~play with at the lookout as a kid, please tell me.‚Äù
-13047|0x0014AF1F|I told them, ‚ÄúIf you happen~to know the name of the girl I~used to play with at the~lookout as a kid, please tell
+13046|0x0014AE9C|I told them, ÅgIf you happen to know the name of the girl I used to~play with at the lookout as a kid, please tell me.Åh
+13047|0x0014AF1F|I told them, ÅgIf you happen~to know the name of the girl I~used to play with at the~lookout as a kid, please tell
 13048|0x0014AFA1|But while Chinami knew who that girl was, she didn't know her name,~and Shino-san didn't even know I had played with a girl like that in~the first place.
 13049|0x0014B045|But while Chinami knew who that~girl was, she didn't know her~name, and Shino-san didn't even~know I had played with a girl
 13050|0x0014B0D0|Now that I think about it, only my mom and Chinami ever knew about my~escapades with her. I never told anyone but them.
@@ -8784,8 +8784,8 @@
 13679|0x001589BF|Have a good day.
 13680|0x001589EE|Aoi-san nimbly snatched the tarot cards away from Hisakaki-san and~quickly walked off in toward the school building.
 13681|0x00158A6D|Aoi-san nimbly snatched the~tarot cards away from~Hisakaki-san and quickly walked~off in toward the school
-13682|0x00158B27|Hey, get back here! We aren't done ye‚îÄ
-13683|0x00158B59|Hey, get back here! We aren't~done ye‚îÄ
+13682|0x00158B27|Hey, get back here! We aren't done yeÑü
+13683|0x00158B59|Hey, get back here! We aren't~done yeÑü
 13684|0x00158B9A|To Aoi-san's convenience, the bell rang at that moment.
 13685|0x00158BDC|To Aoi-san's convenience, the~bell rang at that moment.
 13686|0x00158C3D|Just great! The bell rang! And I still have to make a list of students~that didn't pass the check in the Student Council Room!
@@ -9212,8 +9212,8 @@
 14107|0x00162156|Ideally speaking, it would be~splendid if we could achieve~that before the end of the~term.
 14108|0x001621DB|That's also why we gotta assemble enough members to become a real~club! That's our number one goal!
 14109|0x00162249|That's also why we gotta~assemble enough members to~become a real club! That's our~number one goal!
-14110|0x001622F9|My goal's a humble one ‚îÄ just for the Occult CLub to live on~forever, and one day it will be more than just a club!
-14111|0x00162378|My goal's a humble one ‚îÄ just~for the Occult CLub to live on~forever, and one day it will be~more than just a club!
+14110|0x001622F9|My goal's a humble one Ñü just for the Occult CLub to live on~forever, and one day it will be more than just a club!
+14111|0x00162378|My goal's a humble one Ñü just~for the Occult CLub to live on~forever, and one day it will be~more than just a club!
 14112|0x00162416|Sure, good luck with that.
 14113|0x0016243B|Sure, good luck with that.
 14114|0x00162494|Look, why are you so cold to me?! I get that you only care about the~stars and Kogasaka, but still! You're just way too cruel!

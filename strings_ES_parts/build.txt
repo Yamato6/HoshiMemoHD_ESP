@@ -1,17 +1,16 @@
-# Build script para MemoriaES
-# Ejecutar: python fvp_tools.py hcb-merge strings_ES_parts/build.txt strings_ES_merged.txt
-# Luego:    python fvp_tools.py hcb-rebuild MemoriaES.hcb strings_ES_merged.txt MemoriaES_traducido.hcb
+# Build script para reconstruir
+# Usar: python fvp_tools.py hcb-merge strings_ES_parts/build.txt strings_ES_merged.txt
 #
-strings_ES_parts/strings_ES_part01.txt
-strings_ES_parts/strings_ES_part02.txt
-strings_ES_parts/strings_ES_part03.txt
-strings_ES_parts/strings_ES_part04.txt
-strings_ES_parts/strings_ES_part05.txt
-strings_ES_parts/strings_ES_part06.txt
-strings_ES_parts/strings_ES_part07.txt
-strings_ES_parts/strings_ES_part08.txt
-strings_ES_parts/strings_ES_part09.txt
-strings_ES_parts/strings_ES_part10.txt
-strings_ES_parts/strings_ES_part11.txt
-strings_ES_parts/strings_ES_part12.txt
-strings_ES_parts/strings_ES_part13.txt
+strings_ES_part01.txt
+strings_ES_part02.txt
+strings_ES_part03.txt
+strings_ES_part04.txt
+strings_ES_part05.txt
+strings_ES_part06.txt
+strings_ES_part07.txt
+strings_ES_part08.txt
+strings_ES_part09.txt
+strings_ES_part10.txt
+strings_ES_part11.txt
+strings_ES_part12.txt
+strings_ES_part13.txt

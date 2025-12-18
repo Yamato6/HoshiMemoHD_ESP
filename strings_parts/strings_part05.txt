@@ -1,4 +1,4 @@
-# Parte 5 - L√≠neas 34901 a 44900
+# Parte 5 - Lineas 34901 a 44900
 # Total en esta parte: 10000 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -44,8 +44,8 @@
 34939|0x002FECE8|The mysterious animal came~flying this way again, and then~it flew back to draw circles in~the air.
 34940|0x002FED72|I got a message.
 34941|0x002FED8D|I got a message.
-34942|0x002FEDF7|Onii-chan! I'm gonna go catch it! Wish me luck (*^„ÉºÔæü)Ôæâ
-34943|0x002FEE3A|Onii-chan! I'm gonna go catch~it! Wish me luck (*^„ÉºÔæü)Ôæâ
+34942|0x002FEDF7|Onii-chan! I'm gonna go catch it! Wish me luck (*^Å[ﬂ)…
+34943|0x002FEE3A|Onii-chan! I'm gonna go catch~it! Wish me luck (*^Å[ﬂ)…
 34944|0x002FEEBE|Can't quite tell what it is from the picture, so we might as well try~capturing the thing...
 34945|0x002FEF25|Can't quite tell what it is~from the picture, so we might~as well try capturing the~thing...
 34946|0x002FEF91|The Occult Club members were all up for capturing it.
@@ -130,8 +130,8 @@
 35025|0x0030075E|Both of us had our breath stuck~in our throats.
 35026|0x003007B4|I got a message.
 35027|0x003007CF|I got a message.
-35028|0x00300838|Onii-chan, is that a new dragon species? (*^„ÉºÔæü)Ôæâ
-35029|0x00300875|Onii-chan, is that a new dragon~species? (*^„ÉºÔæü)Ôæâ
+35028|0x00300838|Onii-chan, is that a new dragon species? (*^Å[ﬂ)…
+35029|0x00300875|Onii-chan, is that a new dragon~species? (*^Å[ﬂ)…
 35030|0x003008B7|I believe any dragon would be a new species, dear sister.
 35031|0x003008FB|I believe any dragon would be a~new species, dear sister.
 35032|0x0030094B|Next I got a message from Aoi-san.
@@ -160,12 +160,12 @@
 35055|0x00300F71|Bad boy!
 35056|0x00300FBC|I got a message from Asuho.
 35057|0x00300FE2|I got a message from Asuho.
-35058|0x00301056|Mare-chan is so cute! (‚âß‚àá‚â¶)/
-35059|0x00301081|Mare-chan is so cute!~(‚âß‚àá‚â¶)/
+35058|0x00301056|Mare-chan is so cute! (ÅÜÅﬁÅÖ)/
+35059|0x00301081|Mare-chan is so cute!~(ÅÜÅﬁÅÖ)/
 35060|0x003010B1|I also received another message from Aoi-san.
 35061|0x003010E9|I also received another message~from Aoi-san.
-35062|0x00301139|(Ôæü–îÔæü)
-35063|0x0030114B|(Ôæü–îÔæü)
+35062|0x00301139|(ﬂÑDﬂ)
+35063|0x0030114B|(ﬂÑDﬂ)
 35064|0x00301162|(...What's her deal?)
 35065|0x00301182|(...What's her deal?)
 35066|0x003011ED|Listen, okay? You gotta obey what your master tells you. I'll punish~you if you don't.
@@ -184,8 +184,8 @@
 35079|0x00301583|Mare leapt up in surprise with~the dragon(?) still in her~hands.
 35080|0x00301602|With my laughter as a signal, the others who had been hiding also came~out.
 35081|0x00301658|With my laughter as a signal,~the others who had been hiding~also came out.
-35082|0x003016F0|You were super adorable, Mare-chanÔΩû!
-35083|0x00301720|You were super adorable,~Mare-chanÔΩû!
+35082|0x003016F0|You were super adorable, Mare-chanÅ`!
+35083|0x00301720|You were super adorable,~Mare-chanÅ`!
 35084|0x0030178A|U-Um, good evening!
 35085|0x003017A8|U-Um, good evening!
 35086|0x0030180D|Is that little guy your dragon? Does it eat souffles? Can I give it~one?!
@@ -362,8 +362,8 @@
 35257|0x00305065|Reptile, maybe... However, new~mammal species are much rarer~discoveries when compared to~other classes.
 35258|0x003050F7|Huh, the more you know. Well, maybe you'll find some other neat~creature if you search the lookout.
 35259|0x00305165|Huh, the more you know. Well,~maybe you'll find some other~neat creature if you search the~lookout.
-35260|0x003051E2|Asuka, just for the record‚îÄ
-35261|0x00305209|Asuka, just for the record‚îÄ
+35260|0x003051E2|Asuka, just for the recordÑü
+35261|0x00305209|Asuka, just for the recordÑü
 35262|0x0030524F|I know, I'm not gonna take this to the media or anything. My interests~lie with all things supernatural, and unfortunately, dragons belong to~the realm of fantasy.
 35263|0x003052FD|I know, I'm not gonna take this~to the media or anything. My~interests lie with all things~supernatural, and
 35264|0x003053DF|U-Um, may I pet him...?
@@ -2776,8 +2776,8 @@
 37671|0x00332B24|The Perseids are much larger in~scale compared to other meteor~showers, so it's recommended~for those who want to see one
 37672|0x00332BB9|Luckily, we also have a new moon tonight, which means no moonlight to~obstruct our view, and being on a rooftop, we can see from horizon to~horizon. These conditions might be the best we could've hoped for.
 37673|0x00332C92|Luckily, we also have a new~moon tonight, which means no~moonlight to obstruct our view,~and being on a rooftop, we can
-37674|0x00332D30|We might be able to see a few dozen meteors, if we're lucky, maybe~even a few hundred ‚îÄ all just during this one night!
-37675|0x00332DB3|We might be able to see a few~dozen meteors, if we're lucky,~maybe even a few hundred ‚îÄ~all just during this one night!
+37674|0x00332D30|We might be able to see a few dozen meteors, if we're lucky, maybe~even a few hundred Ñü all just during this one night!
+37675|0x00332DB3|We might be able to see a few~dozen meteors, if we're lucky,~maybe even a few hundred Ñü~all just during this one night!
 37676|0x00332E3B|Apparently, this day happened to be the peak date of the shower, so~Asuho's words could very well come true.
 37677|0x00332EB2|Apparently, this day happened~to be the peak date of the~shower, so Asuho's words could~very well come true.
 37678|0x00332F2E|Now that I think about it, I suppose the shooting star I spotted with~Asuho at the lookout was part of the Perseids meteor shower.
@@ -4052,8 +4052,8 @@
 38947|0x0034C631|So you see, I can't have you~leaving just yet.
 38948|0x0034C66F|Setsuna silently readied her weapon.
 38949|0x0034C69E|Setsuna silently readied her~weapon.
-38950|0x0034C6EC|My deepest apologies‚îÄ
-38951|0x0034C70D|My deepest apologies‚îÄ
+38950|0x0034C6EC|My deepest apologiesÑü
+38951|0x0034C70D|My deepest apologiesÑü
 38952|0x0034C733|Her naginata radiated a sharp gleam from its tip, aiming at Mare's~life.
 38953|0x0034C786|Her naginata radiated a sharp~gleam from its tip, aiming at~Mare's life.
 38954|0x0034C81E|As one who deals in exterminating your kind, I can't let you roam~free.
@@ -4112,7 +4112,7 @@
 39007|0x0034D560|I wish you would just die.
 39008|0x0034D58A|I responded with an Aoi-style insult.
 39009|0x0034D5BA|I responded with an Aoi-style~insult.
-39010|0x0034D609|But according to my Big Brother Ethogram, whenever you get unnaturally~sharp-tongued you're actually hoping for a lewd sensation and‚îÄ
+39010|0x0034D609|But according to my Big Brother Ethogram, whenever you get unnaturally~sharp-tongued you're actually hoping for a lewd sensation andÑü
 39011|0x0034D69A|But according to my Big Brother~Ethogram, whenever you get~unnaturally sharp-tongued~you're actually hoping for a
 39012|0x0034D76C|I ripped it to shreds.
 39013|0x0034D78D|I ripped it to shreds.
@@ -5024,7 +5024,7 @@
 39919|0x0035E3A4|How worried are we talking here~Shino-san?
 39920|0x0035E3DE|Completely ignored.
 39921|0x0035E3FC|Completely ignored.
-39922|0x0035E439|Well, you see, even after the doctor had already gone on his way,~You-chan stayed by your bedside the whole night, not even getting a~wink of sleep and‚îÄ
+39922|0x0035E439|Well, you see, even after the doctor had already gone on his way,~You-chan stayed by your bedside the whole night, not even getting a~wink of sleep andÑü
 39923|0x0035E4DD|Well, you see, even after the~doctor had already gone on his~way, You-chan stayed by your~bedside the whole night, not
 39924|0x0035E56D|Okay, okay, we get it! Don't say anything more!
 39925|0x0035E5A7|Okay, okay, we get it! Don't~say anything more!
@@ -5926,8 +5926,8 @@
 40821|0x0036D27D|Oh goodness, that's sure a lot~to eat. Be careful not to give~yourselves a stomach ache,~everyone.
 40822|0x0036D2EF|The hot summer showed no signs of abating.
 40823|0x0036D324|The hot summer showed no signs~of abating.
-40824|0x0036D398|‚îÄThe time has come for her to set the stage.
-40825|0x0036D3D0|‚îÄThe time has come for her to~set the stage.
+40824|0x0036D398|ÑüThe time has come for her to set the stage.
+40825|0x0036D3D0|ÑüThe time has come for her to~set the stage.
 40826|0x0036D431|Suwa Setsuna stood racking her brains.
 40827|0x0036D462|Suwa Setsuna stood racking her~brains.
 40828|0x0036D498|She visited the lookout both days prior, but her efforts yielded no~results. Mare refused to reveal herself.
@@ -6642,8 +6642,8 @@
 41537|0x00379E78|If you can't disappear, run~away and hide in the woods!
 41538|0x00379ED6|I won't let you!
 41539|0x00379EF1|I won't let you!
-41540|0x00379F31|Kosame-san kicked the ground and broke into a dash‚îÄ
-41541|0x00379F70|Kosame-san kicked the ground~and broke into a dash‚îÄ
+41540|0x00379F31|Kosame-san kicked the ground and broke into a dashÑü
+41541|0x00379F70|Kosame-san kicked the ground~and broke into a dashÑü
 41542|0x00379FE0|I used Mare's scythe to block her.
 41543|0x0037A00D|I used Mare's scythe to block~her.
 41544|0x0037A03F|Her heavy blow made my arms go numb. So much so that I almost dropped~the scythe.
@@ -7360,8 +7360,8 @@
 42255|0x003878B4|I expected it to be Kosame-san,~but it turned out to be~Hisakaki instead.
 42256|0x0038794C|Didn't think you'd be here already.
 42257|0x0038797A|Didn't think you'd be here~already.
-42258|0x003879E3|Hey, what are you doing h‚îÄ
-42259|0x00387A09|Hey, what are you doing h‚îÄ
+42258|0x003879E3|Hey, what are you doing hÑü
+42259|0x00387A09|Hey, what are you doing hÑü
 42260|0x00387A34|A flicker of anger flashed across Asuho's face, but that emotion was~soon overruled by concern.
 42261|0x00387A9E|A flicker of anger flashed~across Asuho's face, but that~emotion was soon overruled by~concern.
 42262|0x00387B27|O-Oh my god! What happened to your hand...?
@@ -7436,16 +7436,16 @@
 42331|0x003890F0|But that's actually perfect.
 42332|0x0038911C|I already saw where Kosame-san was going with this.
 42333|0x0038915A|I already saw where Kosame-san~was going with this.
-42334|0x003891B7|I've wronged a fellow club member. As such, today I must inform you of~my‚îÄ
-42335|0x0038920D|I've wronged a fellow club~member. As such, today I must~inform you of my‚îÄ
+42334|0x003891B7|I've wronged a fellow club member. As such, today I must inform you of~myÑü
+42335|0x0038920D|I've wronged a fellow club~member. As such, today I must~inform you of myÑü
 42336|0x00389278|Hold on.
 42337|0x0038928B|Hold on.
 42338|0x003892A3|Now that I knew how Kosame-san feels, there was hardly any other~option for me to choose.
 42339|0x00389307|Now that I knew how Kosame-san~feels, there was hardly any~other option for me to choose.
 42340|0x0038937A|After all's said and done, I can't forgive you, Kosame-san.
 42341|0x003893C0|After all's said and done, I~can't forgive you, Kosame-san.
-42342|0x0038944E|Wha‚îÄ
-42343|0x0038945E|Wha‚îÄ
+42342|0x0038944E|WhaÑü
+42343|0x0038945E|WhaÑü
 42344|0x0038948D|It's fine, Nee-san.
 42345|0x003894AB|It's fine, Nee-san.
 42346|0x003894D8|Having you quit the club wouldn't be enough for me to forgive you.
@@ -7522,8 +7522,8 @@
 42417|0x0038AD19|You? Komomo-chan? Joining the~Astro Club? To keep an eye on~us...?
 42418|0x0038AD79|After that, she frowned.
 42419|0x0038AD9C|After that, she frowned.
-42420|0x0038ADF4|No one said you could j‚îÄ
-42421|0x0038AE18|No one said you could j‚îÄ
+42420|0x0038ADF4|No one said you could jÑü
+42421|0x0038AE18|No one said you could jÑü
 42422|0x0038AE69|Asuho.
 42423|0x0038AE7A|Asuho.
 42424|0x0038AEB5|I covered Asuho's mouth.
@@ -8274,8 +8274,8 @@
 43169|0x00398927|She did her big sister act~again.
 43170|0x0039898F|It's nice to see that your sense of rivalry towards Kogasaka-san's~first love, the girl from the lookout, is blazing.
 43171|0x00398A0F|It's nice to see that your~sense of rivalry towards~Kogasaka-san's first love, the~girl from the lookout, is
-43172|0x00398AA5|Wha‚îÄ?! How did you even get there?!
-43173|0x00398AD4|Wha‚îÄ?! How did you even get~there?!
+43172|0x00398AA5|WhaÑü?! How did you even get there?!
+43173|0x00398AD4|WhaÑü?! How did you even get~there?!
 43174|0x00398B22|I've heard the girl from the lookout is older than Kogasaka-san, so I~figured you were also trying to act more mature than Kogasaka-san to~rival her.
 43175|0x00398BC2|I've heard the girl from the~lookout is older than~Kogasaka-san, so I figured you~were also trying to act more
 43176|0x00398C65|That's totally wrong!
@@ -8824,8 +8824,8 @@
 43719|0x003A2DE3|I'd probably already chosen~someone else over Asuho.
 43720|0x003A2E27|Over both her, and over anyone else.
 43721|0x003A2E56|Over both her, and over anyone~else.
-43722|0x003A2E8A|The girl I'd chosen was her ‚îÄ the girl from the lookout...
-43723|0x003A2ED0|The girl I'd chosen was her ‚îÄ~the girl from the lookout...
+43722|0x003A2E8A|The girl I'd chosen was her Ñü the girl from the lookout...
+43723|0x003A2ED0|The girl I'd chosen was her Ñü~the girl from the lookout...
 43724|0x003A2F6D|...It's okay.
 43725|0x003A2F85|...It's okay.
 43726|0x003A2FA2|Asuho flashed a lonesome smile at me.
@@ -9130,8 +9130,8 @@
 44025|0x003A898D|Really?
 44026|0x003A89B4|Yeah. I got her name back.
 44027|0x003A89D9|Yeah. I got her name back.
-44028|0x003A8A19|Her name ‚îÄ Yume.
-44029|0x003A8A35|Her name ‚îÄ Yume.
+44028|0x003A8A19|Her name Ñü Yume.
+44029|0x003A8A35|Her name Ñü Yume.
 44030|0x003A8A56|It isn't her full name, however.
 44031|0x003A8A81|It isn't her full name,~however.
 44032|0x003A8AB1|I couldn't even say whether it was her first name or last name.
@@ -9338,8 +9338,8 @@
 44233|0x003ADA22|...I don't really get what's~going on here, but technically~I do have something else to do.
 44234|0x003ADACC|Are you asking us to help you with something, Kogasaka-kun?
 44235|0x003ADB12|Are you asking us to help you~with something, Kogasaka-kun?
-44236|0x003ADB92|Yeah, he is! See he's searching for his first love who's this little~girl he‚îÄ
-44237|0x003ADBEB|Yeah, he is! See he's searching~for his first love who's this~little girl he‚îÄ
+44236|0x003ADB92|Yeah, he is! See he's searching for his first love who's this little~girl heÑü
+44237|0x003ADBEB|Yeah, he is! See he's searching~for his first love who's this~little girl heÑü
 44238|0x003ADCC9|*BAM*
 44239|0x003ADCD9|*BAM*
 44240|0x003ADD13|You kicked me in the butt!! How could you?!
@@ -9358,7 +9358,7 @@
 44253|0x003AE0B8|That's new information to us.
 44254|0x003AE11C|...What are you guys talking about?
 44255|0x003AE14A|...What are you guys talking~about?
-44256|0x003AE1CC|Onii-chan! Still hiding it at this point is only gonna make your~actions more criminal! Okay, the girl you love may be significantly~younger than you, but‚îÄ
+44256|0x003AE1CC|Onii-chan! Still hiding it at this point is only gonna make your~actions more criminal! Okay, the girl you love may be significantly~younger than you, butÑü
 44257|0x003AE273|Onii-chan! Still hiding it at~this point is only gonna make~your actions more criminal!~Okay, the girl you love may be
 44258|0x003AE37A|*BAM* *BAM* *BAM* *BAM* *BAM*
 44259|0x003AE3A2|*BAM* *BAM* *BAM* *BAM* *BAM*
@@ -9496,12 +9496,12 @@
 44391|0x003B1BBF|...Well, duh. That's just plain~impossible in one day. Houses~are a lot more spread out here~compared to urban cities.
 44392|0x003B1C6A|In the end, we found nothing. Nothing at all.
 44393|0x003B1CA2|In the end, we found nothing.~Nothing at all.
-44394|0x003B1CDF|Hibari High's yearbooks ‚îÄ nothing.
-44395|0x003B1D0D|Hibari High's yearbooks ‚îÄ~nothing.
-44396|0x003B1D40|Student register ‚îÄ nothing.
-44397|0x003B1D67|Student register ‚îÄ nothing.
-44398|0x003B1D93|Our elementary school's yearbooks ‚îÄ nothing.
-44399|0x003B1DCB|Our elementary school's~yearbooks ‚îÄ nothing.
+44394|0x003B1CDF|Hibari High's yearbooks Ñü nothing.
+44395|0x003B1D0D|Hibari High's yearbooks Ñü~nothing.
+44396|0x003B1D40|Student register Ñü nothing.
+44397|0x003B1D67|Student register Ñü nothing.
+44398|0x003B1D93|Our elementary school's yearbooks Ñü nothing.
+44399|0x003B1DCB|Our elementary school's~yearbooks Ñü nothing.
 44400|0x003B1E08|The logical conclusion is that she never actually attended Hibari~High, and transferred away sometime during elementary.
 44401|0x003B1E8B|The logical conclusion is that~she never actually attended~Hibari High, and transferred~away sometime during
 44402|0x003B1F07|Perhaps she wasn't here in Hibarigasaki anymore.
@@ -9510,10 +9510,10 @@
 44405|0x003B1FBB|A wave of panic washed over me~in that moment.
 44406|0x003B1FF9|Would it honestly still be possible to find her, with just her name as~my lead, if she wasn't in Hibarigasaki?
 44407|0x003B2072|Would it honestly still be~possible to find her, with just~her name as my lead, if she~wasn't in Hibarigasaki?
-44408|0x003B20F0|No, wait‚îÄ
-44409|0x003B2105|No, wait‚îÄ
-44410|0x003B219B|I'm proud of you. Yes, very proud‚îÄ
-44411|0x003B21C9|I'm proud of you. Yes, very~proud‚îÄ
+44408|0x003B20F0|No, waitÑü
+44409|0x003B2105|No, waitÑü
+44410|0x003B219B|I'm proud of you. Yes, very proudÑü
+44411|0x003B21C9|I'm proud of you. Yes, very~proudÑü
 44412|0x003B222F|She was still in Hibarigasaki.
 44413|0x003B2258|She was still in Hibarigasaki.
 44414|0x003B2286|Without a shadow of a doubt.
@@ -9700,8 +9700,8 @@
 44595|0x003B5A3C|(I wonder if Mare knows the~girl from the lookout.)
 44596|0x003B5A7F|(If she knows the girl called Ototsu Yume.)
 44597|0x003B5AB5|(If she knows the girl called~Ototsu Yume.)
-44598|0x003B5AF0|(Mare‚îÄ)
-44599|0x003B5B03|(Mare‚îÄ)
+44598|0x003B5AF0|(MareÑü)
+44599|0x003B5B03|(MareÑü)
 44600|0x003B5B3A|(Why is your face almost a mirror image of the young Ototsu Yume's?)
 44601|0x003B5B89|(Why is your face almost a~mirror image of the young~Ototsu Yume's?)
 44602|0x003B5C28|Whenever you're hesitating between two sides, asking or not asking,~you're better off going with the latter.

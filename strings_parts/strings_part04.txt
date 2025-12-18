@@ -1,4 +1,4 @@
-# Parte 4 - L√≠neas 24901 a 34900
+# Parte 4 - Lineas 24901 a 34900
 # Total en esta parte: 10000 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -1194,8 +1194,8 @@
 26089|0x0024EBEF|...Me too.
 26090|0x0024EC23|You what?
 26091|0x0024EC37|You what?
-26092|0x0024EC6F|The way you're so gung-ho about being her friend, I also li‚îÄ
-26093|0x0024ECB7|The way you're so gung-ho about~being her friend, I also li‚îÄ
+26092|0x0024EC6F|The way you're so gung-ho about being her friend, I also liÑü
+26093|0x0024ECB7|The way you're so gung-ho about~being her friend, I also liÑü
 26094|0x0024ED1E|Li?
 26095|0x0024ED2C|Li?
 26096|0x0024ED49|Liver and bacon.
@@ -2244,8 +2244,8 @@
 27139|0x002649A4|All right then, let's go over~the southern hemisphere's stars~one by one.
 27140|0x00264A1C|I used a laser pointer to assist with our tour of the starry sky above~our heads.
 27141|0x00264A78|I used a laser pointer to~assist with our tour of the~starry sky above our heads.
-27142|0x00264AD9|Following the prominent Southern Cross, constellations of mythical~beasts ‚îÄ Pavo, Apus, Monoceros, and Tucana ‚îÄ all lined up.
-27143|0x00264B63|Following the prominent~Southern Cross, constellations~of mythical beasts ‚îÄ Pavo,~Apus, Monoceros, and Tucana ‚îÄ
+27142|0x00264AD9|Following the prominent Southern Cross, constellations of mythical~beasts Ñü Pavo, Apus, Monoceros, and Tucana Ñü all lined up.
+27143|0x00264B63|Following the prominent~Southern Cross, constellations~of mythical beasts Ñü Pavo,~Apus, Monoceros, and Tucana Ñü
 27144|0x00264BE4|Plenty of other constellations had unusual names, such as Pyxis, Rule,~Clock, Telescope, and Microscope.
 27145|0x00264C57|Plenty of other constellations~had unusual names, such as~Pyxis, Rule, Clock, Telescope,~and Microscope.
 27146|0x00264CCF|In addition to that, there was a plethora of gorgeous celestial~objects like the small and large Magellanic Clouds, and the Carina~Nebula.
@@ -3210,8 +3210,8 @@
 28105|0x00278680|Only the area surrounding her~could escape the midsummer~heat.
 28106|0x002786CE|Seeking cold, my feet were naturally drawn towards her.
 28107|0x00278710|Seeking cold, my feet were~naturally drawn towards her.
-28108|0x00278784|...Wha‚îÄ?!
-28109|0x00278799|...Wha‚îÄ?!
+28108|0x00278784|...WhaÑü?!
+28109|0x00278799|...WhaÑü?!
 28110|0x002787B3|She noticed my presence as well.
 28111|0x002787DE|She noticed my presence as~well.
 28112|0x00278819|In response to my short hand raise in place of a greeting, Hisakaki~turned away, as if embarrassed about her current outfit.
@@ -4426,8 +4426,8 @@
 29321|0x0028F8B5|However, if she didn't show up~on the photograph then that~would make me think she was~actually a figment of my
 29322|0x0028F934|Maybe I was afraid of that possibility.
 29323|0x0028F966|Maybe I was afraid of that~possibility.
-29324|0x0028F99D|That is just how large that feeling inside of me had grown ‚îÄ that~feeling of wishing for her to be real.
-29325|0x0028FA11|That is just how large that~feeling inside of me had grown~‚îÄ that feeling of wishing for~her to be real.
+29324|0x0028F99D|That is just how large that feeling inside of me had grown Ñü that~feeling of wishing for her to be real.
+29325|0x0028FA11|That is just how large that~feeling inside of me had grown~Ñü that feeling of wishing for~her to be real.
 29326|0x0028FA94|...Hey.
 29327|0x0028FAA6|...Hey.
 29328|0x0028FB0C|Mare pulled on my shirt.
@@ -4820,8 +4820,8 @@
 29715|0x00296888|Yeah, I remember Onii-chan~saying that too.
 29716|0x002968C3|Then Chinami brought her hand to her mouth, as if a light bulb~suddenly turned on over her head.
 29717|0x0029692E|Then Chinami brought her hand~to her mouth, as if a light~bulb suddenly turned on over~her head.
-29718|0x002969E5|Come to think of it, he said Mare-chan is basically a mirror image of~his first love‚îÄ
-29719|0x00296A46|Come to think of it, he said~Mare-chan is basically a mirror~image of his first love‚îÄ
+29718|0x002969E5|Come to think of it, he said Mare-chan is basically a mirror image of~his first loveÑü
+29719|0x00296A46|Come to think of it, he said~Mare-chan is basically a mirror~image of his first loveÑü
 29720|0x00296B27|*BAM*
 29721|0x00296B37|*BAM*
 29722|0x00296B71|How can you just kick me away?!
@@ -6608,8 +6608,8 @@
 31503|0x002BBA01|We finally see each other~again, huh?
 31504|0x002BBA50|...We're meeting for the first time, so I think not.
 31505|0x002BBA8F|...We're meeting for the first~time, so I think not.
-31506|0x002BBAED|Don't you remember me? I used to be in the science center's Astronomy~Club together with you ‚îÄ Okaizumi Haruto's my name.
-31507|0x002BBB72|Don't you remember me? I used~to be in the science center's~Astronomy Club together with~you ‚îÄ Okaizumi Haruto's my
+31506|0x002BBAED|Don't you remember me? I used to be in the science center's Astronomy~Club together with you Ñü Okaizumi Haruto's my name.
+31507|0x002BBB72|Don't you remember me? I used~to be in the science center's~Astronomy Club together with~you Ñü Okaizumi Haruto's my
 31508|0x002BBC10|...Okaizumi.
 31509|0x002BBC27|...Okaizumi.
 31510|0x002BBC5D|Ring a bell?
@@ -7478,8 +7478,8 @@
 32373|0x002CC709|All the while, I was just~silently looking at the sun as~it slowly disappeared beyond~the horizon.
 32374|0x002CC7D9|......
 32375|0x002CC7EA|......
-32376|0x002CC800|...Wha‚îÄ?!
-32377|0x002CC815|...Wha‚îÄ?!
+32376|0x002CC800|...WhaÑü?!
+32377|0x002CC815|...WhaÑü?!
 32378|0x002CC858|She entered my vision for a brief moment.
 32379|0x002CC88C|She entered my vision for a~brief moment.
 32380|0x002CC8C5|Only to disappear immediately thereafter.
@@ -8020,7 +8020,7 @@
 32915|0x002D637D|It isn't too terrible since~you're wearing sandals, but you~do realize you would've broken~my nose if you had shoes on,
 32916|0x002D6410|Well, it's not broken, so I don't see the problem.
 32917|0x002D644D|Well, it's not broken, so I~don't see the problem.
-32918|0x002D6499|Also, there's no worries since you're wearing your shrine maiden~outfit, but if you lifted up your leg like that with a skirt, I'd~totally see your‚îÄ
+32918|0x002D6499|Also, there's no worries since you're wearing your shrine maiden~outfit, but if you lifted up your leg like that with a skirt, I'd~totally see yourÑü
 32919|0x002D6539|Also, there's no worries since~you're wearing your shrine~maiden outfit, but if you~lifted up your leg like that
 32920|0x002D6618|*BAM*
 32921|0x002D6628|*BAM*
@@ -8736,7 +8736,7 @@
 33631|0x002E3760|Rather than calling her~beautiful, I would say~Kosame-san has more of a cute~look, don't you think?
 33632|0x002E37DF|Why are you asking me that?
 33633|0x002E3805|Why are you asking me that?
-33634|0x002E383A|Maybe it's the difference in your inner values. Unlike Kosame-san, no~matter how you spin it, your personality is pretty much the opposite~of cut‚îÄ
+33634|0x002E383A|Maybe it's the difference in your inner values. Unlike Kosame-san, no~matter how you spin it, your personality is pretty much the opposite~of cutÑü
 33635|0x002E38D8|Maybe it's the difference in~your inner values. Unlike~Kosame-san, no matter how you~spin it, your personality is
 33636|0x002E39B8|*BAM*
 33637|0x002E39C8|*BAM*
@@ -8840,8 +8840,8 @@
 33735|0x002E57DE|Practice? For what?
 33736|0x002E581B|Oh, no, it's nothing.
 33737|0x002E583B|Oh, no, it's nothing.
-33738|0x002E587A|Well, if you really want to know, on the last day of the summer~festival, Nee-san will be‚îÄ
-33739|0x002E58E0|Well, if you really want to~know, on the last day of the~summer festival, Nee-san will~be‚îÄ
+33738|0x002E587A|Well, if you really want to know, on the last day of the summer~festival, Nee-san will beÑü
+33739|0x002E58E0|Well, if you really want to~know, on the last day of the~summer festival, Nee-san will~beÑü
 33740|0x002E5965|I'll kick you if you tell him!
 33741|0x002E598E|I'll kick you if you tell him!
 33742|0x002E59D6|...That kind of punishment would only make me sad.
@@ -8900,8 +8900,8 @@
 33795|0x002E6EC4|Well, if we were by some~miracle able to amass all of~our breaks together into one,~we may be able to walk around
 33796|0x002E6F5F|I'll pass. Feel free to go by yourself.
 33797|0x002E6F91|I'll pass. Feel free to go by~yourself.
-33798|0x002E6FE2|In that case, on the final day of the festival, I'll reserve us all~special seating for your‚îÄ
-33799|0x002E704B|In that case, on the final day~of the festival, I'll reserve~us all special seating for~your‚îÄ
+33798|0x002E6FE2|In that case, on the final day of the festival, I'll reserve us all~special seating for yourÑü
+33799|0x002E704B|In that case, on the final day~of the festival, I'll reserve~us all special seating for~yourÑü
 33800|0x002E70D3|I'll kick you!
 33801|0x002E70EC|I'll kick you!
 33802|0x002E7124|...I'm not up for punishment that hurts.
@@ -8950,8 +8950,8 @@
 33845|0x002E8097|Oh, you aren't alone. Did~something happen? You seem in~awfully good spirits.
 33846|0x002E80FE|Get any leads during questioning?
 33847|0x002E812A|Get any leads during~questioning?
-33848|0x002E8191|We sure did, Onii-chan! We've been questioning students about Hibari~High's urban legend until just now and‚îÄ
-33849|0x002E8209|We sure did, Onii-chan! We've~been questioning students about~Hibari High's urban legend~until just now and‚îÄ
+33848|0x002E8191|We sure did, Onii-chan! We've been questioning students about Hibari~High's urban legend until just now andÑü
+33849|0x002E8209|We sure did, Onii-chan! We've~been questioning students about~Hibari High's urban legend~until just now andÑü
 33850|0x002E82A0|Whoa there, Chinami-chan. We could take a seat before you talk his~head off.
 33851|0x002E82F7|Whoa there, Chinami-chan. We~could take a seat before you~talk his head off.
 33852|0x002E836D|Okey dokey! Then show us to a table, Onii-chan!
@@ -9362,7 +9362,7 @@
 34257|0x002F15F4|Onii-chan, what's wrong? Your~face is bright red.
 34258|0x002F163F|As if you can tell that in the dark.
 34259|0x002F166E|As if you can tell that in the~dark.
-34260|0x002F16BC|But according to my Big Brother Observation Diary, whenever you shake~your head vehemently, you're actually blushing due to a wild romantic~fantasy that‚îÄ
+34260|0x002F16BC|But according to my Big Brother Observation Diary, whenever you shake~your head vehemently, you're actually blushing due to a wild romantic~fantasy thatÑü
 34261|0x002F1761|But according to my Big Brother~Observation Diary, whenever you~shake your head vehemently,~you're actually blushing due to
 34262|0x002F1827|I ripped it to shreds.
 34263|0x002F1848|I ripped it to shreds.
@@ -9564,8 +9564,8 @@
 34459|0x002F5DA6|Then all that leaves is~Okaizumi-senpai and~Setsuna-senpai we gotta get in~touch with.
 34460|0x002F5E42|......
 34461|0x002F5E53|......
-34462|0x002F5E92|Aoi-san, if you happen to have time, then‚îÄ
-34463|0x002F5EC8|Aoi-san, if you happen to have~time, then‚îÄ
+34462|0x002F5E92|Aoi-san, if you happen to have time, thenÑü
+34463|0x002F5EC8|Aoi-san, if you happen to have~time, thenÑü
 34464|0x002F5F1D|Won't happen.
 34465|0x002F5F35|Won't happen.
 34466|0x002F5F52|...Didn't even give me the time to finish my sentence.
@@ -9892,8 +9892,8 @@
 34787|0x002FBF3D|He aimsedthe lens every which~way while looking through the~viewfinder, but the disk-shaped~light was gone.
 34788|0x002FBFF7|Kogasaka, you saw it for real?
 34789|0x002FC020|Kogasaka, you saw it for real?
-34790|0x002FC058|Yeah. It fit your description perfectly ‚îÄ a disk of light, floating~up around the ceiling.
-34791|0x002FC0BE|Yeah. It fit your description~perfectly ‚îÄ a disk of light,~floating up around the ceiling.
+34790|0x002FC058|Yeah. It fit your description perfectly Ñü a disk of light, floating~up around the ceiling.
+34791|0x002FC0BE|Yeah. It fit your description~perfectly Ñü a disk of light,~floating up around the ceiling.
 34792|0x002FC129|Even if I couldn't believe it was a UFO, it was definitely a~mysterious object.
 34793|0x002FC183|Even if I couldn't believe it~was a UFO, it was definitely a~mysterious object.
 34794|0x002FC21A|Then what was that flash just now?
@@ -9926,8 +9926,8 @@
 34821|0x002FCB1C|At that point, my cellphone~vibrated.
 34822|0x002FCB6C|It was a message from Asuho.
 34823|0x002FCB93|It was a message from Asuho.
-34824|0x002FCBDF|OMG, this is sooo boring! I just want to move around or something!~(„Éé‚óá‚â¶„ÄÇ)
-34825|0x002FCC38|OMG, this is sooo boring! I~just want to move around or~something! („Éé‚óá‚â¶„ÄÇ)
+34824|0x002FCBDF|OMG, this is sooo boring! I just want to move around or something!~(ÉmÅûÅÖÅB)
+34825|0x002FCC38|OMG, this is sooo boring! I~just want to move around or~something! (ÉmÅûÅÖÅB)
 34826|0x002FCC96|...Sure didn't take her long to get tired of waiting.
 34827|0x002FCCD6|...Sure didn't take her long to~get tired of waiting.
 34828|0x002FCD2C|I replied, telling her to put up with it.
@@ -9936,22 +9936,22 @@
 34831|0x002FCDCB|My cellphone vibrated again.
 34832|0x002FCDF7|This time it was from Chinami.
 34833|0x002FCE20|This time it was from Chinami.
-34834|0x002FCE6E|Can I eat the souffles now? (*^„ÉºÔæü)Ôæâ
-34835|0x002FCE9E|Can I eat the souffles now?~(*^„ÉºÔæü)Ôæâ
+34834|0x002FCE6E|Can I eat the souffles now? (*^Å[ﬂ)…
+34835|0x002FCE9E|Can I eat the souffles now?~(*^Å[ﬂ)…
 34836|0x002FCEE4|I replied, telling her to put up with it.
 34837|0x002FCF18|I replied, telling her to put~up with it.
 34838|0x002FCF51|Next I got a message from Aoi-san.
 34839|0x002FCF7E|Next I got a message from~Aoi-san.
-34840|0x002FCFC3|(Ôæü–îÔæü)
-34841|0x002FCFD5|(Ôæü–îÔæü)
+34840|0x002FCFC3|(ﬂÑDﬂ)
+34841|0x002FCFD5|(ﬂÑDﬂ)
 34842|0x002FCFEC|(...Why is she mad?)
 34843|0x002FD00B|(...Why is she mad?)
 34844|0x002FD036|I didn't really understand, but I gave her the same reply as the~previous two.
 34845|0x002FD08F|I didn't really understand, but~I gave her the same reply as~the previous two.
 34846|0x002FD0F8|Next I got one from Suzuha-chan.
 34847|0x002FD123|Next I got one from~Suzuha-chan.
-34848|0x002FD173|( Ôæü–îÔæü)Âá∏
-34849|0x002FD188|( Ôæü–îÔæü)Âá∏
+34848|0x002FD173|( ﬂÑDﬂ)ì 
+34849|0x002FD188|( ﬂÑDﬂ)ì 
 34850|0x002FD1A2|(Did she just give me the finger?!)
 34851|0x002FD1D0|(Did she just give me the~finger?!)
 34852|0x002FD20A|I immediately received another message, which read, I'm so sorry, that~wasn't me. Onee-chan just went and sent that with my cellphone.
@@ -9960,8 +9960,8 @@
 34855|0x002FD34F|(...What are those girls doing~over there?)
 34856|0x002FD395|Then I got another one from Asuho.
 34857|0x002FD3C2|Then I got another one from~Asuho.
-34858|0x002FD414||-Ôæü)
-34859|0x002FD424||-Ôæü)
+34858|0x002FD414||-ﬂ)
+34859|0x002FD424||-ﬂ)
 34860|0x002FD490|I looked over, and there was Asuho staring my way with half her face~hidden behind the wall.
 34861|0x002FD4F7|I looked over, and there was~Asuho staring my way with half~her face hidden behind the~wall.
 34862|0x002FD579|Jesus!

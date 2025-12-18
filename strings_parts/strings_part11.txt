@@ -1,4 +1,4 @@
-# Parte 11 - LÃ­neas 94901 a 104900
+# Parte 11 - Lineas 94901 a 104900
 # Total en esta parte: 10000 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -112,8 +112,8 @@
 95007|0x0074FEB2|Senpai...
 95008|0x0074FED7|If you go back on your word, then I'll hate you forever...
 95009|0x0074FF1C|If you go back on your word,~then I'll hate you forever...
-95010|0x0074FF72|Even though my feelings for you are this strong, that won't stop me~from hating you foreverâ”€
-95011|0x0074FFDA|Even though my feelings for you~are this strong, that won't~stop me from hating you~foreverâ”€
+95010|0x0074FF72|Even though my feelings for you are this strong, that won't stop me~from hating you forever„Ÿ
+95011|0x0074FFDA|Even though my feelings for you~are this strong, that won't~stop me from hating you~forever„Ÿ
 95012|0x00750091|Underneath that sky, a warm sensation touched my lips.
 95013|0x007500D2|Underneath that sky, a warm~sensation touched my lips.
 95014|0x00750118|Even under the thick veil of darkness, the light of the flickering~aurora faintly illuminated her face.
@@ -148,8 +148,8 @@
 95043|0x00750864|(Now it's my turn to carry this~dream.)
 95044|0x0075089B|(Along with the broken telescope that you entrusted to her...)
 95045|0x007508E4|(Along with the broken~telescope that you entrusted to~her...)
-95046|0x00750932|(That's what you wanted, isn't it, Dadâ”€)
-95047|0x00750966|(That's what you wanted, isn't~it, Dadâ”€)
+95046|0x00750932|(That's what you wanted, isn't it, Dad„Ÿ)
+95047|0x00750966|(That's what you wanted, isn't~it, Dad„Ÿ)
 95048|0x00750A0C|This morning was a lot warmer than usual.
 95049|0x00750A40|This morning was a lot warmer~than usual.
 95050|0x00750AA3|You'd almost think a typhoon had just passed through from the sparsity~of the clouds.
@@ -186,8 +186,8 @@
 95081|0x00751415|I didn't really get what was~going on, but I got rejected.
 95082|0x0075145F|After the planetarium show ended yesterday, we parted ways~immediately. She didn't even show up to dinner.
 95083|0x007514D4|After the planetarium show~ended yesterday, we parted ways~immediately. She didn't even~show up to dinner.
-95084|0x0075154E|I didn't dare go to her room either â”€ it was just as difficult for~me to face her.
-95085|0x007515AC|I didn't dare go to her room~either â”€ it was just as~difficult for me to face her.
+95084|0x0075154E|I didn't dare go to her room either „Ÿ it was just as difficult for~me to face her.
+95085|0x007515AC|I didn't dare go to her room~either „Ÿ it was just as~difficult for me to face her.
 95086|0x0075160F|The day ended just like that, leaving us in a bit of an awkward~situation.
 95087|0x00751664|The day ended just like that,~leaving us in a bit of an~awkward situation.
 95088|0x007516BE|...If I'd known this would happen, I could've at least messaged her~last night.
@@ -816,8 +816,8 @@
 95711|0x0075C8DA|...Okay.
 95712|0x0075C930|Do you got any idea what they were just talking about Suzuha-chan?
 95713|0x0075C97D|Do you got any idea what they~were just talking about~Suzuha-chan?
-95714|0x0075CA04|U-Umm, like... I was thinking maybe the two of them have started daâ”€
-95715|0x0075CA54|U-Umm, like... I was thinking~maybe the two of them have~started daâ”€
+95714|0x0075CA04|U-Umm, like... I was thinking maybe the two of them have started da„Ÿ
+95715|0x0075CA54|U-Umm, like... I was thinking~maybe the two of them have~started da„Ÿ
 95716|0x0075CAF5|??!!
 95717|0x0075CB04|??!!
 95718|0x0075CB9E|Isuzu covered Suzuha-chan's mouth swift as lightning.
@@ -848,8 +848,8 @@
 95743|0x0075D286|Do you even need to be fetched?
 95744|0x0075D2DA|Are you seriously that intent on keeping me out of this, Onii-chan?!
 95745|0x0075D329|Are you seriously that intent~on keeping me out of this,~Onii-chan?!
-95746|0x0075D3BE|Oh come on now, You-chan. I know you want to be alone with Isuzu-chan~since you're seeing eachâ”€
-95747|0x0075D429|Oh come on now, You-chan. I~know you want to be alone with~Isuzu-chan since you're seeing~eachâ”€
+95746|0x0075D3BE|Oh come on now, You-chan. I know you want to be alone with Isuzu-chan~since you're seeing each„Ÿ
+95747|0x0075D429|Oh come on now, You-chan. I~know you want to be alone with~Isuzu-chan since you're seeing~each„Ÿ
 95748|0x0075D4DE|??!!
 95749|0x0075D4ED|??!!
 95750|0x0075D553|Isuzu jumped at Shino-san.
@@ -1302,8 +1302,8 @@
 96197|0x0076549A|Could she ever come to love the~starry sky of Hibarigasaki?
 96198|0x007654E5|I mean, thinking about it, her telescope being broken means she can't~look up at the starry sky of Hibarigasaki...
 96199|0x00765562|I mean, thinking about it, her~telescope being broken means~she can't look up at the starry~sky of Hibarigasaki...
-96200|0x007655E4|It would only continuously show the skies that her mind wants to see~through it â”€ the starry sky of her homeland.
-96201|0x00765661|It would only continuously show~the skies that her mind wants~to see through it â”€ the~starry sky of her homeland.
+96200|0x007655E4|It would only continuously show the skies that her mind wants to see~through it „Ÿ the starry sky of her homeland.
+96201|0x00765661|It would only continuously show~the skies that her mind wants~to see through it „Ÿ the~starry sky of her homeland.
 96202|0x00765702|I had no idea if repairing her telescope was possible.
 96203|0x00765743|I had no idea if repairing her~telescope was possible.
 96204|0x00765789|But the one thing I could say for sure is, if she continued on~refusing to have it repaired, her eyes would never look at~Hibarigasaki's sky.
@@ -1314,10 +1314,10 @@
 96209|0x00765998|She'd only stay gazing at the~skies of her past.
 96210|0x007659D8|She'd gaze into that telescope time and time again, never waking from~that dream that's already ended.
 96211|0x00765A49|She'd gaze into that telescope~time and time again, never~waking from that dream that's~already ended.
-96212|0x00765ABF|Never trying to set her eyes on a new dreamâ”€
-96213|0x00765AF7|Never trying to set her eyes on~a new dreamâ”€
-96214|0x00765B44|â”€So that's your nightmare, huh?
-96215|0x00765B6F|â”€So that's your nightmare,~huh?
+96212|0x00765ABF|Never trying to set her eyes on a new dream„Ÿ
+96213|0x00765AF7|Never trying to set her eyes on~a new dream„Ÿ
+96214|0x00765B44|„ŸSo that's your nightmare, huh?
+96215|0x00765B6F|„ŸSo that's your nightmare,~huh?
 96216|0x00765BE8|Mare's words were clearly directed at Isuzu.
 96217|0x00765C1F|Mare's words were clearly~directed at Isuzu.
 96218|0x00765C79|Why can't you let go of that?
@@ -1418,8 +1418,8 @@
 96313|0x0076783F|Who else could have...?
 96314|0x00767866|Mare's scythe was what destroyed Isuzu's telescope.
 96315|0x007678A4|Mare's scythe was what~destroyed Isuzu's telescope.
-96316|0x007678E7|She reaped Isuzu's nightmare â”€ which her telescope was the~manifestation of.
-96317|0x0076793F|She reaped Isuzu's nightmare~â”€ which her telescope was the~manifestation of.
+96316|0x007678E7|She reaped Isuzu's nightmare „Ÿ which her telescope was the~manifestation of.
+96317|0x0076793F|She reaped Isuzu's nightmare~„Ÿ which her telescope was the~manifestation of.
 96318|0x0076799C|But would Isuzu buy a story like that?
 96319|0x007679CD|But would Isuzu buy a story~like that?
 96320|0x00767A03|Would she believe something as outlandish as that in a situation like~this?
@@ -1462,8 +1462,8 @@
 96357|0x007683CF|I'm done with you...
 96358|0x007683FF|You were never my friend...
 96359|0x00768425|You were never my friend...
-96360|0x0076847D|You and I were never friends to begin withâ”€!!
-96361|0x007684B6|You and I were never friends to~begin withâ”€!!
+96360|0x0076847D|You and I were never friends to begin with„Ÿ!!
+96361|0x007684B6|You and I were never friends to~begin with„Ÿ!!
 96362|0x00768529|Isuzu stormed out of the rooftop.
 96363|0x00768555|Isuzu stormed out of the~rooftop.
 96364|0x00768586|Those of us remaining could only stand there speechless.
@@ -1928,8 +1928,8 @@
 96823|0x007702E4|Her smile, all too feeble.
 96824|0x0077030E|Seeing it made me all the more aware of the fact that I'd hurt her.
 96825|0x0077035C|Seeing it made me all the more~aware of the fact that I'd hurt~her.
-96826|0x007703C9|Then can you come over to my roomâ”€
-96827|0x007703F7|Then can you come over to my~roomâ”€
+96826|0x007703C9|Then can you come over to my room„Ÿ
+96827|0x007703F7|Then can you come over to my~room„Ÿ
 96828|0x00770434|Why can't you come over and eat at our place?
 96829|0x0077046C|Why can't you come over and eat~at our place?
 96830|0x007704C3|......
@@ -1960,8 +1960,8 @@
 96855|0x00770938|......
 96856|0x00770958|I feel bad for leaving her behind yesterday, so I gotta make up for it~this time.
 96857|0x007709B4|I feel bad for leaving her~behind yesterday, so I gotta~make up for it this time.
-96858|0x00770A2F|...I-I'llâ”€
-96859|0x00770A45|...I-I'llâ”€
+96858|0x00770A2F|...I-I'll„Ÿ
+96859|0x00770A45|...I-I'll„Ÿ
 96860|0x00770A60|After biting her lip, she said...
 96861|0x00770A8C|After biting her lip, she~said...
 96862|0x00770AD7|I'll... go ahead then...
@@ -2168,8 +2168,8 @@
 97063|0x00773513|I hurt the sister you love so~much...
 97064|0x00773554|Th-That's why... you...
 97065|0x00773576|Th-That's why... you...
-97066|0x007735B7|Why you now hateâ”€!
-97067|0x007735D5|Why you now hateâ”€!
+97066|0x007735B7|Why you now hate„Ÿ!
+97067|0x007735D5|Why you now hate„Ÿ!
 97068|0x007735F8|The last bit went out due to her sobbing.
 97069|0x0077362C|The last bit went out due to~her sobbing.
 97070|0x00773665|In that moment I realized just how thoughtless I'd been.
@@ -2704,8 +2704,8 @@
 97599|0x0077C658|There are also other things I'd~like to ask you, but let's~start with that.
 97600|0x0077C6C1|I'm Ren.
 97601|0x0077C6D4|I'm Ren.
-97602|0x0077C6EC|Renâ”€
-97603|0x0077C6FC|Renâ”€
+97602|0x0077C6EC|Ren„Ÿ
+97603|0x0077C6FC|Ren„Ÿ
 97604|0x0077C71D|But for the record, it's an assumed name...
 97605|0x0077C753|But for the record, it's an~assumed name...
 97606|0x0077C78E|The same as Mare.
@@ -2786,8 +2786,8 @@
 97681|0x0077DF88|Even though... you two are~hopeless in so many ways...
 97682|0x0077DFFA|And above all, I think Chinami-san too wishes you two well in your~relationship...
 97683|0x0077E057|And above all, I think~Chinami-san too wishes you two~well in your relationship...
-97684|0x0077E0C5|Just like her, I want to watch over, and protect that innocent love of~yoursâ”€
-97685|0x0077E11E|Just like her, I want to watch~over, and protect that innocent~love of yoursâ”€
+97684|0x0077E0C5|Just like her, I want to watch over, and protect that innocent love of~yours„Ÿ
+97685|0x0077E11E|Just like her, I want to watch~over, and protect that innocent~love of yours„Ÿ
 97686|0x0077E19C|For a brief moment, the starlight shining through the gap between the~curtains darkened, and simultaneously the shinigami girl called Ren~vanished from my sight.
 97687|0x0077E248|For a brief moment, the~starlight shining through the~gap between the curtains~darkened, and simultaneously
 97688|0x0077E2EC|...What in the world did I just see?
@@ -3368,8 +3368,8 @@
 98263|0x00787EB0|I want to go to club and work~towards that future.
 98264|0x00787EFE|I want to put my effort into making it so the rooftop can be open all~the time.
 98265|0x00787F58|I want to put my effort into~making it so the rooftop can be~open all the time.
-98266|0x00787FF0|I want to enjoy this starry sky of Hibarigasakiâ”€
-98267|0x0078802C|I want to enjoy this starry sky~of Hibarigasakiâ”€
+98266|0x00787FF0|I want to enjoy this starry sky of Hibarigasaki„Ÿ
+98267|0x0078802C|I want to enjoy this starry sky~of Hibarigasaki„Ÿ
 98268|0x007880D2|It took an hour of driving in our guide's cruiser to arrive.
 98269|0x00788119|It took an hour of driving in~our guide's cruiser to arrive.
 98270|0x00788173|We got a 360 degree view of the wilderness as it unfolded around us~and stretched out to the horizon no matter where we looked.
@@ -3414,8 +3414,8 @@
 98309|0x00788E79|It was like an ocean of stars.
 98310|0x00788EA7|We stood at the bottom of that ocean and let it bless us with its~shower of light.
 98311|0x00788F04|We stood at the bottom of that~ocean and let it bless us with~its shower of light.
-98312|0x00788F8E|â”€What we were looking at was the view of the starry sky at Ayers~Rock.
-98313|0x00788FE0|â”€What we were looking at was~the view of the starry sky at~Ayers Rock.
+98312|0x00788F8E|„ŸWhat we were looking at was the view of the starry sky at Ayers~Rock.
+98313|0x00788FE0|„ŸWhat we were looking at was~the view of the starry sky at~Ayers Rock.
 98314|0x00789037|The center of the world, which is sometimes referred to as the navel~of the world.
 98315|0x00789094|The center of the world, which~is sometimes referred to as the~navel of the world.
 98316|0x007890F6|Apparently the sunrise is also a breathtaking sight here, but we~didn't hesitate to choose a time frame where we could see the stars.
@@ -3626,8 +3626,8 @@
 98521|0x0078DC20|Chinami started to pat the~chopping board as well.
 98522|0x0078DC62|By the time I finished lunch, the chopping board was spotless.
 98523|0x0078DCAB|By the time I finished lunch,~the chopping board was~spotless.
-98524|0x0078DD6B|While Shino-san â”€ now returned to normal â”€ and Chinami had their~rather late lunch, I got ready to leave.
-98525|0x0078DDE1|While Shino-san â”€ now~returned to normal â”€ and~Chinami had their rather late~lunch, I got ready to leave.
+98524|0x0078DD6B|While Shino-san „Ÿ now returned to normal „Ÿ and Chinami had their~rather late lunch, I got ready to leave.
+98525|0x0078DDE1|While Shino-san „Ÿ now~returned to normal „Ÿ and~Chinami had their rather late~lunch, I got ready to leave.
 98526|0x0078DEB5|Are you going somewhere, Onii-chan?
 98527|0x0078DEE3|Are you going somewhere,~Onii-chan?
 98528|0x0078DF20|Yeah... Wait, I thought you were eating?
@@ -3888,7 +3888,7 @@
 98783|0x007931B7|Of course, when she brought up~wanting to work, our~wonderfully kind and~considerate staff gave her the
 98784|0x0079325B|...Just kill me now.
 98785|0x0079327A|...Just kill me now.
-98786|0x007932D9|Look at me, Onii-chan! You've been graced with the opportunity to~finally see me in this maid uniform again! Captured your heart right?~Getting a little hot and bothered right? Just say the word and I'll~gladly give you my X-rated serviâ”€
+98786|0x007932D9|Look at me, Onii-chan! You've been graced with the opportunity to~finally see me in this maid uniform again! Captured your heart right?~Getting a little hot and bothered right? Just say the word and I'll~gladly give you my X-rated servi„Ÿ
 98787|0x007933D2|Look at me, Onii-chan! You've~been graced with the~opportunity to finally see me~in this maid uniform again!
 98788|0x00793458|X as in fail? Like your entire existence?
 98789|0x0079348C|X as in fail? Like your entire~existence?
@@ -3898,7 +3898,7 @@
 98793|0x007936AA|Well, the way I see it, you're~just trying to hide your~embarrassment from seeing your~little sister look this cute.
 98794|0x00793738|...Fat chance.
 98795|0x00793751|...Fat chance.
-98796|0x007937A4|But according to my Big Brother Ethogram, whenever you make a bad pun~you're totally head over heels from seeing a sexy cute girl in a~special outfâ”€
+98796|0x007937A4|But according to my Big Brother Ethogram, whenever you make a bad pun~you're totally head over heels from seeing a sexy cute girl in a~special outf„Ÿ
 98797|0x00793844|But according to my Big Brother~Ethogram, whenever you make a~bad pun you're totally head~over heels from seeing a sexy
 98798|0x0079391A|I ripped it to shreds.
 98799|0x0079393B|I ripped it to shreds.
@@ -3920,8 +3920,8 @@
 98815|0x00793F9C|You're the only fool here~dum-dum! You better not think~something like that's gonna~faze me! That was only my copy
 98816|0x0079401E|So my struggle wouldn't end until I'd shredded apart the copy for~safekeeping, and the other copy I assume existed for fantasizing.
 98817|0x007940AC|So my struggle wouldn't end~until I'd shredded apart the~copy for safekeeping, and the~other copy I assume existed for
-98818|0x00794170|Ah, we've got customers. I'll take care of them, so you and~Chinami-chan go get a tableâ”€
-98819|0x007941D4|Ah, we've got customers. I'll~take care of them, so you and~Chinami-chan go get a tableâ”€
+98818|0x00794170|Ah, we've got customers. I'll take care of them, so you and~Chinami-chan go get a table„Ÿ
+98819|0x007941D4|Ah, we've got customers. I'll~take care of them, so you and~Chinami-chan go get a table„Ÿ
 98820|0x00794280|Welcome to the Milky Way!
 98821|0x007942A4|Welcome to the Milky Way!
 98822|0x00794322|Chinami charged off towards the customer.
@@ -4244,8 +4244,8 @@
 99139|0x0079A315|Keeping Chinami in a corner of~my eye as she unsteadily~carried on with her work, I~also got started.
 99140|0x0079A3BA|Then, when it got close to evening, a familiar customer showed up.
 99141|0x0079A407|Then, when it got close to~evening, a familiar customer~showed up.
-99142|0x0079A4C1|Welcome toâ”€ Oh, it's just you, Asuka-kun.
-99143|0x0079A4F6|Welcome toâ”€ Oh, it's just~you, Asuka-kun.
+99142|0x0079A4C1|Welcome to„Ÿ Oh, it's just you, Asuka-kun.
+99143|0x0079A4F6|Welcome to„Ÿ Oh, it's just~you, Asuka-kun.
 99144|0x0079A563|What's with that wimpy greeting? I'm a customer too, y'know.
 99145|0x0079A5AA|What's with that wimpy~greeting? I'm a customer too,~y'know.
 99146|0x0079A600|I don't see you come here too often. Did you have something to do at~school?
@@ -4318,8 +4318,8 @@
 99213|0x0079BDCF|Is Chinami coming, too?
 99214|0x0079BE10|If she wants to, yeah.
 99215|0x0079BE31|If she wants to, yeah.
-99216|0x0079BE57|It just might have been less worrying to me â”€ in more ways than just~one â”€ to have her participate in Occult Club activities than work~here at the cafe.
-99217|0x0079BEFC|It just might have been less~worrying to me â”€ in more ways~than just one â”€ to have her~participate in Occult Club
+99216|0x0079BE57|It just might have been less worrying to me „Ÿ in more ways than just~one „Ÿ to have her participate in Occult Club activities than work~here at the cafe.
+99217|0x0079BEFC|It just might have been less~worrying to me „Ÿ in more ways~than just one „Ÿ to have her~participate in Occult Club
 99218|0x0079BF89|Tell me if you figure anything out.
 99219|0x0079BFB7|Tell me if you figure anything~out.
 99220|0x0079C004|Sure, I guess. But anyway, I see when it comes down to it, you're also~pretty interested in that urban legend.
@@ -4448,8 +4448,8 @@
 99343|0x0079EF27|Onii-chan, Onii-chan,~Onii-chaaaan!!!
 99344|0x0079EF61|Chinami noisily bolted into the living room.
 99345|0x0079EF98|Chinami noisily bolted into the~living room.
-99346|0x0079EFFF|I managed to get up early, Onii-chan! Finally! A promise is a promise!~So now you gotta let me maâ”€
-99347|0x0079F06D|I managed to get up early,~Onii-chan! Finally! A promise~is a promise! So now you gotta~let me maâ”€
+99346|0x0079EFFF|I managed to get up early, Onii-chan! Finally! A promise is a promise!~So now you gotta let me ma„Ÿ
+99347|0x0079F06D|I managed to get up early,~Onii-chan! Finally! A promise~is a promise! So now you gotta~let me ma„Ÿ
 99348|0x0079F0EA|A late morning to you.
 99349|0x0079F10B|A late morning to you.
 99350|0x0079F172|You're already sipping coffee?!
@@ -5152,8 +5152,8 @@
 100047|0x007AC5B6|Onii-chan, Onii-chan,~Onii-chaaaaaan!!!
 100048|0x007AC5F2|Chinami noisily bolted into the living room.
 100049|0x007AC629|Chinami noisily bolted into the~living room.
-100050|0x007AC67F|I managed to get up even earlier this morning! A promise is a promise!~So now you gotta let me maâ”€
-100051|0x007AC6ED|I managed to get up even~earlier this morning! A promise~is a promise! So now you gotta~let me maâ”€
+100050|0x007AC67F|I managed to get up even earlier this morning! A promise is a promise!~So now you gotta let me ma„Ÿ
+100051|0x007AC6ED|I managed to get up even~earlier this morning! A promise~is a promise! So now you gotta~let me ma„Ÿ
 100052|0x007AC76A|Good morning, Slownami.
 100053|0x007AC78C|Good morning, Slownami.
 100054|0x007AC7FA|Why are you making up weird nicknames for me now?!
@@ -5704,8 +5704,8 @@
 100599|0x007B8BA0|Onii-chan, Onii-chan,~Onii-chaaaan!!!
 100600|0x007B8BDA|Chinami noisily bolted into the living room.
 100601|0x007B8C11|Chinami noisily bolted into the~living room.
-100602|0x007B8C72|I've managed to get up even EVEN earlier today Onii-chan! A promise is~a promise! So now you gotta let me maâ”€
-100603|0x007B8CEB|I've managed to get up even~EVEN earlier today Onii-chan! A~promise is a promise! So now~you gotta let me maâ”€
+100602|0x007B8C72|I've managed to get up even EVEN earlier today Onii-chan! A promise is~a promise! So now you gotta let me ma„Ÿ
+100603|0x007B8CEB|I've managed to get up even~EVEN earlier today Onii-chan! A~promise is a promise! So now~you gotta let me ma„Ÿ
 100604|0x007B8D73|Top of the morning to ya!
 100605|0x007B8D97|Top of the morning to ya!
 100606|0x007B8E07|Did you turn Irish overnight?!
@@ -6044,8 +6044,8 @@
 100939|0x007C091C|We've snuck in several times~already, so we're used to it.
 100940|0x007C0991|Apart from these tests of courage, I'd also snuck in to get Asuho's~telescope from the club room, and then there were also the times I~went to see Aoi-san on the rooftop.
 100941|0x007C0A46|Apart from these tests of~courage, I'd also snuck in to~get Asuho's telescope from the~club room, and then there were
-100942|0x007C0ACB|The fact that the security didn't catch me â”€ or any of us for that~matter â”€ was actually kind of unsettling.
-100943|0x007C0B44|The fact that the security~didn't catch me â”€ or any of~us for that matter â”€ was~actually kind of unsettling.
+100942|0x007C0ACB|The fact that the security didn't catch me „Ÿ or any of us for that~matter „Ÿ was actually kind of unsettling.
+100943|0x007C0B44|The fact that the security~didn't catch me „Ÿ or any of~us for that matter „Ÿ was~actually kind of unsettling.
 100944|0x007C0BF4|So where are we gonna stakeout?
 100945|0x007C0C1E|So where are we gonna stakeout?
 100946|0x007C0C57|Logically thinking, there's only one place that comes to mind.
@@ -6210,8 +6210,8 @@
 101105|0x007C4773|...What should we do, You-chan?
 101106|0x007C47AC|Let's check the club room first. It could've been robbers.
 101107|0x007C47F1|Let's check the club room~first. It could've been~robbers.
-101108|0x007C4855|Oh God, that means my telescope might beâ”€!
-101109|0x007C488B|Oh God, that means my telescope~might beâ”€!
+101108|0x007C4855|Oh God, that means my telescope might be„Ÿ!
+101109|0x007C488B|Oh God, that means my telescope~might be„Ÿ!
 101110|0x007C48C6|We went into the club room.
 101111|0x007C48EC|We went into the club room.
 101112|0x007C4936|We didn't turn on any lights, to avoid tipping off the security.
@@ -6540,8 +6540,8 @@
 101435|0x007CA825|It's fine! We're siblings after~all!
 101436|0x007CA863|Do you want Asuka and Asuho seeing us like this?
 101437|0x007CA89E|Do you want Asuka and Asuho~seeing us like this?
-101438|0x007CA903|Absolutely! Let's show 'em I say! They're already painfully aware of~the fact that we're much cloâ”€ Onii-chaaan!! Don't try to peel me off~using the iron claw hold!!
-101439|0x007CA9B3|Absolutely! Let's show 'em I~say! They're already painfully~aware of the fact that we're~much cloâ”€ Onii-chaaan!! Don't
+101438|0x007CA903|Absolutely! Let's show 'em I say! They're already painfully aware of~the fact that we're much clo„Ÿ Onii-chaaan!! Don't try to peel me off~using the iron claw hold!!
+101439|0x007CA9B3|Absolutely! Let's show 'em I~say! They're already painfully~aware of the fact that we're~much clo„Ÿ Onii-chaaan!! Don't
 101440|0x007CAA3A|We thus made our way home while fooling around as always.
 101441|0x007CAA7E|We thus made our way home while~fooling around as always.
 101442|0x007CAB7E|Yo, here I am.
@@ -7180,8 +7180,8 @@
 102075|0x007D9291|Okay. Then gather 'round, kids,~and I'll tell you some fun~fairy tales that'll keep you~from getting drowsy.
 102076|0x007D932B|We sat there and attentively listened to Mayaka-san's stories until~the sun set.
 102077|0x007D9386|We sat there and attentively~listened to Mayaka-san's~stories until the sun set.
-102078|0x007D93E6|Hisakaki looking bored, and Kosame-san with a wry smile on her face~looking at her sister â”€ the two of them remained until the end.
-102079|0x007D9475|Hisakaki looking bored, and~Kosame-san with a wry smile on~her face looking at her sister~â”€ the two of them remained
+102078|0x007D93E6|Hisakaki looking bored, and Kosame-san with a wry smile on her face~looking at her sister „Ÿ the two of them remained until the end.
+102079|0x007D9475|Hisakaki looking bored, and~Kosame-san with a wry smile on~her face looking at her sister~„Ÿ the two of them remained
 102080|0x007D952A|After we expressed our gratitude and left the house, Mayaka-san came~out to the shrine grounds to see us off, and then asked me this.
 102081|0x007D95BA|After we expressed our~gratitude and left the house,~Mayaka-san came out to the~shrine grounds to see us off,
 102082|0x007D9688|How's Shino been lately?
@@ -7310,8 +7310,8 @@
 102205|0x007DC02E|Then, suddenly.
 102206|0x007DC04D|I felt pain.
 102207|0x007DC064|I felt pain.
-102208|0x007DC080|Coupled with keen regretâ”€
-102209|0x007DC0A5|Coupled with keen regretâ”€
+102208|0x007DC080|Coupled with keen regret„Ÿ
+102209|0x007DC0A5|Coupled with keen regret„Ÿ
 102210|0x007DC13F|Shino can't have children, after all. That's the only thing it~could've been.
 102211|0x007DC197|Shino can't have children,~after all. That's the only~thing it could've been.
 102212|0x007DC250|What is it, You-chan?
@@ -7370,8 +7370,8 @@
 102265|0x007DCDF6|We used to be a family of~three.
 102266|0x007DCE26|As early as I can remember, we had always been three.
 102267|0x007DCE66|As early as I can remember, we~had always been three.
-102268|0x007DCEAB|My one year younger sister â”€ Kogasaka Chinami.
-102269|0x007DCEE5|My one year younger sister â”€~Kogasaka Chinami.
+102268|0x007DCEAB|My one year younger sister „Ÿ Kogasaka Chinami.
+102269|0x007DCEE5|My one year younger sister „Ÿ~Kogasaka Chinami.
 102270|0x007DCF24|And our mother:
 102271|0x007DCF3E|And our mother:
 102272|0x007DCF5D|Kogasaka Kasumi.
@@ -7394,8 +7394,8 @@
 102289|0x007DD62D|With her infant firstborn, me,~in her arms, she moved out and~into an apartment.
 102290|0x007DD68D|It's not hard to imagine just how difficult that must have been for~her.
 102291|0x007DD6E0|It's not hard to imagine just~how difficult that must have~been for her.
-102292|0x007DD738|Being pregnant was already taxing enough by itself, but on top that~she also had to raise me â”€ still a newborn â”€ as a single mother.
-102293|0x007DD7C9|Being pregnant was already~taxing enough by itself, but on~top that she also had to raise~me â”€ still a newborn â”€ as a
+102292|0x007DD738|Being pregnant was already taxing enough by itself, but on top that~she also had to raise me „Ÿ still a newborn „Ÿ as a single mother.
+102293|0x007DD7C9|Being pregnant was already~taxing enough by itself, but on~top that she also had to raise~me „Ÿ still a newborn „Ÿ as a
 102294|0x007DD850|Needless to say, she didn't hold a job during that time.
 102295|0x007DD893|Needless to say, she didn't~hold a job during that time.
 102296|0x007DD8DB|She was apparently able to somehow cover all the living expenses at~that time, but of course when it came time for Chinami to be~delivered, she wasn't able to look after me.
@@ -7800,8 +7800,8 @@
 102695|0x007E47D6|Was I, was I...
 102696|0x007E47FF|And slid it open.
 102697|0x007E481B|And slid it open.
-102698|0x007E486A|Was I an unwanted childâ”€?
-102699|0x007E488F|Was I an unwanted childâ”€?
+102698|0x007E486A|Was I an unwanted child„Ÿ?
+102699|0x007E488F|Was I an unwanted child„Ÿ?
 102700|0x007E48E4|So that is what chains you down...
 102701|0x007E4911|So that is what chains you~down...
 102702|0x007E4943|Standing inside was a lone girl.
@@ -7876,8 +7876,8 @@
 102771|0x007E59DC|This was hardly the time to let~confusion get the better of me.~Having managed to tell that to~myself, I was gradually
 102772|0x007E5A62|My throat now operated normally; I could talk.
 102773|0x007E5A9B|My throat now operated~normally; I could talk.
-102774|0x007E5AE3|...Don't go â”€ not yet.
-102775|0x007E5B05|...Don't go â”€ not yet.
+102774|0x007E5AE3|...Don't go „Ÿ not yet.
+102775|0x007E5B05|...Don't go „Ÿ not yet.
 102776|0x007E5B3A|......
 102777|0x007E5B4B|......
 102778|0x007E5B6B|What... did you do just now?
@@ -7902,10 +7902,10 @@
 102797|0x007E60C8|Just like how your memories~were a nightmare to you...
 102798|0x007E611C|Just like the girl from the lookout herself was a contumacious~existence to you...
 102799|0x007E6179|Just like the girl from the~lookout herself was a~contumacious existence to~you...
-102800|0x007E6216|Chinami-san's chains, what bound her in placeâ”€
-102801|0x007E6250|Chinami-san's chains, what~bound her in placeâ”€
-102802|0x007E62B9|â”€It was her own self. Nothing more, nothing less.
-102803|0x007E62F6|â”€It was her own self. Nothing~more, nothing less.
+102800|0x007E6216|Chinami-san's chains, what bound her in place„Ÿ
+102801|0x007E6250|Chinami-san's chains, what~bound her in place„Ÿ
+102802|0x007E62B9|„ŸIt was her own self. Nothing more, nothing less.
+102803|0x007E62F6|„ŸIt was her own self. Nothing~more, nothing less.
 102804|0x007E6359|The girl dissolved into the starlight.
 102805|0x007E638A|The girl dissolved into the~starlight.
 102806|0x007E63C0|That girl just now...
@@ -7930,8 +7930,8 @@
 102825|0x007E6776|Just like back then, she was~only sleeping.
 102826|0x007E67B1|That's what I kept telling myself.
 102827|0x007E67DE|That's what I kept telling~myself.
-102828|0x007E6810|â”€That Chinami was still here.
-102829|0x007E6839|â”€That Chinami was still here.
+102828|0x007E6810|„ŸThat Chinami was still here.
+102829|0x007E6839|„ŸThat Chinami was still here.
 102830|0x007E6867|I could only put my faith in it and hope.
 102831|0x007E689B|I could only put my faith in it~and hope.
 102832|0x007E68F3|Carrying Chinami on my back, I left the school building.
@@ -8206,8 +8206,8 @@
 103101|0x007EB7E5|That's all they ever told me.
 103102|0x007EB812|At the time she gave birth to her child with him, I was not even two~years old.
 103103|0x007EB86C|At the time she gave birth to~her child with him, I was not~even two years old.
-103104|0x007EB8CB|I now had a little sister â”€ a half sister.
-103105|0x007EB901|I now had a little sister â”€ a~half sister.
+103104|0x007EB8CB|I now had a little sister „Ÿ a half sister.
+103105|0x007EB901|I now had a little sister „Ÿ a~half sister.
 103106|0x007EB93C|From the standpoint of society, what Mom did is generally frowned~upon. Case in point, her parents and relatives were less than pleased~at her having children with two different men.
 103107|0x007EB9FD|From the standpoint of society,~what Mom did is generally~frowned upon. Case in point,~her parents and relatives were
 103108|0x007EBA82|That's why Mom left her home.
@@ -8256,8 +8256,8 @@
 103151|0x007EC858|Why was that?
 103152|0x007EC895|But maybe the most important clue was what she said at that time.
 103153|0x007EC8E1|But maybe the most important~clue was what she said at that~time.
-103154|0x007EC954|Was I an unwanted childâ”€?
-103155|0x007EC979|Was I an unwanted childâ”€?
+103154|0x007EC954|Was I an unwanted child„Ÿ?
+103155|0x007EC979|Was I an unwanted child„Ÿ?
 103156|0x007EC9C5|Everything seemed to come into place.
 103157|0x007EC9F5|Everything seemed to come into~place.
 103158|0x007ECA2A|This tangled mess of threads.
@@ -8290,8 +8290,8 @@
 103185|0x007ECFE4|And that's why I swore.
 103186|0x007ED00B|I swore to myself that I would never make her cry.
 103187|0x007ED048|I swore to myself that I would~never make her cry.
-103188|0x007ED08A|I swore I would never let my precious little sister shed tears like~that ever againâ”€
-103189|0x007ED0EA|I swore I would never let my~precious little sister shed~tears like that ever againâ”€
+103188|0x007ED08A|I swore I would never let my precious little sister shed tears like~that ever again„Ÿ
+103189|0x007ED0EA|I swore I would never let my~precious little sister shed~tears like that ever again„Ÿ
 103190|0x007ED1A0|Chinami-san... Chinami-san...
 103191|0x007ED1C8|Chinami-san... Chinami-san...
 103192|0x007ED203|Can you hear me... Chinami-san...?
@@ -8494,8 +8494,8 @@
 103389|0x007F04D5|Her family wanted her to get~married to You's father.
 103390|0x007F051A|However, Kasumi instead broke up with him shortly after giving birth~to You and got together with a different man.
 103391|0x007F0597|However, Kasumi instead broke~up with him shortly after~giving birth to You and got~together with a different man.
-103392|0x007F0619|They then went on to have a child together â”€ Chinami.
-103393|0x007F065A|They then went on to have a~child together â”€ Chinami.
+103392|0x007F0619|They then went on to have a child together „Ÿ Chinami.
+103393|0x007F065A|They then went on to have a~child together „Ÿ Chinami.
 103394|0x007F06A0|At the time, her family was livid. The result of that was Kasumi being~cut off from her family.
 103395|0x007F070A|At the time, her family was~livid. The result of that was~Kasumi being cut off from her~family.
 103396|0x007F0779|However, after some time passed, they had a change of heart. They~wanted her to return home.
@@ -8814,8 +8814,8 @@
 103709|0x007F5F1C|Wow, all that talk and you~actually don't know anything~either.
 103710|0x007F5F85|Well, it isn't our generation's job to solve that mystery.
 103711|0x007F5FCA|Well, it isn't our generation's~job to solve that mystery.
-103712|0x007F6020|But the generation of their children â”€ the children of the girl and~boy from the urban legend.
-103713|0x007F608A|But the generation of their~children â”€ the children of~the girl and boy from the urban~legend.
+103712|0x007F6020|But the generation of their children „Ÿ the children of the girl and~boy from the urban legend.
+103713|0x007F608A|But the generation of their~children „Ÿ the children of~the girl and boy from the urban~legend.
 103714|0x007F6113|I'm sure whoever initially spread that rumor had that in mind as well.
 103715|0x007F6164|I'm sure whoever initially~spread that rumor had that in~mind as well.
 103716|0x007F6220|It was only when mild rays of sunlight started to shine through the~gaps between the curtains that Kogasaka Shino noticed.
@@ -9336,8 +9336,8 @@
 104231|0x007FED3F|Hearing my response, he nodded~with a smile on his face.
 104232|0x007FEDBE|I imagine Shino will be delighted to hear that. Same here, of course.
 104233|0x007FEE0E|I imagine Shino will be~delighted to hear that. Same~here, of course.
-104234|0x007FEE7D|After all, we're members of Hibari High's Astronomy Club â”€ those~who've been enchanted by Hibarigasaki's starry sky.
-104235|0x007FEEFD|After all, we're members of~Hibari High's Astronomy Club~â”€ those who've been enchanted~by Hibarigasaki's starry sky.
+104234|0x007FEE7D|After all, we're members of Hibari High's Astronomy Club „Ÿ those~who've been enchanted by Hibarigasaki's starry sky.
+104235|0x007FEEFD|After all, we're members of~Hibari High's Astronomy Club~„Ÿ those who've been enchanted~by Hibarigasaki's starry sky.
 104236|0x007FEFC2|When lunchtime ended, Asuka showed up again, just like he had for past~week or so.
 104237|0x007FF01F|When lunchtime ended, Asuka~showed up again, just like he~had for past week or so.
 104238|0x007FF0DB|Ohh, Chinami-chan! Glad to see it wasn't anything serious. I was~worried about ya.

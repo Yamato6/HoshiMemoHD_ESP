@@ -1,0 +1,7 @@
+{
+    "files.encoding": "shiftjis",
+    "files.autoGuessEncoding": false,
+    "[plaintext]": {
+        "files.encoding": "shiftjis"
+    }
+}

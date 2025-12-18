@@ -1,385 +1,385 @@
-# Parte 13 - LÃ­neas 59201 a 59581
+# Parte 13 - Lineas 59201 a 59581
 # Total en esta parte: 381 strings
 # Formato: ID|ADDRESS|TEXT
 #
 59200|0x004FC771|Sus muslos y su pecho ahora expuestos.
 59201|0x004FC7A7|Ella no llevaba un sujetador.
-59202|0x004FC7D4|ï¾šElla nunca usa uno o es solo una coincidencia?
+59202|0x004FC7D4|ÚElla nunca usa uno o es solo una coincidencia?
 59203|0x004FC81F|Es vergonzoso...
 59204|0x004FC83F|Ella se frota los muslos.
 59205|0x004FC868|Sus pechos tiemblan levemente cuando se mueve.
 59206|0x004FC8BD|No debes... mirar......
-59207|0x004FC8E4|Puedo decir que estï½§ tratando de mantenerse serena.
-59208|0x004FC927|Ella me echa un rï½§pido vistazo.
-59209|0x004FC962|ï¾šNo crees......que soy rara......?
+59207|0x004FC8E4|Puedo decir que est§ tratando de mantenerse serena.
+59208|0x004FC927|Ella me echa un r§pido vistazo.
+59209|0x004FC962|ÚNo crees......que soy rara......?
 59210|0x004FC99E|Eres hermosa.
-59211|0x004FC9C7|Eres bastante atrevido, ï¾šverdad?
-59212|0x004FCA01|Eres tan adorable cuando eres tï½¨mida.
-59213|0x004FCA42|Aï½©n no has ganado......
+59211|0x004FC9C7|Eres bastante atrevido, Úverdad?
+59212|0x004FCA01|Eres tan adorable cuando eres t¨mida.
+59213|0x004FCA42|A©n no has ganado......
 59214|0x004FCA69|Toco sus bultos.
 59215|0x004FCA89|La calidez en mis palmas es sorprendentemente suave.
 59216|0x004FCAE4|Nnn...... ah...
 59217|0x004FCB03|Cuando los acaricio, Yume suelta una dulce voz.
 59218|0x004FCB4E|Y-You-kun......
-59219|0x004FCB77|ï¾šHm? ï¾šDolio?
+59219|0x004FCB77|ÚHm? ÚDolio?
 59220|0x004FCB9F|N-No....
-59221|0x004FCBC1|Si no te sientes bien, me detendrï½ª de inmediato.
+59221|0x004FCBC1|Si no te sientes bien, me detendrª de inmediato.
 59222|0x004FCC18|N-No.
-59223|0x004FCC37|ï¾šEntonces estï½§s bien?
-59224|0x004FCC5C|Ella asiente levemente despuï½ªs de un momento de silencio.
+59223|0x004FCC37|ÚEntonces est§s bien?
+59224|0x004FCC5C|Ella asiente levemente despuªs de un momento de silencio.
 59225|0x004FCCAF|Sere gentil.
 59226|0x004FCCD7|......Tan audaz.
 59227|0x004FCCF7|La froto suavemente, teniendo cuidado de no poner demasiada fuerza.
 59228|0x004FCD61|Haah...... nnn......Y-You-kun......
-59229|0x004FCDA0|Eso no fue... lo que querï½¨a decir......
-59230|0x004FCDE1|ï¾šHm?
-59231|0x004FCE0C|ï¾šSe sienten bien......?
-59232|0x004FCE3D|ï¾šQuï½ª pasa contigo?
-59233|0x004FCE6B|Responderï½ª cuando lo hagas tï½©......
+59229|0x004FCDA0|Eso no fue... lo que quer¨a decir......
+59230|0x004FCDE1|ÚHm?
+59231|0x004FCE0C|ÚSe sienten bien......?
+59232|0x004FCE3D|ÚQuª pasa contigo?
+59233|0x004FCE6B|Responderª cuando lo hagas t©......
 59234|0x004FCEA8|Se sienten realmente bien.
 59235|0x004FCEDE|Ya veo...... Gracias a Dios...
-59236|0x004FCF16|ï¾šY tï½©?
-59237|0x004FCF38|Puedes adularme mï½§s......
-59238|0x004FCF61|Ella me ignorï½«.
-59239|0x004FCF8C|Mientras te sientas bien...... puedes adular los pechos de tu hermana mayor ~mï½§s...
-59240|0x004FCFF9|Puedes adularme tambiï½ªn.
+59236|0x004FCF16|ÚY t©?
+59237|0x004FCF38|Puedes adularme m§s......
+59238|0x004FCF61|Ella me ignor«.
+59239|0x004FCF8C|Mientras te sientas bien...... puedes adular los pechos de tu hermana mayor ~m§s...
+59240|0x004FCFF9|Puedes adularme tambiªn.
 59241|0x004FD02D|No, no debo hacer eso...
-59242|0x004FD05F|......ï¾šPor quï½ª no?
-59243|0x004FD08D|Porque todavï½¨a no estamos listos para eso...
-59244|0x004FD0D3|......ï¾šEntonces cuando?
-59245|0x004FD0FA|Ella sonrï½¨e.
-59246|0x004FD122|No te lo dirï½ª porque eres tan audaz...
-59247|0x004FD158|Sin nada que decir, recurro a la acciï½«n.
+59242|0x004FD05F|......ÚPor quª no?
+59243|0x004FD08D|Porque todav¨a no estamos listos para eso...
+59244|0x004FD0D3|......ÚEntonces cuando?
+59245|0x004FD0FA|Ella sonr¨e.
+59246|0x004FD122|No te lo dirª porque eres tan audaz...
+59247|0x004FD158|Sin nada que decir, recurro a la acci«n.
 59248|0x004FD1B1|Muevo mi boca hacia su pecho.
-59249|0x004FD20B|Ahh...... ï¾šeh......?
+59249|0x004FD20B|Ahh...... Úeh......?
 59250|0x004FD22F|Le beso el pecho.
 59251|0x004FD267|Nnn...... no......
-59252|0x004FD293|Dije que iba a besarte, ï¾šno?
+59252|0x004FD293|Dije que iba a besarte, Úno?
 59253|0x004FD2CB|Dejaste... una marca...
-59254|0x004FD2FC|Sï½¨, voy a cubrirte de ellas.
+59254|0x004FD2FC|S¨, voy a cubrirte de ellas.
 59255|0x004FD328|Sus pezones eran de color cereza.
 59256|0x004FD359|Los beso.
-59257|0x004FD389|ï½·Fuku......!
+59257|0x004FD389|·Fuku......!
 59258|0x004FD3A5|Su cuerpo se levanta, haciendo que sus pechos se balanceen de un lado a ~otro.
-59259|0x004FD40F|N-No puedes...... hacer ninguna marca allï½¨......
+59259|0x004FD40F|N-No puedes...... hacer ninguna marca all¨......
 59260|0x004FD44F|Lo hago girar con la punta de la lengua, luego chupo.
-59261|0x004FD4A0|ï½·Fwahh, ahh......! ï½·N-Nada va...! ï½·A salir......!
-59262|0x004FD4E1|Su pezï½«n se contrae ligeramente cuando me quito los labios.
-59263|0x004FD536|Quï½ª adorable.
+59261|0x004FD4A0|·Fwahh, ahh......! ·N-Nada va...! ·A salir......!
+59262|0x004FD4E1|Su pez«n se contrae ligeramente cuando me quito los labios.
+59263|0x004FD536|Quª adorable.
 59264|0x004FD55F|Haah...... ahhh...... eres tan presumido......
-59265|0x004FD59D|Ella frunce el ceï¾ƒo con las mejillas sonrojadas.
-59266|0x004FD5E9|Me enojarï½ª... si haces cosas terribles...
-59267|0x004FD62C|Prometo que serï½ª gentil.
+59265|0x004FD59D|Ella frunce el ceÃo con las mejillas sonrojadas.
+59266|0x004FD5E9|Me enojarª... si haces cosas terribles...
+59267|0x004FD62C|Prometo que serª gentil.
 59268|0x004FD673|Me coloco sobre ella.
 59269|0x004FD698|La beso alrededor del cuello, el pecho, el ombligo y los costados, pasando ~la lengua por su piel.
-59270|0x004FD716|ï½·No, ah... nnnn! ï½·You-kun......!
+59270|0x004FD716|·No, ah... nnnn! ·You-kun......!
 59271|0x004FD746|Su piel se retuerce a medida que los hilos de saliva recorren su piel.
-59272|0x004FD7A8|ï½·N-No! ï½·Ahnn! ï½·Hace cosquillas......!
+59272|0x004FD7A8|·N-No! ·Ahnn! ·Hace cosquillas......!
 59273|0x004FD7DD|Ella me mira con ojos llorosos cuando me separo de su cuerpo.
 59274|0x004FD841|Haah...... nnn...... Me voy a enojar seriamente...
-59275|0x004FD88D|Pero... Estoy seguro de que se sintiï½« bien......
+59275|0x004FD88D|Pero... Estoy seguro de que se sinti« bien......
 59276|0x004FD8D9|Me hizo cosquillas...
 59277|0x004FD908|Pero el placer es lo que espera por delante.
-59278|0x004FD950|Estï½§s tratando de hablar rï½§pido conmigo......
-59279|0x004FD997|Es "dulce conversaciï½«n".
+59278|0x004FD950|Est§s tratando de hablar r§pido conmigo......
+59279|0x004FD997|Es "dulce conversaci«n".
 59280|0x004FD9CB|Eres un nerd......
-59281|0x004FD9ED|Seï¾ƒalo mi lengua cerca de su piel.
+59281|0x004FD9ED|SeÃalo mi lengua cerca de su piel.
 59282|0x004FDA2B|Nnn...... no, no de nuevo......
-59283|0x004FDA5A|Mi lengua toca su muslo, y despuï½ªs de dejar una marca de beso, la lamo en ~un movimiento de caricia.
-59284|0x004FDAE5|ï½·Ahh, nnnahh......! No puedo dejar de temblar...
-59285|0x004FDB25|Pasando mi lengua por el lado interior de su muslo, me muevo mï½§s y mï½§s ~arriba.
-59286|0x004FDB90|ï½·Afuu, ahh......! ï¾šEh? N-No ahï½¨......
+59283|0x004FDA5A|Mi lengua toca su muslo, y despuªs de dejar una marca de beso, la lamo en ~un movimiento de caricia.
+59284|0x004FDAE5|·Ahh, nnnahh......! No puedo dejar de temblar...
+59285|0x004FDB25|Pasando mi lengua por el lado interior de su muslo, me muevo m§s y m§s ~arriba.
+59286|0x004FDB90|·Afuu, ahh......! ÚEh? N-No ah¨......
 59287|0x004FDBC5|Justo cuando estoy a punto de llegar, ella aparta mi cabeza.
-59288|0x004FDC1D|ï½·E-espera!
+59288|0x004FDC1D|·E-espera!
 59289|0x004FDC37|Miro hacia arriba y me aparto.
-59290|0x004FDC7C|E-Ese lugar...... estï½§ fuera de lï½¨mites......
+59290|0x004FDC7C|E-Ese lugar...... est§ fuera de l¨mites......
 59291|0x004FDCC3|Dije que iba a besarte en todas partes.
 59292|0x004FDD06|P-Pero nadie estuvo de acuerdo...
 59293|0x004FDD37|Me acurruco cerca de ella.
 59294|0x004FDD61|y acaricio suavemente su cabello.
-59295|0x004FDD9E|ï¾šQuï½ª estï½§s haciendo......?
+59295|0x004FDD9E|ÚQuª est§s haciendo......?
 59296|0x004FDDD2|Siendo gentil.
-59297|0x004FDDFC|Te estï½§s poniendo muy confiado....
+59297|0x004FDDFC|Te est§s poniendo muy confiado....
 59298|0x004FDE2E|Sello su boca llena de quejas.
 59299|0x004FDE94|Nnn...... chu...... chuu......
-59300|0x004FDEC2|Nuestro profundo beso fue mï½§s intenso que antes.
-59301|0x004FDF02|Ella es la que estï½§ tomando la iniciativa.
+59300|0x004FDEC2|Nuestro profundo beso fue m§s intenso que antes.
+59301|0x004FDF02|Ella es la que est§ tomando la iniciativa.
 59302|0x004FDF48|Nnchuu...... chuu, chuuu...... fuu...... nnn...... chu, chuuhi...... nfuuu, ~chuu, chuuu...... Chuu......
-59303|0x004FDFC1|Ella asertivamente une su lengua con la mï½¨a mientras intercambiamos ~nuestra saliva.
+59303|0x004FDFC1|Ella asertivamente une su lengua con la m¨a mientras intercambiamos ~nuestra saliva.
 59304|0x004FE03C|Fwah......
 59305|0x004FE056|Las esquinas de nuestras bocas estaban todas mojadas.
-59306|0x004FE0A7|Traguï½ª saliva...... tu saliva......
-59307|0x004FE0E4|Y me traguï½ª la tuya tambiï½ªn.
+59306|0x004FE0A7|Traguª saliva...... tu saliva......
+59307|0x004FE0E4|Y me traguª la tuya tambiªn.
 59308|0x004FE127|Eres un bruto...
-59309|0x004FE151|......ï¾šEso es todo?
+59309|0x004FE151|......ÚEso es todo?
 59310|0x004FE180|Eres un bruto malote......
-59311|0x004FE1B4|......Si tï½© lo dices.
-59312|0x004FE1E5|Lo harï½ª un poco mï½§s......
-59313|0x004FE20E|Ella se levanta despuï½ªs de que su respiraciï½«n se calma.
+59311|0x004FE1B4|......Si t© lo dices.
+59312|0x004FE1E5|Lo harª un poco m§s......
+59313|0x004FE20E|Ella se levanta despuªs de que su respiraci«n se calma.
 59314|0x004FE261|Porque eres tan malo...
-59315|0x004FE2B5|Te pondrï½ª en agonï½¨a tambiï½ªn...
-59316|0x004FE2E3|Con una sonrisa diabï½«lica, ella se empuja a sï½¨ misma sobre mï½¨.
-59317|0x004FE36C|Uwahh...... mira quï½ª tan grande es......
+59315|0x004FE2B5|Te pondrª en agon¨a tambiªn...
+59316|0x004FE2E3|Con una sonrisa diab«lica, ella se empuja a s¨ misma sobre m¨.
+59317|0x004FE36C|Uwahh...... mira quª tan grande es......
 59318|0x004FE3A4|Toca mi miembro expuesto nerviosamente.
 59319|0x004FE3E5|......Yume estaba-
 59320|0x004FE41E|No.......
 59321|0x004FE437|Ella lo sostiene con ambas manos.
 59322|0x004FE47F|No puedes moverte......
 59323|0x004FE4A6|Ella baja su mirada y la mira fijamente.
-59324|0x004FE4EA|Esta es la primera vez......que te he visto aquï½¨......
-59325|0x004FE53C|Es lindo...... Sï½¨, es lindo de verdad......
-59326|0x004FE581|......Esa expresiï½«n lastima mis sentimientos.
+59324|0x004FE4EA|Esta es la primera vez......que te he visto aqu¨......
+59325|0x004FE53C|Es lindo...... S¨, es lindo de verdad......
+59326|0x004FE581|......Esa expresi«n lastima mis sentimientos.
 59327|0x004FE5CA|No voy a decirte que es resistente...
 59328|0x004FE5FF|Ella baja la cabeza y la besa suavemente.
 59329|0x004FE64F|Chuu...... nn.
-59330|0x004FE678|Ella lo estï½§ mirando incluso despuï½ªs de quitar los labios.
+59330|0x004FE678|Ella lo est§ mirando incluso despuªs de quitar los labios.
 59331|0x004FE6C2|Sus ojos lo miraban aturdidos.
-59332|0x004FE707|Sï½¨. Deberï½¨a haber hecho esto desde el principio...
-59333|0x004FE755|Porque... tï½© eres el que estï½§ siendo mimado ahora...
+59332|0x004FE707|S¨. Deber¨a haber hecho esto desde el principio...
+59333|0x004FE755|Porque... t© eres el que est§ siendo mimado ahora...
 59334|0x004FE7A5|Voy a... mimarte......
 59335|0x004FE7F5|Saca la lengua ligeramente y lame suavemente la punta.
 59336|0x004FE847|Nnn...... * lamer *......
 59337|0x004FE870|Sus ojos se dilatan con solo una sola lamida.
-59338|0x004FE8C4|Lamï½¨...... tuyo......
-59339|0x004FE8E9|Ella lo lame de nuevo, aunque mï½§s audaz esta vez.
+59338|0x004FE8C4|Lam¨...... tuyo......
+59339|0x004FE8E9|Ella lo lame de nuevo, aunque m§s audaz esta vez.
 59340|0x004FE941|* lamer *...... nnn...... * sorber *...... * lamer *......
 59341|0x004FE98B|Su saliva cubre mi punta con un destello lascivo.
-59342|0x004FE9D8|Nnnnn...... Eres todo...... brillante aquï½¨...
+59342|0x004FE9D8|Nnnnn...... Eres todo...... brillante aqu¨...
 59343|0x004FEA21|Es tan lindo... y fascinante...
 59344|0x004FEA5C|La belleza suprema......
-59345|0x004FEA8E|......ï¾šQuï½ª pasa con esa mirada en tu cara?
+59345|0x004FEA8E|......ÚQuª pasa con esa mirada en tu cara?
 59346|0x004FEAFE|Uah, oye...... no te muevas...
-59347|0x004FEB38|Pï½«rtate bien......
-59348|0x004FEB5A|Despuï½ªs de echar un vistazo hacia arriba, ella comienza a lamer de ~nuevo.
+59347|0x004FEB38|P«rtate bien......
+59348|0x004FEB5A|Despuªs de echar un vistazo hacia arriba, ella comienza a lamer de ~nuevo.
 59349|0x004FEBCB|* lamer *...... nn, chuu...... chuuu......
-59350|0x004FEC05|Ella sigue su camino, presionando sus hï½©medos labios contra mï½¨.
+59350|0x004FEC05|Ella sigue su camino, presionando sus h©medos labios contra m¨.
 59351|0x004FEC60|Nnnchuu...... chuupii...... chuu, chuu...... * lamer *, * sorber *...... ~nnchuuu...... * haaah *......nnn, chuuu...... * lamer *......
 59352|0x004FECF7|Ella me atiende con fervor, sin tomarse un momento de descanso.
-59353|0x004FED46|La dulce estimulaciï½«n se siente como si me estuviese derritiendo, como ~baï¾ƒarse en agua caliente.
+59353|0x004FED46|La dulce estimulaci«n se siente como si me estuviese derritiendo, como ~baÃarse en agua caliente.
 59354|0x004FEDC3|Nnnn....., hahh......
 59355|0x004FEDE8|Ella suelta suspiros suaves y febriles.
-59356|0x004FEE36|You-kun, tu expresiï½«n es...... tan adorable......
-59357|0x004FEE77|Desvï½¨o mi mirada de su mirada.
+59356|0x004FEE36|You-kun, tu expresi«n es...... tan adorable......
+59357|0x004FEE77|Desv¨o mi mirada de su mirada.
 59358|0x004FEEBC|Fufu......Yo gano.
-59359|0x004FEEDE|Ella estï½§ celebrando.
+59359|0x004FEEDE|Ella est§ celebrando.
 59360|0x004FEF03|Ella me acaricia con la mano mientras su boca descansa.
-59361|0x004FEF4A|Solo eso es suficiente para acercarme al clï½¨max.
+59361|0x004FEF4A|Solo eso es suficiente para acercarme al cl¨max.
 59362|0x004FEF96|Puedes dejarlo salir cuando quieras......
 59363|0x004FEFD9|............
-59364|0x004FF001|Incluso tus oï½¨dos son todos rojos.
+59364|0x004FF001|Incluso tus o¨dos son todos rojos.
 59365|0x004FF033|Girar mi rostro es todo lo que puedo hacer.
-59366|0x004FF06E|Es como si hubiï½ªramos vuelto a nuestras posiciones cuando niï¾ƒos.
-59367|0x004FF0CA|Quï½ª adorable...... Sï½¨, adorable de hecho.
-59368|0x004FF11A|Tanto tï½© como su miembro aquï½¨ abajo......
+59366|0x004FF06E|Es como si hubiªramos vuelto a nuestras posiciones cuando niÃos.
+59367|0x004FF0CA|Quª adorable...... S¨, adorable de hecho.
+59368|0x004FF11A|Tanto t© como su miembro aqu¨ abajo......
 59369|0x004FF15F|Voy a devorarlo......
 59370|0x004FF1AE|Ella me traga todo.
 59371|0x004FF1DD|Nnnmuuuu...... nkuu...... chu...... chuuu......
-59372|0x004FF21C|Ella me lleva mï½§s y mï½§s profundo en su boca.
+59372|0x004FF21C|Ella me lleva m§s y m§s profundo en su boca.
 59373|0x004FF264|Nnnchu...... chuuu...... juuu......
-59374|0x004FF297|Ella mueve su cabeza hacia arriba y hacia abajo, atendiï½ªndome con cada ~esquina de su boca.
-59375|0x004FF302|Le acaricio la cabeza mientras ella trabaja de manera adorable en mï½¨ en ~serio. Por supuesto, se siente bien tambiï½ªn.
+59374|0x004FF297|Ella mueve su cabeza hacia arriba y hacia abajo, atendiªndome con cada ~esquina de su boca.
+59375|0x004FF302|Le acaricio la cabeza mientras ella trabaja de manera adorable en m¨ en ~serio. Por supuesto, se siente bien tambiªn.
 59376|0x004FF393|......Kapu.
-59377|0x004FF3B8|ï½·Ouch ouch ouch! ï½·ï¾šA quï½ª vino eso?!
+59377|0x004FF3B8|·Ouch ouch ouch! ·ÚA quª vino eso?!
 59378|0x004FF421|Fwahh...... Porque hiciste algo raro.
-59379|0x004FF460|Solo estaba acariciï½§ndote la cabeza.
+59379|0x004FF460|Solo estaba acarici§ndote la cabeza.
 59380|0x004FF4A0|Mereces solo la muerte.
-59381|0x004FF4C7|Eso es algo que Mare dirï½¨a.
+59381|0x004FF4C7|Eso es algo que Mare dir¨a.
 59382|0x004FF4FE|......No puedo dejar que me mimes.
 59383|0x004FF530|Ella parece decidida.
 59384|0x004FF55F|Oye yo......
 59385|0x004FF587|Otra palabra y te muerdo de nuevo.
 59386|0x004FF5C3|......Yume.
-59387|0x004FF5EA|Aï½©n no. Si dependo de ti ahora mismo, solo serï½ª una carga...
-59388|0x004FF642|ï¾šSoy clara?
+59387|0x004FF5EA|A©n no. Si dependo de ti ahora mismo, solo serª una carga...
+59388|0x004FF642|ÚSoy clara?
 59389|0x004FF65D|Lo que ella quiere decir
 59390|0x004FF685|Ella no quiere cargarme con su enfermedad.
-59391|0x004FF6BF|Lo que me hace desear atesorarla aï½©n mï½§s.
+59391|0x004FF6BF|Lo que me hace desear atesorarla a©n m§s.
 59392|0x004FF6F8|Pero no puedo decirle eso.
-59393|0x004FF722|Ella solo me dirï½§ que me estoy forzando a mï½¨ misma.
-59394|0x004FF765|Solo le darï½¨a una cosa mï½§s de la que preocuparse.
-59395|0x004FF7A6|He llegado a esa conclusiï½«n anoche en el observatorio.
-59396|0x004FF7F6|......Sï½¨.
-59397|0x004FF81B|Sï½¨. Excelente. Eres un chico tan bueno...
+59393|0x004FF722|Ella solo me dir§ que me estoy forzando a m¨ misma.
+59394|0x004FF765|Solo le dar¨a una cosa m§s de la que preocuparse.
+59395|0x004FF7A6|He llegado a esa conclusi«n anoche en el observatorio.
+59396|0x004FF7F6|......S¨.
+59397|0x004FF81B|S¨. Excelente. Eres un chico tan bueno...
 59398|0x004FF854|Ella comienza a atenderme de nuevo.
 59399|0x004FF89E|Chuu...... * lamer *...... nfuuu, chuu...... chuupi......
 59400|0x004FF8E7|Ella arrastra su lengua alrededor de la punta, luego la toma dentro de su ~boca.
 59401|0x004FF953|Chuu, chuu...... pichuuu...... nn...... nnchuu......
 59402|0x004FF997|Continuando con su lengua dentro de su boca, ella me embadurna con saliva ~desde arriba hacia abajo.
 59403|0x004FFA17|Nnchuu...... * sorber *...... nn, chuuu...... chuuupa...... chuuu...... ~fuu...... nnmuuu, chuu...... chuu, chuuu......
-59404|0x004FFA9E|Sus movimientos apasionados me acercan a mi lï½¨mite.
+59404|0x004FFA9E|Sus movimientos apasionados me acercan a mi l¨mite.
 59405|0x004FFAEB|Yume......
-59406|0x004FFB05|Con sus ojos vueltos hacia mï½¨, ella me urge a correrme.
-59407|0x004FFB56|ï½·Kuh......!
-59408|0x004FFB9A|ï½·Nkuu...... nn, pwahh......!
-59409|0x004FFBC6|El fluido blanco que no podï½¨a contener en su boca cae sobre su cara y ~cabello.
+59406|0x004FFB05|Con sus ojos vueltos hacia m¨, ella me urge a correrme.
+59407|0x004FFB56|·Kuh......!
+59408|0x004FFB9A|·Nkuu...... nn, pwahh......!
+59409|0x004FFBC6|El fluido blanco que no pod¨a contener en su boca cae sobre su cara y ~cabello.
 59410|0x004FFC3E|Nnnn...... ahh, haah...... haah......
 59411|0x004FFC7F|Es muy pegajoso...
 59412|0x004FFCA1|Ella comienza a hablar con sus labios manchados de esperma.
-59413|0x004FFD05|Habï½¨a mucho...... No pude evitarlo......
-59414|0x004FFD49|No podrï½¨a... tragarlo todo...
+59413|0x004FFD05|Hab¨a mucho...... No pude evitarlo......
+59414|0x004FFD49|No podr¨a... tragarlo todo...
 59415|0x004FFD80|......No tienes que hacer eso.
 59416|0x004FFDAE|La acerco a ella y la abrazo.
-59417|0x004FFDE7|ï½·Wah! Y-You-kun, te ensuciarï½§s......
+59417|0x004FFDE7|·Wah! Y-You-kun, te ensuciar§s......
 59418|0x004FFE25|No me importa
 59419|0x004FFE4E|Supongo que no. Es tuyo en primer lugar.
 59420|0x004FFE90|......Eso no es lo que quise decir.
-59421|0x004FFEDC|You-kun... ï¾šse sintiï½« bien?
-59422|0x004FFF11|Sï½¨.
+59421|0x004FFEDC|You-kun... Úse sinti« bien?
+59422|0x004FFF11|S¨.
 59423|0x004FFF30|Gracias a Dios... Estoy tan feliz.
 59424|0x004FFF6C|Gracias por eso.
-59425|0x004FFF98|Entonces esta es mi victoria esta vez, ï¾šverdad?
-59426|0x004FFFD7|Todo se trata de ganar o perder por alguna razï½«n.
+59425|0x004FFF98|Entonces esta es mi victoria esta vez, Úverdad?
+59426|0x004FFFD7|Todo se trata de ganar o perder por alguna raz«n.
 59427|0x00500024|No tienes que agradecerme.
-59428|0x00500058|......Aï½©n no hemos terminado.
-59429|0x00500091|ï¾šEh?
-59430|0x005000AF|ï¾šPodemos...... ir todo el camino?
+59428|0x00500058|......A©n no hemos terminado.
+59429|0x00500091|ÚEh?
+59430|0x005000AF|ÚPodemos...... ir todo el camino?
 59431|0x005000F9|............
-59432|0x00500121|......Sï½¨.
+59432|0x00500121|......S¨.
 59433|0x0050013A|Ella asiente levemente.
 59434|0x0050016D|No tengo motivos para rechazar...
-59435|0x005001CE|Porque tengo un punto dï½ªbil para ti cuando estï½§s actuando mimado...
-59436|0x0050025C|ï½·Nnnaaaahhh, ahhhhh!
+59435|0x005001CE|Porque tengo un punto dªbil para ti cuando est§s actuando mimado...
+59436|0x0050025C|·Nnnaaaahhh, ahhhhh!
 59437|0x00500280|La penetro.
-59438|0x0050029B|Hundiï½ªndome en sus profundidades.
-59439|0x005002CC|La tensiï½«n me obliga a ir despacio, pero ella no resiste el dolor.
-59440|0x0050032A|ï½·Haaah, ahhh! ï½·Fwahhh, ahh, ahhh......!
+59438|0x0050029B|Hundiªndome en sus profundidades.
+59439|0x005002CC|La tensi«n me obliga a ir despacio, pero ella no resiste el dolor.
+59440|0x0050032A|·Haaah, ahhh! ·Fwahhh, ahh, ahhh......!
 59441|0x00500361|Mi objetivo es su interior, ella salta cuando finalmente la alcanzo.
-59442|0x005003C1|ï½·Afuuu......!
-59443|0x005003DE|Mi consejo puede sentirlo: el santuario mï½§s ï½¨ntimo de Yume.
+59442|0x005003C1|·Afuuu......!
+59443|0x005003DE|Mi consejo puede sentirlo: el santuario m§s ¨ntimo de Yume.
 59444|0x00500429|Prueba de que estamos conectados. Prueba de que nos hemos convertido en ~uno.
 59445|0x00500492|Haah...... ahhaahhh...... haaahh......
 59446|0x005004EB|Se aprieta mientras respira, causando que los fluidos amorosos se filtren ~desde donde estamos conectados.
-59447|0x00500565|Los restos carmesï½¨es de su castidad caen sobre las nuevas sï½§banas.
-59448|0x005005ED|Ah... estï½§ llegando a las sï½§banas...
-59449|0x00500621|Tambiï½ªn habiï½ªndolo notado, trato de buscar algo para limpiarlo, sin ~ningï½©n resultado.
-59450|0x00500693|Me pregunto si una enfermera...... lo verï½§......
+59447|0x00500565|Los restos carmes¨es de su castidad caen sobre las nuevas s§banas.
+59448|0x005005ED|Ah... est§ llegando a las s§banas...
+59449|0x00500621|Tambiªn habiªndolo notado, trato de buscar algo para limpiarlo, sin ~ning©n resultado.
+59450|0x00500693|Me pregunto si una enfermera...... lo ver§......
 59451|0x005006DD|......Lo siento.
-59452|0x00500714|No, puedo hacer una excusa. Como "You-kun tenï½¨a una hemorragia nasal", ~por ejemplo.
+59452|0x00500714|No, puedo hacer una excusa. Como "You-kun ten¨a una hemorragia nasal", ~por ejemplo.
 59453|0x00500782|......Por favor, hazlo.
-59454|0x005007B5|Les dirï½ª que de repente tuviste una hemorragia nasal por verme desnuda.
+59454|0x005007B5|Les dirª que de repente tuviste una hemorragia nasal por verme desnuda.
 59455|0x0050080C|Voy a ser devorado por un demonio.
 59456|0x0050084A|Tomaste... mi primera vez...
-59457|0x00500876|Ella mira tï½¨midamente dï½«nde estamos conectados.
+59457|0x00500876|Ella mira t¨midamente d«nde estamos conectados.
 59458|0x005008C1|Primer beso en la frente, un beso normal...... y ahora todo......
-59459|0x0050091E|Te he dado todo lo que posiblemente podrï½¨a......
-59460|0x0050095E|No sï½ª cï½«mo responder a su sonrisa.
+59459|0x0050091E|Te he dado todo lo que posiblemente podr¨a......
+59460|0x0050095E|No sª c«mo responder a su sonrisa.
 59461|0x0050099C|Ahora debes asumir la responsabilidad de todo...
-59462|0x005009E6|......Sï½¨, apuesta que lo harï½ª.
+59462|0x005009E6|......S¨, apuesta que lo harª.
 59463|0x00500A20|No, estaba bromeando.
-59464|0x00500A51|No quiero atarte con algo asï½¨.
+59464|0x00500A51|No quiero atarte con algo as¨.
 59465|0x00500A8B|Es por eso que......
-59466|0x00500AAF|Su sonrisa se llenï½« de calidez.
+59466|0x00500AAF|Su sonrisa se llen« de calidez.
 59467|0x00500AEA|No importa si no me amas...
-59468|0x00500B15|Mi corazï½«n se pone mï½§s ansioso.
+59468|0x00500B15|Mi coraz«n se pone m§s ansioso.
 59469|0x00500B4E|......No digas eso.
 59470|0x00500B7B|No digas eso incluso como una broma.
 59471|0x00500BB9|Te quiero.....
-59472|0x00500BE3|......De acuerdo, eso estï½§ bien tambiï½ªn.
+59472|0x00500BE3|......De acuerdo, eso est§ bien tambiªn.
 59473|0x00500C27|Pero no tienes que sentirte responsable.
 59474|0x00500C6B|No tienes que soportarlo...
-59475|0x00500CA2|Si no te gusta, solo acï½ªptalo......
-59476|0x00500CDF|No lo harï½ª. Eso definitivamente no estarï½§ sucediendo.
-59477|0x00500D30|Cielos......Solo dije que no tenï½¨as que sentirte responsable.
-59478|0x00500D87|Estos sentimientos mï½¨os nunca cambiarï½§n.
-59479|0x00500DCB|Eres bastante terco, ï¾šverdad?
+59475|0x00500CA2|Si no te gusta, solo acªptalo......
+59476|0x00500CDF|No lo harª. Eso definitivamente no estar§ sucediendo.
+59477|0x00500D30|Cielos......Solo dije que no ten¨as que sentirte responsable.
+59478|0x00500D87|Estos sentimientos m¨os nunca cambiar§n.
+59479|0x00500DCB|Eres bastante terco, Úverdad?
 59480|0x00500E02|No tanto como pensaste.
 59481|0x00500E29|Se convulsiona a mi alrededor mientras nuestros jugos de amor fluyen sin ~parar.
-59482|0x00500E93|ï¾šCï½«mo estï½§ el dolor?
-59483|0x00500EC3|Un poco... mejor despuï½ªs de que hablamos......
-59484|0x00500F0B|ï¾šEstï½§ bien si empiezo a moverme?
-59485|0x00500F47|Sï½¨.
+59482|0x00500E93|ÚC«mo est§ el dolor?
+59483|0x00500EC3|Un poco... mejor despuªs de que hablamos......
+59484|0x00500F0B|ÚEst§ bien si empiezo a moverme?
+59485|0x00500F47|S¨.
 59486|0x00500F5A|Me muevo con cuidado para no lastimarla.
-59487|0x00500FC8|ï½·Nnn...... haaah, ahh......!
-59488|0x00500FF4|Tirando hacia atrï½§s hasta la mitad, lentamente empujo hacia delante.
+59487|0x00500FC8|·Nnn...... haaah, ahh......!
+59488|0x00500FF4|Tirando hacia atr§s hasta la mitad, lentamente empujo hacia delante.
 59489|0x00501048|Repito estos suaves golpes.
-59490|0x0050107F|ï½·Ahh, nn......! ï½·Ah, nnnah, ahhh......!
-59491|0x005010B6|Estï½§ bien lubricado a pesar de ser apretado. Lentamente retomo mi ritmo.
-59492|0x0050111A|ï½·Ahh, ahh, nnn, ahh.....! ï½·Haah, ahh, ahhh, nnaah......!
-59493|0x00501162|Acuosos sonidos hacen eco en la habitaciï½«n. El sonido de nosotros en ~celo.
-59494|0x005011BD|Las sï½§banas absorben su miel, mezclada con un tinte escarlata.
-59495|0x00501222|ï½·Fwahhh......! ï½·Ahhh, ahhn, ahhhhn! ï½·Afuuu, ahh, ahhaaa......!
+59490|0x0050107F|·Ahh, nn......! ·Ah, nnnah, ahhh......!
+59491|0x005010B6|Est§ bien lubricado a pesar de ser apretado. Lentamente retomo mi ritmo.
+59492|0x0050111A|·Ahh, ahh, nnn, ahh.....! ·Haah, ahh, ahhh, nnaah......!
+59493|0x00501162|Acuosos sonidos hacen eco en la habitaci«n. El sonido de nosotros en ~celo.
+59494|0x005011BD|Las s§banas absorben su miel, mezclada con un tinte escarlata.
+59495|0x00501222|·Fwahhh......! ·Ahhh, ahhn, ahhhhn! ·Afuuu, ahh, ahhaaa......!
 59496|0x00501270|Su piel blanca, ahora cubierta de sudor, quema de un color rosa febril.
 59497|0x005012C7|Sus bultos se balancean alrededor de mis embestidas.
-59498|0x0050130B|Impulsado por la emociï½«n, mi movimiento se acelera.
-59499|0x0050135A|ï½·Y-You-kun......! ï½·Ahhhn! ï½·You-kun......!
+59498|0x0050130B|Impulsado por la emoci«n, mi movimiento se acelera.
+59499|0x0050135A|·Y-You-kun......! ·Ahhhn! ·You-kun......!
 59500|0x00501393|Ella extiende la mano para abrazarme.
 59501|0x005013C8|Y nos convertimos en uno.
 59502|0x005013F1|Engullido en su abrumadora gentileza.
-59503|0x00501430|Yume...... ï½·Yume......!
-59504|0x0050146E|S-Sï½¨... Todo estï½§ bien......
+59503|0x00501430|Yume...... ·Yume......!
+59504|0x0050146E|S-S¨... Todo est§ bien......
 59505|0x005014A6|No... tienes que....... contener...
 59506|0x005014E5|Lo acepto todo......
-59507|0x00501520|ï½·Lo aceptarï½ª todo....You-kun......!
-59508|0x00501553|Nos llamamos cuando nos acercamos al clï½¨max.
-59509|0x0050159B|ï½·ï½·ï½·Ahh, fwahh, ahhhhhhhhhhhh!!!
+59507|0x00501520|·Lo aceptarª todo....You-kun......!
+59508|0x00501553|Nos llamamos cuando nos acercamos al cl¨max.
+59509|0x0050159B|···Ahh, fwahh, ahhhhhhhhhhhh!!!
 59510|0x005015E7|Descargo dentro de ella.
-59511|0x0050160F|Llenï½§ndola con todas mis emociones.
-59512|0x00501642|Los jugos de amor teï¾ƒidos de rojo y blanco fluyen desde donde estamos ~unidos.
-59513|0x005016AD|Saliendo despuï½ªs de que ella estaba llena.
+59511|0x0050160F|Llen§ndola con todas mis emociones.
+59512|0x00501642|Los jugos de amor teÃidos de rojo y blanco fluyen desde donde estamos ~unidos.
+59513|0x005016AD|Saliendo despuªs de que ella estaba llena.
 59514|0x005016F3|Haaah...... ahhh, haaah...... ah...
-59515|0x00501726|Como si estuviera ordeï¾ƒando los restos, ella continï½©a apretando.
-59516|0x00501776|Sus respiraciones tambiï½ªn estaban llenas de emociï½«n.
-59517|0x005017BA|Sus brazos aï½©n a mi alrededor, sentimos la sensaciï½«n de la piel del ~otro mientras permanecemos conectados.
+59515|0x00501726|Como si estuviera ordeÃando los restos, ella contin©a apretando.
+59516|0x00501776|Sus respiraciones tambiªn estaban llenas de emoci«n.
+59517|0x005017BA|Sus brazos a©n a mi alrededor, sentimos la sensaci«n de la piel del ~otro mientras permanecemos conectados.
 59518|0x00501841|Ahh...... haah... You-kun......
 59519|0x00501887|Hace mucho calor...... mucho......
 59520|0x005018C5|Estoy completamente... llena...
 59521|0x005018FE|......Yume.
-59522|0x00501923|ï¾šEstaba bien que me corriera adentro?
-59523|0x00501985|Sï½¨... Este es tambiï½ªn mi tesoro......
+59522|0x00501923|ÚEstaba bien que me corriera adentro?
+59523|0x00501985|S¨... Este es tambiªn mi tesoro......
 59524|0x005019C6|Un tesoro para mi cofre del tesoro......
-59525|0x00501A0A|Pensï½ª que ayer serï½¨a el ï½©ltimo... pero he recibido algunos recuerdos ~nuevos...
+59525|0x00501A0A|Pensª que ayer ser¨a el ©ltimo... pero he recibido algunos recuerdos ~nuevos...
 59526|0x00501A73|......Oye, Yume...
-59527|0x00501A9F|Podemos hacer muchos recuerdos. Podemos continuar haciï½ªndolos a partir de ~ahora.
+59527|0x00501A9F|Podemos hacer muchos recuerdos. Podemos continuar haciªndolos a partir de ~ahora.
 59528|0x00501B0C|............
 59529|0x00501B32|Es por eso que......
-59530|0x00501B56|No quiero escuchar el uso de la palabra "ï½©ltimo".
-59531|0x00501BA3|Sï½¨, lo siento......
+59530|0x00501B56|No quiero escuchar el uso de la palabra "©ltimo".
+59531|0x00501BA3|S¨, lo siento......
 59532|0x00501BD2|No lo quise decir de esa manera......
 59533|0x00501C13|No quise molestarte...
-59534|0x00501C39|Ella sonrï½¨e de nuevo.
+59534|0x00501C39|Ella sonr¨e de nuevo.
 59535|0x00501C6A|Pero eso solo se aplica cuando te portas bien......
 59536|0x00501CF2|Las horas de visita han terminado.
 59537|0x00501D60|Volviendo a ponernos la ropa y enderezando la cama, nos apoyamos en el ~hombro del otro.
-59538|0x00501DC8|Despuï½ªs de notar nuestro hambre, comemos la comida del hospital juntos.
+59538|0x00501DC8|Despuªs de notar nuestro hambre, comemos la comida del hospital juntos.
 59539|0x00501E1F|Yume no estaba mintiendo cuando dijo que la comida era buena.
-59540|0x00501E6C|Iba a contenerme porque era su cena, pero ella la forzï½« en mi boca.
-59541|0x00501EBF|Despuï½ªs de que terminamos, la persona a cargo de las comidas se lleva la ~bandeja. Me escondï½¨ debajo de la cama mientras tanto.
-59542|0x00501F4E|Lamentablemente, terminï½ª cubierto de polvo, a lo que ella se riï½« ~despuï½ªs de verme.
-59543|0x00501FB1|Ella parecï½¨a realmente feliz.
-59544|0x00501FDE|Yo querï½¨a proteger esa sonrisa
-59545|0x0050200C|Estos sentimientos son las ï½©nicas cosas que no han cambiado.
+59540|0x00501E6C|Iba a contenerme porque era su cena, pero ella la forz« en mi boca.
+59541|0x00501EBF|Despuªs de que terminamos, la persona a cargo de las comidas se lleva la ~bandeja. Me escond¨ debajo de la cama mientras tanto.
+59542|0x00501F4E|Lamentablemente, terminª cubierto de polvo, a lo que ella se ri« ~despuªs de verme.
+59543|0x00501FB1|Ella parec¨a realmente feliz.
+59544|0x00501FDE|Yo quer¨a proteger esa sonrisa
+59545|0x0050200C|Estos sentimientos son las ©nicas cosas que no han cambiado.
 59546|0x005020A4|Las luces se apagan a las nueve.
-59547|0x005020D4|Despuï½ªs de que las luces de la habitaciï½«n se apagan, saltamos a la ~misma cama.
-59548|0x0050214F|Miramos a las deslumbrantes estrellas juntas a travï½ªs de la ventana con ~nuestra piel en contacto.
-59549|0x005021CD|ï¾šEsto realmente estï½§ bien?
-59550|0x00502201|Si no te importa, quedarte no es un problema para mï½¨ en absoluto.
-59551|0x0050225E|ï¾šQuï½ª hay de tu familia......?
-59552|0x00502295|Tambiï½ªn les dije que podrï½¨a estar durmiendo cuando les hablï½ª por ~telï½ªfono.
+59547|0x005020D4|Despuªs de que las luces de la habitaci«n se apagan, saltamos a la ~misma cama.
+59548|0x0050214F|Miramos a las deslumbrantes estrellas juntas a travªs de la ventana con ~nuestra piel en contacto.
+59549|0x005021CD|ÚEsto realmente est§ bien?
+59550|0x00502201|Si no te importa, quedarte no es un problema para m¨ en absoluto.
+59551|0x0050225E|ÚQuª hay de tu familia......?
+59552|0x00502295|Tambiªn les dije que podr¨a estar durmiendo cuando les hablª por ~telªfono.
 59553|0x005022FC|Has planeado esto bien.
 59554|0x0050232D|Es en lo que baso mi vida.
-59555|0x00502363|ï¾šQuï½ª hay de la escuela maï¾ƒana?
+59555|0x00502363|ÚQuª hay de la escuela maÃana?
 59556|0x0050239B|No voy.
 59557|0x005023BE|Eres tan malote.
-59558|0x005023E8|ï¾šMe he convertido en un estudiante de honor?
+59558|0x005023E8|ÚMe he convertido en un estudiante de honor?
 59559|0x00502430|Ni siquiera cerca.
-59560|0x00502452|Escucho una pequeï¾ƒa risa.
+59560|0x00502452|Escucho una pequeÃa risa.
 59561|0x00502487|Has fallado
 59562|0x005024A2|No queriendo desprenderme de este calor irreemplazable, acaricio el pelo de ~la chica que tengo delante.
 59563|0x00502526|Oye... deja de molestarme.
-59564|0x0050255A|Me detendrï½ª si no te gusta.
+59564|0x0050255A|Me detendrª si no te gusta.
 59565|0x00502591|No es que no me guste... pero no te confies demasiado...
 59566|0x005025D9|El cabello suave que fluye como el agua entre mis dedos se siente ~agradable.
-59567|0x00502642|Es extraï¾ƒo cuando piensas en eso......
-59568|0x00502684|Nunca imaginï½ª hacer algo como esto......
+59567|0x00502642|Es extraÃo cuando piensas en eso......
+59568|0x00502684|Nunca imaginª hacer algo como esto......
 59569|0x005026C8|En una cama de hospital contigo......
-59570|0x00502709|Deberï½¨a intentar......
+59570|0x00502709|Deber¨a intentar......
 59571|0x0050272F|Ella hace una pausa por un momento.
-59572|0x0050276E|Esforzarme mï½§s......
-59573|0x0050279E|Si solo......Puedo aceptar mï½§s de ti...
+59572|0x0050276E|Esforzarme m§s......
+59573|0x0050279E|Si solo......Puedo aceptar m§s de ti...
 59574|0x005027E1|Si solo puedo mantenerte caliente......
-59575|0x00502824|Si solo puedo... derretir tu corazï½«n congelado...
-59576|0x0050286F|......Estï½§ templado. Es mï½§s que suficientemente cï½§lido.
-59577|0x005028B6|Porque estoy tumbada aquï½¨ asï½¨.
-59578|0x005028E4|Estamos tan cï½§lidos que ni siquiera necesitamos escapar del frï½¨o del ~invierno.
+59575|0x00502824|Si solo puedo... derretir tu coraz«n congelado...
+59576|0x0050286F|......Est§ templado. Es m§s que suficientemente c§lido.
+59577|0x005028B6|Porque estoy tumbada aqu¨ as¨.
+59578|0x005028E4|Estamos tan c§lidos que ni siquiera necesitamos escapar del fr¨o del ~invierno.
 59579|0x00502943|Yume se calla.
-59580|0x00502961|Nos dormimos baï¾ƒados en el ambiente del cielo estrellado.
+59580|0x00502961|Nos dormimos baÃados en el ambiente del cielo estrellado.

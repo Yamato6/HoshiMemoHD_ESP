@@ -1,16 +1,15 @@
-# Build script para Hoshimemo_HD
-# Ejecutar: python fvp_tools.py hcb-merge strings_parts/build.txt strings_merged.txt
-# Luego:    python fvp_tools.py hcb-rebuild Hoshimemo_HD.hcb strings_merged.txt Hoshimemo_HD_traducido.hcb
+# Build script para reconstruir
+# Usar: python fvp_tools.py hcb-merge strings_parts/build.txt strings_merged.txt
 #
-strings_parts/strings_part01.txt
-strings_parts/strings_part02.txt
-strings_parts/strings_part03.txt
-strings_parts/strings_part04.txt
-strings_parts/strings_part05.txt
-strings_parts/strings_part06.txt
-strings_parts/strings_part07.txt
-strings_parts/strings_part08.txt
-strings_parts/strings_part09.txt
-strings_parts/strings_part10.txt
-strings_parts/strings_part11.txt
-strings_parts/strings_part12.txt
+strings_part01.txt
+strings_part02.txt
+strings_part03.txt
+strings_part04.txt
+strings_part05.txt
+strings_part06.txt
+strings_part07.txt
+strings_part08.txt
+strings_part09.txt
+strings_part10.txt
+strings_part11.txt
+strings_part12.txt

@@ -1,4 +1,4 @@
-# Parte 10 - LÃ­neas 84901 a 94900
+# Parte 10 - Lineas 84901 a 94900
 # Total en esta parte: 10000 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -856,8 +856,8 @@
 85751|0x0069EA1B|If I could just feel that for~myself...
 85752|0x0069EA5A|If I could just believe in it...
 85753|0x0069EA85|If I could just believe in~it...
-85754|0x0069EACB|Thenâ”€
-85755|0x0069EADC|Thenâ”€
+85754|0x0069EACB|Then„Ÿ
+85755|0x0069EADC|Then„Ÿ
 85756|0x0069EB29|I've got you, Kosame-san.
 85757|0x0069EB4D|I've got you, Kosame-san.
 85758|0x0069EB76|That body of hers, beautiful and translucent in the light of the full~moon.
@@ -1538,8 +1538,8 @@
 86433|0x006A9D13|Well, I did say I'd help all~throughout this week.
 86434|0x006A9D6F|...True, you did.
 86435|0x006A9D8B|...True, you did.
-86436|0x006A9DB6|If you're fine with me helping, I'll gladly keepâ”€
-86437|0x006A9DF3|If you're fine with me helping,~I'll gladly keepâ”€
+86436|0x006A9DB6|If you're fine with me helping, I'll gladly keep„Ÿ
+86437|0x006A9DF3|If you're fine with me helping,~I'll gladly keep„Ÿ
 86438|0x006A9E4F|Kogasaka-san.
 86439|0x006A9E67|Kogasaka-san.
 86440|0x006A9E84|She interrupted me mid-sentence.
@@ -1956,8 +1956,8 @@
 86851|0x006B1BED|It's been one and a half years~since I arrived here in~Hibarigasaki. That's the amount~of time I've spent under that
 86852|0x006B1C8B|The stress has only been going about. You get where I'm going with~this, surely?
 86853|0x006B1CE6|The stress has only been going~about. You get where I'm going~with this, surely?
-86854|0x006B1D80|I won't go lightly on youâ”€
-86855|0x006B1DA6|I won't go lightly on youâ”€
+86854|0x006B1D80|I won't go lightly on you„Ÿ
+86855|0x006B1DA6|I won't go lightly on you„Ÿ
 86856|0x006B1E13|When I woke up, the warmth that should've been in my arms was gone.
 86857|0x006B1E61|When I woke up, the warmth that~should've been in my arms was~gone.
 86858|0x006B1EBA|Kosame-san was nowhere to be seen.
@@ -2362,8 +2362,8 @@
 87257|0x006B8959|...Got it.
 87258|0x006B898B|Here I go then.
 87259|0x006B89A5|Here I go then.
-87260|0x006B8A0C|In deference to the blockhead you are, I'll smack you nice and goodâ”€
-87261|0x006B8A5C|In deference to the blockhead~you are, I'll smack you nice~and goodâ”€
+87260|0x006B8A0C|In deference to the blockhead you are, I'll smack you nice and good„Ÿ
+87261|0x006B8A5C|In deference to the blockhead~you are, I'll smack you nice~and good„Ÿ
 87262|0x006B8AFB|I'd meant to look for Mare right after getting to the lookout.
 87263|0x006B8B44|I'd meant to look for Mare~right after getting to the~lookout.
 87264|0x006B8BBF|But there was no need to look for her. She was right there.
@@ -2566,8 +2566,8 @@
 87461|0x006BB72E|I still hadn't managed to catch~her yet.
 87462|0x006BB770|Can you lend me the scythe for a sec?
 87463|0x006BB7A0|Can you lend me the scythe for~a sec?
-87464|0x006BB7ED|...Huh? Butâ”€
-87465|0x006BB805|...Huh? Butâ”€
+87464|0x006BB7ED|...Huh? But„Ÿ
+87465|0x006BB805|...Huh? But„Ÿ
 87466|0x006BB832|Didn't I say I'd bring her back?
 87467|0x006BB85D|Didn't I say I'd bring her~back?
 87468|0x006BB897|I need your scythe to do that.
@@ -2606,8 +2606,8 @@
 87501|0x006BC189|I won't ever give up.
 87502|0x006BC1B8|I could only think up one method of how to catch her.
 87503|0x006BC1F8|I could only think up one~method of how to catch her.
-87504|0x006BC247|So, please. If you could lend me that scytheâ”€
-87505|0x006BC280|So, please. If you could lend~me that scytheâ”€
+87504|0x006BC247|So, please. If you could lend me that scythe„Ÿ
+87505|0x006BC280|So, please. If you could lend~me that scythe„Ÿ
 87506|0x006BC318|Oh, I see...
 87507|0x006BC32F|Oh, I see...
 87508|0x006BC357|So it's a full moon tonight...
@@ -2970,14 +2970,14 @@
 87865|0x006C2AAF|Close enough that I'm always~within arms reach...
 87866|0x006C2AFA|I've decided, Kosame-san...
 87867|0x006C2B20|I've decided, Kosame-san...
-87868|0x006C2B55|I will always be there to protect youâ”€
-87869|0x006C2B87|I will always be there to~protect youâ”€
+87868|0x006C2B55|I will always be there to protect you„Ÿ
+87869|0x006C2B87|I will always be there to~protect you„Ÿ
 87870|0x006C2C12|I felt like I was dreaming.
 87871|0x006C2C38|I felt like I was dreaming.
 87872|0x006C2C69|The kind of dream where you know you're in a dream.
 87873|0x006C2CA7|The kind of dream where you~know you're in a dream.
-87874|0x006C2CEA|A dream where one is aware of the fact that they're dreaming â”€ a~lucid dream.
-87875|0x006C2D43|A dream where one is aware of~the fact that they're dreaming~â”€ a lucid dream.
+87874|0x006C2CEA|A dream where one is aware of the fact that they're dreaming „Ÿ a~lucid dream.
+87875|0x006C2D43|A dream where one is aware of~the fact that they're dreaming~„Ÿ a lucid dream.
 87876|0x006C2DA1|However, I was quite sure I would forget everything upon waking up.~I'm not one to remember my dreams much.
 87877|0x006C2E17|However, I was quite sure I~would forget everything upon~waking up. I'm not one to~remember my dreams much.
 87878|0x006C2E92|Maybe memories like that can still reside deep in memory after you~thought you forgot them. It's just a matter of finding out how to~retrieve them.
@@ -4418,8 +4418,8 @@
 89313|0x006DD07A|If you're thinking it's any~trouble for me, then you really~don't have to worry about that.
 89314|0x006DD0FF|Rather, it is trouble for me.
 89315|0x006DD127|Rather, it is trouble for me.
-89316|0x006DD15E|Then maybe later, I'llâ”€
-89317|0x006DD181|Then maybe later, I'llâ”€
+89316|0x006DD15E|Then maybe later, I'll„Ÿ
+89317|0x006DD181|Then maybe later, I'll„Ÿ
 89318|0x006DD1C3|No thank you.
 89319|0x006DD1DB|No thank you.
 89320|0x006DD202|C'mon, at least let me finish.
@@ -5966,8 +5966,8 @@
 90861|0x006F9EDA|I really wish she'd let me~carry it for her.
 90862|0x006F9F94|...Do you care if I ask you this question again?
 90863|0x006F9FCF|...Do you care if I ask you~this question again?
-90864|0x006FA00F|As I was waiting for Aoi-san to finish setting up her telescope, she~called out to me â”€ something that was very much a rarity.
-90865|0x006FA099|As I was waiting for Aoi-san to~finish setting up her~telescope, she called out to me~â”€ something that was very
+90864|0x006FA00F|As I was waiting for Aoi-san to finish setting up her telescope, she~called out to me „Ÿ something that was very much a rarity.
+90865|0x006FA099|As I was waiting for Aoi-san to~finish setting up her~telescope, she called out to me~„Ÿ something that was very
 90866|0x006FA147|...Why are you so concerned about me?
 90867|0x006FA177|...Why are you so concerned~about me?
 90868|0x006FA1B6|You're a fellow member of my club.
@@ -6938,8 +6938,8 @@
 91833|0x0070DF84|After the sound of the door~closing had subsided, I was~once again met with silence.
 91834|0x0070DFE8|Coupled with it, I now had nothing to do.
 91835|0x0070E01C|Coupled with it, I now had~nothing to do.
-91836|0x0070E055|I was left with only two things to keep me company â”€ the starry sky,~plus one more thing.
-91837|0x0070E0BA|I was left with only two things~to keep me company â”€ the~starry sky, plus one more~thing.
+91836|0x0070E055|I was left with only two things to keep me company „Ÿ the starry sky,~plus one more thing.
+91837|0x0070E0BA|I was left with only two things~to keep me company „Ÿ the~starry sky, plus one more~thing.
 91838|0x0070E12E|...Yeah, of course she couldn't take her telescope along.
 91839|0x0070E172|...Yeah, of course she couldn't~take her telescope along.
 91840|0x0070E1BB|It was my first time finding myself in this situation.
@@ -6982,8 +6982,8 @@
 91877|0x0070EC17|Her kindness isn't limited to~just Suzuha-chan.
 91878|0x0070EC56|It was just that Suzuha-chan was the only one she openly showed it to.
 91879|0x0070ECA7|It was just that Suzuha-chan~was the only one she openly~showed it to.
-91880|0x0070ECFD|Aoi-san was the girl that Chinami took a liking to â”€ the~friend-making genius who had a special eye for people.
-91881|0x0070ED78|Aoi-san was the girl that~Chinami took a liking to â”€~the friend-making genius who~had a special eye for people.
+91880|0x0070ECFD|Aoi-san was the girl that Chinami took a liking to „Ÿ the~friend-making genius who had a special eye for people.
+91881|0x0070ED78|Aoi-san was the girl that~Chinami took a liking to „Ÿ~the friend-making genius who~had a special eye for people.
 91882|0x0070EDF8|That's how it all began.
 91883|0x0070EE1B|That's how it all began.
 91884|0x0070EE43|It's what led me to believe that I could become Aoi-san's friend as~well.
@@ -7208,8 +7208,8 @@
 92103|0x00712BBC|Maybe she wasn't in the mood.
 92104|0x00712BF7|Maybe she just didn't want to see him.
 92105|0x00712C28|Maybe she just didn't want to~see him.
-92106|0x00712C5E|Kogasaka You â”€ that meddlesome upperclassman of hers.
-92107|0x00712C9F|Kogasaka You â”€ that~meddlesome upperclassman of~hers.
+92106|0x00712C5E|Kogasaka You „Ÿ that meddlesome upperclassman of hers.
+92107|0x00712C9F|Kogasaka You „Ÿ that~meddlesome upperclassman of~hers.
 92108|0x00712CE5|If she had shown up, he would've undoubtedly tried to show her the~planetarium. There was no mistaking that fact.
 92109|0x00712D61|If she had shown up, he~would've undoubtedly tried to~show her the planetarium. There~was no mistaking that fact.
 92110|0x00712DE2|And of course, she would have taken his bait and gone to see it for~herself.
@@ -7648,8 +7648,8 @@
 92543|0x0071C1B2|...Now then.
 92544|0x0071C1CE|I didn't exactly come here with a particular objective in mind.
 92545|0x0071C218|I didn't exactly come here with~a particular objective in mind.
-92546|0x0071C267|I simply wanted to see the place with my own eyes at least once â”€~the place where Aoi-san had received that telescope of hers.
-92547|0x0071C2F1|I simply wanted to see the~place with my own eyes at least~once â”€ the place where~Aoi-san had received that
+92546|0x0071C267|I simply wanted to see the place with my own eyes at least once „Ÿ~the place where Aoi-san had received that telescope of hers.
+92547|0x0071C2F1|I simply wanted to see the~place with my own eyes at least~once „Ÿ the place where~Aoi-san had received that
 92548|0x0071C36D|I thought about taking a look inside if the building was open, but I'd~have to have some serious balls to get past that chain.
 92549|0x0071C3F6|I thought about taking a look~inside if the building was~open, but I'd have to have some~serious balls to get past that
 92550|0x0071C47D|Unlike the lookout, I had to worry about the fair amount of street~traffic. Anyone in those cars lining the intersection would have a~full view of me.
@@ -7698,8 +7698,8 @@
 92593|0x0071D4AC|You must have really mustered~up a lot of courage,~considering how much of a~scaredy-cat you are.
 92594|0x0071D537|...Don't make me call the police.
 92595|0x0071D563|...Don't make me call the~police.
-92596|0x0071D59E|Well, It's not like I've actually broken in yet. More importantly,~whyâ”€
-92597|0x0071D5F1|Well, It's not like I've~actually broken in yet. More~importantly, whyâ”€
+92596|0x0071D59E|Well, It's not like I've actually broken in yet. More importantly,~why„Ÿ
+92597|0x0071D5F1|Well, It's not like I've~actually broken in yet. More~importantly, why„Ÿ
 92598|0x0071D663|I just happened to be passing by, don't get the wrong idea.
 92599|0x0071D6A9|I just happened to be passing~by, don't get the wrong idea.
 92600|0x0071D6F4|She answered before I even asked the question.
@@ -7852,7 +7852,7 @@
 92747|0x00720183|The starry sky of the southern~hemisphere hung over a land far~off in the distance.
 92748|0x007201E6|Another place, far away from Hibarigasaki.
 92749|0x0072021B|Another place, far away from~Hibarigasaki.
-92750|0x0072026B|Specifically, what she longed for was a sky that gleamed with an~aurora... A sight that couldn't be achieved with any homemade~planetarium â”€ something that couldn't be produced through the Astro~Club's power alone.
+92750|0x0072026B|Specifically, what she longed for was a sky that gleamed with an~aurora... A sight that couldn't be achieved with any homemade~planetarium „Ÿ something that couldn't be produced through the Astro~Club's power alone.
 92751|0x0072034D|Specifically, what she longed~for was a sky that gleamed with~an aurora... A sight that~couldn't be achieved with any
 92752|0x00720475|Onee-chan, it's about time.
 92753|0x0072049B|Onee-chan, it's about time.
@@ -7976,8 +7976,8 @@
 92871|0x00722B1E|Starting from when she joined~the Astro Club, I followed her~as she was stargazing on the~rooftop, and today as well to
 92872|0x00722BBF|...I don't think acknowledging it means you're going to quit.
 92873|0x00722C07|...I don't think acknowledging~it means you're going to quit.
-92874|0x00722C5E|I guess. But if doing that upsets you, I'll apologize. So, lookâ”€
-92875|0x00722CAA|I guess. But if doing that~upsets you, I'll apologize. So,~lookâ”€
+92874|0x00722C5E|I guess. But if doing that upsets you, I'll apologize. So, look„Ÿ
+92875|0x00722CAA|I guess. But if doing that~upsets you, I'll apologize. So,~look„Ÿ
 92876|0x00722D2A|I've already made up my mind on this issue. Besides, it has nothing to~do with you, Senpai.
 92877|0x00722D90|I've already made up my mind on~this issue. Besides, it has~nothing to do with you, Senpai.
 92878|0x00722E15|What we were doing was always odd. It made no sense for me to join~your family just because we're neighbors.
@@ -8078,7 +8078,7 @@
 92973|0x00724C33|I must apologize, Nee-san... I~don't want to take something so~precious from you, but these~circumstances leave me no
 92974|0x00724CD2|And just what are you planning to steal from me?! Actually, no. Don't~answer that. Some things are better left unsaid!
 92975|0x00724D53|And just what are you planning~to steal from me?! Actually,~no. Don't answer that. Some~things are better left unsaid!
-92976|0x00724DF3|Oh, what else could I be speaking of but the thing you've been~protecting so fervently... your ever so precious virgâ”€
+92976|0x00724DF3|Oh, what else could I be speaking of but the thing you've been~protecting so fervently... your ever so precious virg„Ÿ
 92977|0x00724E74|Oh, what else could I be~speaking of but the thing~you've been protecting so~fervently... your ever so
 92978|0x00724F36|Don't say it! Didn't you hear me?!
 92979|0x00724F63|Don't say it! Didn't you hear~me?!
@@ -8092,10 +8092,10 @@
 92987|0x007252DD|It happens a lot during~lunchtime, too.
 92988|0x00725366|I need to ask you before I start, Nee-san... Are you ready?
 92989|0x007253AC|I need to ask you before I~start, Nee-san... Are you~ready?
-92990|0x00725403|Wait a minute! In the first place, we're both girls so how are you~going to steal myâ”€ Actually, no. Don't answer that. Some things are~better left unsaid!
-92991|0x007254A9|Wait a minute! In the first~place, we're both girls so how~are you going to steal myâ”€~Actually, no. Don't answer
-92992|0x00725575|It would indeed be a difficult task to make you bleed, but if I can~pleasure you adequately, then at the very end I canâ”€
-92993|0x007255F9|It would indeed be a difficult~task to make you bleed, but if~I can pleasure you adequately,~then at the very end I canâ”€
+92990|0x00725403|Wait a minute! In the first place, we're both girls so how are you~going to steal my„Ÿ Actually, no. Don't answer that. Some things are~better left unsaid!
+92991|0x007254A9|Wait a minute! In the first~place, we're both girls so how~are you going to steal my„Ÿ~Actually, no. Don't answer
+92992|0x00725575|It would indeed be a difficult task to make you bleed, but if I can~pleasure you adequately, then at the very end I can„Ÿ
+92993|0x007255F9|It would indeed be a difficult~task to make you bleed, but if~I can pleasure you adequately,~then at the very end I can„Ÿ
 92994|0x0072569C|Can you not?! Remember you're saying this stuff in front of the guys~here, too!
 92995|0x007256F6|Can you not?! Remember you're~saying this stuff in front of~the guys here, too!
 92996|0x00725791|The two guys in question were sitting back and sipping tea.
@@ -8206,8 +8206,8 @@
 93101|0x007285A4|You might want to watch your~back when you enter the bath~alone.
 93102|0x00728600|What am I supposed to be watching out for?! Actually, no. Don't answer~that. Some things are better left unsaid!
 93103|0x0072867B|What am I supposed to be~watching out for?! Actually,~no. Don't answer that. Some~things are better left unsaid!
-93104|0x0072874F|I will come from behind you, and gently caress those lovely breaâ”€
-93105|0x0072879C|I will come from behind you,~and gently caress those lovely~breaâ”€
+93104|0x0072874F|I will come from behind you, and gently caress those lovely brea„Ÿ
+93105|0x0072879C|I will come from behind you,~and gently caress those lovely~brea„Ÿ
 93106|0x00728813|Look, can you please realize that we have guys in our presence?!
 93107|0x0072885E|Look, can you please realize~that we have guys in our~presence?!
 93108|0x007288E3|Sorry, Komomo-chan... but it's gotta be...
@@ -8970,8 +8970,8 @@
 93865|0x00739411|That's right. It was about ten~years after I graduated. The~previous director at the time~was getting old and needed
 93866|0x007394AF|Since he was rather young for the position, people were pretty~surprised.
 93867|0x00739503|Since he was rather young for~the position, people were~pretty surprised.
-93868|0x00739576|Even so, he had an extensive knowledge of astronomy â”€ especially~when it came to telescopes and planetariums. They say there was~basically not a single person against him taking on the position.
-93869|0x00739644|Even so, he had an extensive~knowledge of astronomy â”€~especially when it came to~telescopes and planetariums.
+93868|0x00739576|Even so, he had an extensive knowledge of astronomy „Ÿ especially~when it came to telescopes and planetariums. They say there was~basically not a single person against him taking on the position.
+93869|0x00739644|Even so, he had an extensive~knowledge of astronomy „Ÿ~especially when it came to~telescopes and planetariums.
 93870|0x00739702|There aren't any classes about astronomy in Hibari High, so I'm~guessing he used to teach a general science or physics course.
 93871|0x0073978B|There aren't any classes about~astronomy in Hibari High, so~I'm guessing he used to teach a~general science or physics
 93872|0x0073982B|Yeah. I think he majored in astronomy at university, though.
@@ -9010,8 +9010,8 @@
 93905|0x0073A3D2|Why exactly do you want to see~the planetarium?
 93906|0x0073A46A|Nobody offered him any answer.
 93907|0x0073A493|Nobody offered him any answer.
-93908|0x0073A4C1|It wasn't that they couldn't â”€ it looked like they were letting me~answer since this was my idea in the first place.
-93909|0x0073A541|It wasn't that they couldn't~â”€ it looked like they were~letting me answer since this~was my idea in the first place.
+93908|0x0073A4C1|It wasn't that they couldn't „Ÿ it looked like they were letting me~answer since this was my idea in the first place.
+93909|0x0073A541|It wasn't that they couldn't~„Ÿ it looked like they were~letting me answer since this~was my idea in the first place.
 93910|0x0073A5C6|So I responded.
 93911|0x0073A5E0|So I responded.
 93912|0x0073A658|We want to let this girl, Aoi-san, see the science center's~planetarium once more.
@@ -9250,8 +9250,8 @@
 94145|0x007402DC|This was the universe that~astronomers had shed light~upon.
 94146|0x00740327|The starry sky of Hibarigasaki that the Astro Club spent their time~observing.
 94147|0x00740380|The starry sky of Hibarigasaki~that the Astro Club spent their~time observing.
-94148|0x007403DE|His job was to bring forth the mystery of the unknown using the power~of man â”€ one that would inspire anyone who engages in astronomy to~reach towards it.
-94149|0x00740484|His job was to bring forth the~mystery of the unknown using~the power of man â”€ one that~would inspire anyone who
+94148|0x007403DE|His job was to bring forth the mystery of the unknown using the power~of man „Ÿ one that would inspire anyone who engages in astronomy to~reach towards it.
+94149|0x00740484|His job was to bring forth the~mystery of the unknown using~the power of man „Ÿ one that~would inspire anyone who
 94150|0x00740505|In addition, he offered that mystery to the children of Hibarigasaki.
 94151|0x00740555|In addition, he offered that~mystery to the children of~Hibarigasaki.
 94152|0x00740608|...It's just as if he was doing the work of God.

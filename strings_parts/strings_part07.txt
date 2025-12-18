@@ -1,4 +1,4 @@
-# Parte 7 - LÃ­neas 54901 a 64900
+# Parte 7 - Lineas 54901 a 64900
 # Total en esta parte: 10000 strings
 # Formato: ID|ADDRESS|TEXT
 #
@@ -318,7 +318,7 @@
 55213|0x00475F14|Okay... all right...
 55214|0x00475F4F|I'll hear your wish...
 55215|0x00475F70|I'll hear your wish...
-55216|0x00475F96|Just as I wished upon that shooting star, streaking across the~sunset-dyed sky back then, I now made another wish to Mareâ”€
+55216|0x00475F96|Just as I wished upon that shooting star, streaking across the~sunset-dyed sky back then, I now made another wish to Mare„Ÿ
 55217|0x0047601C|Just as I wished upon that~shooting star, streaking across~the sunset-dyed sky back then,~I now made another wish to
 55218|0x004760AA|Please... Mare...
 55219|0x004760C6|Please... Mare...
@@ -576,14 +576,14 @@
 55471|0x0047A12C|If you're asleep when I get to~you, I'll make sure to wake you~up again...
 55472|0x0047A190|I will get you back...
 55473|0x0047A1B1|I will get you back...
-55474|0x0047A227|â”€I want you to know, it's okay to be a little reckless.
-55475|0x0047A26B|â”€I want you to know, it's~okay to be a little reckless.
-55476|0x0047A2C2|â”€It's okay to be greedy.
-55477|0x0047A2E7|â”€It's okay to be greedy.
-55478|0x0047A31F|â”€After all, you're not alone in this world.
-55479|0x0047A357|â”€After all, you're not alone~in this world.
-55480|0x0047A3A2|â”€Your happiness isn't just your own to take delight in.
-55481|0x0047A3E6|â”€Your happiness isn't just~your own to take delight in.
+55474|0x0047A227|„ŸI want you to know, it's okay to be a little reckless.
+55475|0x0047A26B|„ŸI want you to know, it's~okay to be a little reckless.
+55476|0x0047A2C2|„ŸIt's okay to be greedy.
+55477|0x0047A2E7|„ŸIt's okay to be greedy.
+55478|0x0047A31F|„ŸAfter all, you're not alone in this world.
+55479|0x0047A357|„ŸAfter all, you're not alone~in this world.
+55480|0x0047A3A2|„ŸYour happiness isn't just your own to take delight in.
+55481|0x0047A3E6|„ŸYour happiness isn't just~your own to take delight in.
 55482|0x0047A47B|You-kun...
 55483|0x0047A490|You-kun...
 55484|0x0047A4B4|Even during such a serious time like this... you never fail to be a~blockhead...
@@ -674,8 +674,8 @@
 55569|0x0047B790|So you see...
 55570|0x0047B7B7|That makes you two my mom and dad...
 55571|0x0047B7E6|That makes you two my mom and~dad...
-55572|0x0047B856|You're my familyâ”€
-55573|0x0047B873|You're my familyâ”€
+55572|0x0047B856|You're my family„Ÿ
+55573|0x0047B873|You're my family„Ÿ
 55574|0x0047B926|I felt like I was dreaming.
 55575|0x0047B94D|I felt like I was dreaming.
 55576|0x0047B987|A sensation akin to being in a mother's womb.
@@ -740,8 +740,8 @@
 55635|0x0047CB5F|So I know.
 55636|0x0047CB88|If I just look in the direction that light shines, there it is.
 55637|0x0047CBD3|If I just look in the direction~that light shines, there it is.
-55638|0x0047CC4E|There, awaiting me, is the continuation of my memoriesâ”€
-55639|0x0047CC92|There, awaiting me, is the~continuation of my memoriesâ”€
+55638|0x0047CC4E|There, awaiting me, is the continuation of my memories„Ÿ
+55639|0x0047CC92|There, awaiting me, is the~continuation of my memories„Ÿ
 55640|0x0047CD3B|graph_vis/YUME_e08a_parts
 55641|0x0047CDB0|Do you know that our solar system is moving towards the Hercules~constellation at a velocity of about nineteen kilometers per~second...?
 55642|0x0047CE43|Do you know that our solar~system is moving towards the~Hercules constellation at a~velocity of about nineteen
@@ -1172,8 +1172,8 @@
 56067|0x00483E75|She carefully approached me.
 56068|0x00483EDE|So, Mare, what were you thinking about?
 56069|0x00483F10|So, Mare, what were you~thinking about?
-56070|0x00483F5F|Doing what we did last night aâ”€
-56071|0x00483F8A|Doing what we did last night~aâ”€
+56070|0x00483F5F|Doing what we did last night a„Ÿ
+56071|0x00483F8A|Doing what we did last night~a„Ÿ
 56072|0x00483FBA|Mare's face turned bright red.
 56073|0x00483FE3|Mare's face turned bright red.
 56074|0x00484050|Noo!
@@ -2662,8 +2662,8 @@
 57557|0x0049B231|Beneath the tender starlight, I~pondered what would be an~appropriate greeting.
 57558|0x0049B29A|It's a promise, You-kun...
 57559|0x0049B2BF|It's a promise, You-kun...
-57560|0x0049B325|We'll always be together, forever and everâ”€
-57561|0x0049B35C|We'll always be together,~forever and everâ”€
+57560|0x0049B325|We'll always be together, forever and ever„Ÿ
+57561|0x0049B35C|We'll always be together,~forever and ever„Ÿ
 57562|0x0049B3D0|There exists a town called Hibarigasaki.
 57563|0x0049B403|There exists a town called~Hibarigasaki.
 57564|0x0049B43B|A northern port town that has always been dotted with many hills and~alleys.
@@ -4184,8 +4184,8 @@
 59079|0x004B4255|So please, go out with me.
 59080|0x004B4289|At the end of the day, you're the?
 59081|0x004B42B6|At the end of the day, you're~the?
-59082|0x004B4327|â”€I'm sorry.
-59083|0x004B433E|â”€I'm sorry.
+59082|0x004B4327|„ŸI'm sorry.
+59083|0x004B433E|„ŸI'm sorry.
 59084|0x004B4360|Yume and I both had our hair blown about by the raging winter wind.
 59085|0x004B43AE|Yume and I both had our hair~blown about by the raging~winter wind.
 59086|0x004B440D|I know you love me, but it doesn't matter how many times you say it...
@@ -4268,8 +4268,8 @@
 59163|0x004B55B4|(The wall separating us is~unassailable.)
 59164|0x004B55ED|(That's why my love could never be requited.)
 59165|0x004B5625|(That's why my love could never~be requited.)
-59166|0x004B5662|(Then I should just let goâ”€)
-59167|0x004B568A|(Then I should just let goâ”€)
+59166|0x004B5662|(Then I should just let go„Ÿ)
+59167|0x004B568A|(Then I should just let go„Ÿ)
 59168|0x004B571E|Then only Mare stayed to watch over You from the shadows.
 59169|0x004B5762|Then only Mare stayed to watch~over You from the shadows.
 59170|0x004B57AB|Yume had already disappeared.
@@ -4462,8 +4462,8 @@
 59357|0x004B90CC|Past and present alike...
 59358|0x004B9101|No matter what, that will always be my wish... It won't change...
 59359|0x004B914D|No matter what, that will~always be my wish... It won't~change...
-59360|0x004B91B8|Amidst this world abundant with change, it's the sole thing within me~that can remain eternalâ”€
-59361|0x004B9222|Amidst this world abundant with~change, it's the sole thing~within me that can remain~eternalâ”€
+59360|0x004B91B8|Amidst this world abundant with change, it's the sole thing within me~that can remain eternal„Ÿ
+59361|0x004B9222|Amidst this world abundant with~change, it's the sole thing~within me that can remain~eternal„Ÿ
 59362|0x004B9347|So the day's finally come, huh?
 59363|0x004B9371|So the day's finally come, huh?
 59364|0x004B93AC|Tomorrow, right... That's when you're gonna move, isn't it?
@@ -4650,8 +4650,8 @@
 59545|0x004BBED0|With a silver flash of light,~the scythe then drew an~approaching trajectory.
 59546|0x004BBF2D|I could still only stare at it, dumbfounded.
 59547|0x004BBF64|I could still only stare at it,~dumbfounded.
-59548|0x004BBFB8|And then start over from the beginningâ”€
-59549|0x004BBFEB|And then start over from the~beginningâ”€
+59548|0x004BBFB8|And then start over from the beginning„Ÿ
+59549|0x004BBFEB|And then start over from the~beginning„Ÿ
 59550|0x004BC051|I felt a warm light shining in my chest.
 59551|0x004BC084|I felt a warm light shining in~my chest.
 59552|0x004BC0E3|Now you won't have to worry yourself to death anymore...
@@ -4750,8 +4750,8 @@
 59645|0x004BDB7F|When will I be able to seize~that something?
 59646|0x004BDBBB|When will I be able to protect those that I hold dear?
 59647|0x004BDBFC|When will I be able to protect~those that I hold dear?
-59648|0x004BDC56|â”€Sorry, did I keep you waiting?
-59649|0x004BDC81|â”€Sorry, did I keep you~waiting?
+59648|0x004BDC56|„ŸSorry, did I keep you waiting?
+59649|0x004BDC81|„ŸSorry, did I keep you~waiting?
 59650|0x004BDCEE|A girl stood there.
 59651|0x004BDD0C|A girl stood there.
 59652|0x004BDD2F|Apparently, she had come to visit the lookout.
@@ -4822,8 +4822,8 @@
 59717|0x004BED5D|And that certainly cheered me~up.
 59718|0x004BED8E|But that joyous fact also meant that I couldn't meet the other girl~ever again.
 59719|0x004BEDE8|But that joyous fact also meant~that I couldn't meet the other~girl ever again.
-59720|0x004BEE47|I could never again see her â”€ she, the girl that saved us.
-59721|0x004BEE8D|I could never again see her â”€~she, the girl that saved us.
+59720|0x004BEE47|I could never again see her „Ÿ she, the girl that saved us.
+59721|0x004BEE8D|I could never again see her „Ÿ~she, the girl that saved us.
 59722|0x004BEED8|And that was surely something terribly sorrowful.
 59723|0x004BEF14|And that was surely something~terribly sorrowful.
 59724|0x004BEF55|But it was simply the price I had to pay.
@@ -4838,14 +4838,14 @@
 59733|0x004BF19A|Nausea washed over me.
 59734|0x004BF1C0|I felt my head spinning as I realized how terribly unfair that~conclusion was.
 59735|0x004BF219|I felt my head spinning as I~realized how terribly unfair~that conclusion was.
-59736|0x004BF2A5|â”€Are you really all right with this?
-59737|0x004BF2D6|â”€Are you really all right~with this?
+59736|0x004BF2A5|„ŸAre you really all right with this?
+59737|0x004BF2D6|„ŸAre you really all right~with this?
 59738|0x004BF30C|(I don't know.)
 59739|0x004BF326|(I don't know.)
-59740|0x004BF353|â”€Can you truly accept this outcome?
-59741|0x004BF383|â”€Can you truly accept this~outcome?
-59742|0x004BF3C6|â”€Can you say that you're happy?
-59743|0x004BF3F2|â”€Can you say that you're~happy?
+59740|0x004BF353|„ŸCan you truly accept this outcome?
+59741|0x004BF383|„ŸCan you truly accept this~outcome?
+59742|0x004BF3C6|„ŸCan you say that you're happy?
+59743|0x004BF3F2|„ŸCan you say that you're~happy?
 59744|0x004BF423|(I don't know.)
 59745|0x004BF43D|(I don't know.)
 59746|0x004BF45C|(But there is one thing I do know.)
@@ -4860,24 +4860,24 @@
 59755|0x004BF637|Yume was right in front of me.
 59756|0x004BF665|However, Mare wasn't there with her.
 59757|0x004BF694|However, Mare wasn't there with~her.
-59758|0x004BF6D6|â”€Do you want to protect her?
-59759|0x004BF6FF|â”€Do you want to protect her?
+59758|0x004BF6D6|„ŸDo you want to protect her?
+59759|0x004BF6FF|„ŸDo you want to protect her?
 59760|0x004BF72D|(I do.)
 59761|0x004BF73F|(I do.)
-59762|0x004BF764|â”€Can you do that?
-59763|0x004BF782|â”€Can you do that?
+59762|0x004BF764|„ŸCan you do that?
+59763|0x004BF782|„ŸCan you do that?
 59764|0x004BF7A5|(I can.)
 59765|0x004BF7B8|(I can.)
-59766|0x004BF7DE|â”€But you weren't able to protect her.
-59767|0x004BF810|â”€But you weren't able to~protect her.
+59766|0x004BF7DE|„ŸBut you weren't able to protect her.
+59767|0x004BF810|„ŸBut you weren't able to~protect her.
 59768|0x004BF847|(That's right.)
 59769|0x004BF861|(That's right.)
 59770|0x004BF880|(I wasn't strong enough on my own.)
 59771|0x004BF8AE|(I wasn't strong enough on my~own.)
-59772|0x004BF8EF|â”€That is not your wrongdoing, dear.
-59773|0x004BF91F|â”€That is not your wrongdoing,~dear.
-59774|0x004BF962|â”€That does not mean you're weak, in any way.
-59775|0x004BF99B|â”€That does not mean you're~weak, in any way.
+59772|0x004BF8EF|„ŸThat is not your wrongdoing, dear.
+59773|0x004BF91F|„ŸThat is not your wrongdoing,~dear.
+59774|0x004BF962|„ŸThat does not mean you're weak, in any way.
+59775|0x004BF99B|„ŸThat does not mean you're~weak, in any way.
 59776|0x004BF9D9|(I won't give up.)
 59777|0x004BF9F6|(I won't give up.)
 59778|0x004BFA18|(I don't want to give up now.)
@@ -4886,16 +4886,16 @@
 59781|0x004BFAA4|(I don't want to choose just~one of them.)
 59782|0x004BFADE|(I don't want to sacrifice either of them.)
 59783|0x004BFB14|(I don't want to sacrifice~either of them.)
-59784|0x004BFB5D|â”€But a thought like that is the height of greed.
-59785|0x004BFB9A|â”€But a thought like that is~the height of greed.
+59784|0x004BFB5D|„ŸBut a thought like that is the height of greed.
+59785|0x004BFB9A|„ŸBut a thought like that is~the height of greed.
 59786|0x004BFBDC|(Maybe so.)
 59787|0x004BFBF2|(Maybe so.)
 59788|0x004BFC0D|(But so be it. I won't accept that giving one of them up is the only~option.)
 59789|0x004BFC65|(But so be it. I won't accept~that giving one of them up is~the only option.)
 59790|0x004BFCC2|(I'll never reach my destination by standing still.)
 59791|0x004BFD01|(I'll never reach my~destination by standing still.)
-59792|0x004BFD53|â”€Then what will you do?
-59793|0x004BFD77|â”€Then what will you do?
+59792|0x004BFD53|„ŸThen what will you do?
+59793|0x004BFD77|„ŸThen what will you do?
 59794|0x004BFDA0|(I wasn't strong enough on my own.)
 59795|0x004BFDCE|(I wasn't strong enough on my~own.)
 59796|0x004BFE01|(I couldn't reach it on my own.)
@@ -5010,10 +5010,10 @@
 59905|0x004C171E|There'll be plenty more.
 59906|0x004C1770|You'll no doubt see plenty more shooting stars throughout your life.
 59907|0x004C17BF|You'll no doubt see plenty more~shooting stars throughout your~life.
-59908|0x004C1845|(â”€That's right.)
-59909|0x004C1861|(â”€That's right.)
-59910|0x004C1882|(And so I, Kogasaka Kasumi, also wish againâ”€)
-59911|0x004C18BB|(And so I, Kogasaka Kasumi,~also wish againâ”€)
+59908|0x004C1845|(„ŸThat's right.)
+59909|0x004C1861|(„ŸThat's right.)
+59910|0x004C1882|(And so I, Kogasaka Kasumi, also wish again„Ÿ)
+59911|0x004C18BB|(And so I, Kogasaka Kasumi,~also wish again„Ÿ)
 59912|0x004C18F9|(My wish is for family.)
 59913|0x004C191C|(My wish is for family.)
 59914|0x004C1944|(Both the child Taiga-san has given me, and the child Chihiro-kun has~given me.)
@@ -5128,8 +5128,8 @@
 60023|0x004C329C|Always placing the fault on~your own actions.
 60024|0x004C32F3|You really are an overly doting mother, Nee-san...
 60025|0x004C3330|You really are an overly doting~mother, Nee-san...
-60026|0x004C338C|Through and throughâ”€
-60027|0x004C33AC|Through and throughâ”€
+60026|0x004C338C|Through and through„Ÿ
+60027|0x004C33AC|Through and through„Ÿ
 60028|0x004C3418|You really hung in there, You-kun...
 60029|0x004C3447|You really hung in there,~You-kun...
 60030|0x004C347B|I was crying.
@@ -5182,16 +5182,16 @@
 60077|0x004C405E|I was brushing away the hands~that were reaching out towards~me.
 60078|0x004C40AE|I never once considered taking them as an option.
 60079|0x004C40EA|I never once considered taking~them as an option.
-60080|0x004C412B|I chose to forego all the opportunities I had to rely on others â”€~the moments where I should have relied on others.
-60081|0x004C41AA|I chose to forego all the~opportunities I had to rely on~others â”€ the moments where I~should have relied on others.
+60080|0x004C412B|I chose to forego all the opportunities I had to rely on others „Ÿ~the moments where I should have relied on others.
+60081|0x004C41AA|I chose to forego all the~opportunities I had to rely on~others „Ÿ the moments where I~should have relied on others.
 60082|0x004C422E|So there is only one thing for me to do now.
 60083|0x004C4265|So there is only one thing for~me to do now.
 60084|0x004C42A1|Seize that hand.
 60085|0x004C42BC|Seize that hand.
 60086|0x004C42DC|Don't lose her.
 60087|0x004C42F6|Don't lose her.
-60088|0x004C4339|Never let go againâ”€
-60089|0x004C4358|Never let go againâ”€
+60088|0x004C4339|Never let go again„Ÿ
+60089|0x004C4358|Never let go again„Ÿ
 60090|0x004C43D3|
 60091|0x004C43DB|
 60092|0x004C4439|Monday, the 3rd of September. That date marked the beginning of the~new school semester.
@@ -5918,7 +5918,7 @@
 60813|0x004D3426|I took a spoonful and tasted~it.
 60814|0x004D3470|How is it?
 60815|0x004D3485|How is it?
-60816|0x004D34A9|You can really feel the thick cream ooze out of the crispy surface and~blend together with it on your tongue to create this absolutely~exquisite harmony ofâ”€
+60816|0x004D34A9|You can really feel the thick cream ooze out of the crispy surface and~blend together with it on your tongue to create this absolutely~exquisite harmony of„Ÿ
 60817|0x004D3551|You can really feel the thick~cream ooze out of the crispy~surface and blend together with~it on your tongue to create
 60818|0x004D35F1|...I just wanna know if it's good or bad.
 60819|0x004D3625|...I just wanna know if it's~good or bad.
@@ -6648,7 +6648,7 @@
 61543|0x004E0D11|The moment I took a bite, a~smile finally blossomed on~Asuho's face.
 61544|0x004E0D7F|What do you think?
 61545|0x004E0D9C|What do you think?
-61546|0x004E0DC8|The flavorful sweetness of chestnut and the artless sweetness of the~sweet potato blend together in this creamy mixture and create this~absolutely exquisite dance of harmony on my tongue thatâ”€
+61546|0x004E0DC8|The flavorful sweetness of chestnut and the artless sweetness of the~sweet potato blend together in this creamy mixture and create this~absolutely exquisite dance of harmony on my tongue that„Ÿ
 61547|0x004E0E94|The flavorful sweetness of~chestnut and the artless~sweetness of the sweet potato~blend together in this creamy
 61548|0x004E0F42|...All I am asking for is a simple good or bad.
 61549|0x004E0F7C|...All I am asking for is a~simple good or bad.
@@ -7334,8 +7334,8 @@
 62229|0x004EDEC7|......
 62230|0x004EDEF9|Asuho proceeded to do the same, opening the drawer.
 62231|0x004EDF37|Asuho proceeded to do the same,~opening the drawer.
-62232|0x004EDFC3|Inside were two wish cards â”€ her own, and You's.
-62233|0x004EDFFF|Inside were two wish cards â”€~her own, and You's.
+62232|0x004EDFC3|Inside were two wish cards „Ÿ her own, and You's.
+62233|0x004EDFFF|Inside were two wish cards „Ÿ~her own, and You's.
 62234|0x004EE040|After she failed to return it to him back then, she had placed it in~there.
 62235|0x004EE096|After she failed to return it~to him back then, she had~placed it in there.
 62236|0x004EE0F1|And closed it with a thud.
@@ -8750,8 +8750,8 @@
 63645|0x005089B4|Waaah...
 63646|0x005089CC|She started crying.
 63647|0x005089EA|She started crying.
-63648|0x00508A17|Whaâ”€ Why?!
-63649|0x00508A2D|Whaâ”€ Why?!
+63648|0x00508A17|Wha„Ÿ Why?!
+63649|0x00508A2D|Wha„Ÿ Why?!
 63650|0x00508A54|Sniff... hic...
 63651|0x00508A6E|Sniff... hic...
 63652|0x00508A8D|There was no end to Asuho's tears.
@@ -9378,7 +9378,7 @@
 64273|0x00513972|Onii-chan, Onii-chan,~Onii-chaaaaaan!
 64274|0x00513A06|My dimwit sister, who I hadn't seen for a short while, came charging~at us.
 64275|0x00513A5C|My dimwit sister, who I hadn't~seen for a short while, came~charging at us.
-64276|0x00513ADC|Short time no see, huh, Onii-chan! I was worried you might be sobbing~into your pillow from missing me so much! I'm such a darling, aren't~I?! Such a sweet sister?! All you gotta do is ask nicely and I'll~sleep with you tonight soâ”€
+64276|0x00513ADC|Short time no see, huh, Onii-chan! I was worried you might be sobbing~into your pillow from missing me so much! I'm such a darling, aren't~I?! Such a sweet sister?! All you gotta do is ask nicely and I'll~sleep with you tonight so„Ÿ
 64277|0x00513BCF|Short time no see, huh,~Onii-chan! I was worried you~might be sobbing into your~pillow from missing me so much!
 64278|0x00513C58|Uh, do we know each other?
 64279|0x00513C7D|Uh, do we know each other?
